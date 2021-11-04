@@ -1,0 +1,82 @@
+Solr Field,Name in Application,Description,"Example 
+(what you see in GBL record)",Valid Values,ISO Metadata Element,Esri Metadata Element,ArcCatalog Entry
+dc_identifier_s,Identifier,"Unique identifier for layer as a URI. If available and appropriately unique, the original ID for a resource will be used. Otherwise, a new one is generated.",88BE73DE-EF76-48AE-ACA9-DCB7D0499AD5,File Identifier generated from ArcCatalog,MD_Metadata/fileIdentifier,<metadata><mdFileID>,Metadata -- Details -- File Identifier
+dc_rights_s,Rights,"All records are ""Public""",Public,"""Public""","N/A - hardcoded into JSON file directly during transformation
+",N/A,N/A
+dc_title_s,Title,Titles for GIS data are often changed to the format theme:place. Dates can be added at the end if the dataset is for a specific time period.  Most dates or numbers are moved from the beginning of the title to facilitate browsing in the geoportal.  Titles for scanned maps are not altered from their official title in a library catalog.,"Addresses Barron County, WI 2018",,MD_Metadata/identificationInfo/MD_DataIdentification/citation/CI_Citation/title,<metadata><dataIdInfo><idCitation><resTitle>,Overview -- Citation -- Title
+dct_provenance_s,Held By,The name of the institution that holds the resource or acts as the custodian for DATA.  Note: this differs from other organizations that use this fo the holder of the metadata.,UW-Madison Robinson Map Library,"""UW-Madison Robinson Map Library"", ""WisconsinView"",""UW Digital Collections Center""
+
+Can also be a county, county office, state agency, RPC, etc. that holds that particular dataset we catalog","Hardcoded during ISO to GBL transformation.  Records ""scanned"" from Esri open data sites are also hardcoded during that process.",N/A,N/A
+geoblacklight_version,Schema Version,"Indicates which version of the GeoBlacklight schema is in use. Currently version ""1.0""",1,,N/A - hardcoded into JSON file directly during transformation,N/A,N/A
+layer_slug_s,Slug,This is a string appended to the base URL of a GeoBlacklight installation to create a unique landing page for each resource. It is visible to the user and is used for Permalinks.,88BE73DE-EF76-48AE-ACA9-DCB7D0499AD5,,MD_Metadata/fileIdentifier,<metadata><mdFileID>,Metadata -- Details -- File Identifier
+solr_geom,Bounding Box,"These are four coordinates forming the rectangular geographic extents. They should be provided as decimal degrees in the form W,S,E,N. This is the same format as the CSV output setting on the Klokan Bounding Box. Note: when the metadata is transformed to a GeoBlacklight JSON, the coordinates are reordered into the format W,E,N,S.","ENVELOPE(-92.172937, -91.528664, 45.649698, 45.197177)",,"MD_Metadata/identificationInfo/MD_DataIdentification/extent/EX_Extent/geographicElement/EX_GeographicBoundingBox/westBoundLongitude/gco:Decimal
+MD_Metadata/identificationInfo/MD_DataIdentification/extent/EX_Extent/geographicElement/EX_GeographicBoundingBox/southBoundLatitude/gco:Decimal
+MD_Metadata/identificationInfo/MD_DataIdentification/extent/EX_Extent/geographicElement/EX_GeographicBoundingBox/eastBoundLongitude/gco:Decimal
+MD_Metadata/identificationInfo/MD_DataIdentification/extent/EX_Extent/geographicElement/EX_GeographicBoundingBox/northBoundLatitude/gco:Decimal","<metadata><dataIdInfo><dataExt><geoEle><GeoBndBox><westBL>
+<metadata><dataIdInfo><dataExt><geoEle><GeoBndBox><southBL>
+<metadata><dataIdInfo><dataExt><geoEle><GeoBndBox><eastBL>
+<metadata><dataIdInfo><dataExt><geoEle><GeoBndBox><northBL>",Resource -- Extents -- Bounding Box
+dc_creator_sm,Created By,"We use just one entry. For GIS data and maps, we use the UW Name Authority table to populate ",Barron County,,MD_Metadata/identificationInfo/MD_DataIdentification/citation/CI_Citation/citedResponsibleParty/CI_ResponsibleParty,<metadata><dataIdInfo><idCitation><citRespParty><rpOrgName>,Overview -- Resource Citation Contacts: Contact Name -- Contact Role = 'Originator'
+dc_description_s,Description,"At minimum, this is a reiteration of the title in sentence format. Other relevant information, such as data creation methods, data sources, and special licenses, may also be included.  These are plain text fields, so HTML formatting is removed.  The description may be a concatenation of multiple fields from another metadata format to include things such as scale, rights, or purpose. If no description is available, it can be created by combining metadata elements: Geometry type, format, theme, place, date, publisher.","This point data layer represents street addresses for Barron County in 2018. It is a feature class within the geodatabase, Barron_Addresses_2018.gdb. Incude any original metadata form data provider in [ ] brackets.",,MD_Metadata/identificationInfo/MD_DataIdentification/abstract/gco:CharacterString,<metadata><dataIdInfo><idCitation><idAbs>,Overview -- Item Description -- Description (Abstract)
+dc_format_s,Format,"This indicates the file format of the data. If unknown or multiple, the term ""Files"" is used.",Geodatabase,,MD_Metadata/distributionInfo/MD_Distribution/distributionFormat/MD_Format/name,<metadata><distInfo><distFormat><formatName>,Resource -- Distribution -- Distribution Format -- Format Name
+dc_language_sm,Language,"Indicates the language of the data or map spelled out in English. (Ex. ""French"")",English,"""English""",N/A - hardcoded into JSON file directly during transformation,N/A,N/A
+dc_publisher_sm,Publisher,"The administrative body or organization that made the original resource available. Choose from the state, county, city, regional organization, NGO, or name of University/College",BLANK - WE DO NOT USE THIS FIELD,,Does not show up in GBL. MD_Metadata/identificationInfo/MD_DataIdentification/citation/CI_Citation/citedResponsibleParty/CI_ResponsibleParty  (This maps to the same ISO field as dc_creator) ,<metadata><dataIdInfo><idCitation><citRespParty><rpOrgName>,Overview -- Resource Citation Contacts: Contact Name -- Contact Role = 'Originator'
+dc_source_sm,Source,This is used for parent/child relationships and activates the Data Relations widget in GeoBlacklight.,BLANK - WE DO NOT USE THIS FIELD,,Does not show up in GBL. Metadata/parentIdentifier,<metadata><mdParentID>,Metadata -- Details -- Parent Identifier (we currenty do not use/populate this field. It is located just below the file identifier entry)
+dc_subject_sm,Subject, ,"[""Location"",""Street addresses""]",,"MD_Metadata/identificationInfo/MD_DataIdentification/topicCategory/MD_TopicCategoryCode
+",<metadata><dataIdInfo><tpCat><topicCatCd>,Metadata -- Topics and Keywords -- Topic Category (check box)
+dc_type_s,Type,"Uses Dublin Core Type vocabulary: Dataset, Image, Service, Collection, Interactive Resource",Dataset,,"Can come from one of multiple places:
+
+contains(MD_Metadata/hierarchyLevelName/gco:CharacterString, 'dataset')
+contains(MD_Metadata/hierarchyLevelName/gco:CharacterString, 'Dataset')
+contains(MD_Metadata/hierarchyLevelName/gco:CharacterString, 'service')
+contains(MD_Metadata/hierarchyLevelName/gco:CharacterString, 'Service')
+
+",<metadata><mdHrLvName>,"Metadata -- Details -- Heirarchy Level (pre-populated by ArcCatalog, we do not enter this - but we could edit it if need be. I think Arc automatically senses what it should be)"
+dct_isPartOf_sm,Is Part Of,Collection name,"[""Aerial Imagery"",""Coastal"", ""Statewide""]",,"MD_Metadata/identificationInfo/MD_DataIdentification/citation/CI_Citation/collectiveTitle
+",<metadata><dataIdInfo><idCitation><collTitle>,Overview -- Resource Citation -- Collective Title
+dct_issued_dt,Date Issued,This is the publication date for the resource in the format YYYY-MM-DD,BLANK - WE DO NOT USE THIS FIELD,,,,
+dct_references_s,References,This element is a hash of key/value pairs for different types of external links. It external services and references using the CatInterOp approach.,"{\""http://schema.org/downloadUrl\"":\""https://gisdata.wisc.edu/public/Barron_Addresses_2018.zip\"",\""http://www.isotc211.org/schemas/2005//\"":\""http://64.90.181.107/geonetwork/srv/api/records/88BE73DE-EF76-48AE-ACA9-DCB7D0499AD5/formatters/xml\""}",,"MD_DigitalTransferOptions/:onLine/CI_OnlineResource
+
+metadata online linkage hardcoded into GBL record",<metadata><distInfo><distTransOps><onLineSrc><linkage>,Resource -- Distribution -- Distribution Information -- Digital Transfer Options -- Online Resource
+dct_spatial_sm,Spatial Coverage,Place name keywords are specified out to the nation level for all terms. ,BLANK - WE DO NOT USE THIS FIELD,,"MD_Metadata/identificationInfo/MD_DataIdentification/descriptiveKeywords/MD_Keywords[type/MD_KeywordTypeCode[@codeListValue = 'place']][thesaurusName/CI_Citation/title[text() = 'GeoNames']]/keyword""
+
+MD_Metadata/identificationInfo/MD_DataIdentification/descriptiveKeywords/MD_Keywords/type/MD_KeywordTypeCode[@codeListValue = 'place']
+
+","<metadata><dataIdInfo><searchKeys><keyword>
+
+<metadata>",Overview -- Topics and Keywords -- Place Keywords 
+dct_temporal_sm,Temporal Coverage,"Free form text string to represent the ""Ground Condition"" of the resource, meaning the time period data was collected or is intended to represent. This can be formatted any way that clarifies the time period. ","[""2018""]",,"substring(MD_Metadata/identificationInfo/MD_DataIdentification/extent/EX_Extent/temporalElement/EX_TemporalExtent/extent/gml:TimePeriod/gml:beginPosition, 1, 4)
+
+substring(MD_Metadata/identificationInfo/MD_DataIdentification/extent/EX_Extent/temporalElement/EX_TemporalExtent/extent/gml:TimePeriod/gml:endPosition, 1, 4)","<metadata><dataIdInfo><dataExt><temEle><TempExtent><exTemp><TM_Instant><tmPosition>
+
+<metadata>",Resource -- Extents -- Temporal Instant Extent (or) Temporal Period Extent (for date range)
+layer_geom_type_s,Geometry Type,"Chosen from: Point, Line, Polygon, Raster, Image, or Mixed",Point,,"The XSLT translates and outputs polygon, line, point, or raster based on these fields:
+
+MD_Metadata/spatialRepresentationInfo/MD_VectorSpatialRepresentation/geometricObjects/MD_GeometricObjects/geometricObjectType/MD_GeometricObjectTypeCode[@codeListValue='composite'  (Polygon)
+
+contains(MD_Metadata/spatialRepresentationInfo/MD_VectorSpatialRepresentation/geometricObjects/MD_GeometricObjects/geometricObjectType/MD_GeometricObjectTypeCode, 'composite'  (Polygon)
+
+MD_Metadata/spatialRepresentationInfo/MD_VectorSpatialRepresentation/geometricObjects/MD_GeometricObjects/geometricObjectType/MD_GeometricObjectTypeCode[@codeListValue='line']  (Line)
+
+contains(MD_Metadata/spatialRepresentationInfo/MD_VectorSpatialRepresentation/geometricObjects/MD_GeometricObjects/geometricObjectType/MD_GeometricObjectTypeCode, 'line')  (Line)
+
+MD_Metadata/spatialRepresentationInfo/MD_VectorSpatialRepresentation/geometricObjects/MD_GeometricObjects/geometricObjectType/MD_GeometricObjectTypeCode[@codeListValue='point']  (Point)
+
+contains(MD_Metadata/spatialRepresentationInfo/MD_VectorSpatialRepresentation/geometricObjects/MD_GeometricObjects/geometricObjectType/MD_GeometricObjectTypeCode, 'point')  (Point)
+
+contains(MD_Metadata/identificationInfo/MD_DataIdentification/spatialRepresentationType/MD_SpatialRepresentationTypeCode, 'grid')  (Raster)
+
+",<metadata><spatRepInfo><vectSpatRep><geometObjs><geoObjTyp><GeoObjTypCd>,Resource -- Spatial Data Representation -- Vector Representation                --OR--              Resource -- Spatial Data Representation -- Grid Representation    (ArcCatalog fills this in automatically. We do not enter anything for this field)
+layer_id_s,Layer ID,This indicates the layer name of GeoServer web services.  The layer ID is appended to WMS/WFS services.,,,MD_Metadata/dataSetURI,<metadata><dataSetURI>,Metadata -- Details -- Dataset URI
+layer_modified_dt,Modified Date,Last modification date for the metadata record.  The time MUST be included even if there is no specific time associated with the dataset.,BLANK - WE DO NOT USE THIS FIELD,,,,
+solr_year_i,Solr Year,"This is an integer field in the form YYYY that is used for indexing in the Year & Time Period facets. *RML will select year - if date of content is a range, we will select either beginning or ending date.",2018,,"Can come from one of multiple places:
+gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:extent/gmd:EX_Extent/gmd:temporalElement/gmd:EX_TemporalExtent/gmd:extent/gml:TimePeriod/gml:beginPosition
+
+gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:extent/gmd:EX_Extent/gmd:temporalElement/gmd:EX_TemporalExtent/gmd:extent/gml:TimePeriod/gml:endPosition
+
+gmd:MD_Metadata/gmd:identificationInfo/gmd:MD_DataIdentification/gmd:extent/gmd:EX_Extent/gmd:temporalElement/gmd:EX_TemporalExtent/gmd:extent/gml:TimeInstant",<metadata><dataIdInfo><dataExt><tempEle><TempExtent><exTemp><TM_Instant><tmPosition>,Resource -- Extents -- Temporal Instant Extent (or) Temporal Period Extent (for date range)
+UW_supplemental_s,Additional Info,Contains supplemental information pulled directly from metadata record.,"Ex: Augmented original metadata with UW-Madison specific elements. 
+
+Ex: For access to the most current data for this county, please visit: https://www.bayfieldcounty.org/892/GIS-Data-Download                                                                                                      Ex:This data was submitted to the UW geospatial archive in 2019. Content may be considered current as of December 31, 2018. It was published to the UW geospatial archive as part of the Wisconsin Department of Administration Land Information Program annual collection of public data for the year 2019 ",any text string,MD_Metadata/identificationInfo/MD_DataIdentification/supplementalInformation/gco:CharacterString,<metadata><dataIdInfo><suppInfo>,Resource -- Details -- Supplemental Information
+UW_notice_s,[not displayed],"Used to display a warning, disclaimer, or any other informational notice to the user on the ""show"" page. Scanned records.",,any text string,,,
+UW_deprioritize_item_b,[not displayed],"By applying a boolean ""true""  to this field, all other items in the search results are boosted, thereby lowering all items flagged as true in the search results.  This is used to prevent large collections from overwhelming search results.",TRUE,true or false,,,
