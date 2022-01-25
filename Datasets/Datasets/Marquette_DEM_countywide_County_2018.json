@@ -1,0 +1,39 @@
+{
+ "geoblacklight_version": "1.0",
+ "dc_identifier_s": "3adc5e78-5383-494a-b395-4b1365a529cf",
+ "dc_title_s":  "LiDAR-Derived Countywide DEM for Marquette County, WI 2018",
+ "dc_description_s": "This data represents a LiDAR-derived countywide Digital Elevation Model (DEM) for Marquette County, Wisconsin in 2018. A DEM represents the bare-Earth surface, removing all natural and built features. This dataset contains a single file covering the geographic extent of the entire county.",
+ "dc_rights_s": "Public",
+ "dct_provenance_s": "WisconsinView",
+ "layer_id_s": "",
+ "layer_slug_s": "3adc5e78-5383-494a-b395-4b1365a529cf",
+ "layer_geom_type_s": "Raster",
+"layer_modified_dt": "2022-01-22T20:12:43Z",
+ "dc_format_s": "DEM",
+ "dc_language_s": "English",
+ "dct_isPartOf_sm": [
+  "Wisconsin Elevation Data"
+ ],
+ "dc_creator_sm": [
+  "Federal Emergency Management Agency"
+ ],
+ "dc_publisher_sm": "",
+ "dc_type_s": "Dataset",
+ "dc_subject_sm": [
+  "Elevation"
+ ],
+ "dct_spatial_sm": [
+  ""
+ ],
+ "dct_temporal_sm": [
+  "2018"
+ ],
+ "solr_year_i": 2018,
+ "dct_issued_s": "",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://bin.ssec.wisc.edu/pub/wisconsinview/lidar/Marquette/Marquette_2018_TNM_Download/Raster_DEM_County_UTM16/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Marquette_LIDAR_County_2018.xml\"}",
+ "solr_geom": "ENVELOPE(-89.6009568072,-86.8040527501,45.4292964698,43.6413918935)",
+ "thumbnail_path_ss": "",
+ "uw_supplemental_s": "",
+ "uw_notice_s": "",
+ "uw_deprioritize_item_b": false
+}
