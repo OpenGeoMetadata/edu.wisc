@@ -1,0 +1,39 @@
+{
+ "geoblacklight_version": "1.0",
+ "dc_identifier_s": "c9fb3278-fe07-4c7a-b5bd-998d164ea9d2",
+  "dc_title_s": "LiDAR-Derived Classified LAS (ESRI) for Sawyer County, WI 2017",
+ "dc_description_s": "This data represents LiDAR-derived classified LAS points (ESRI format) for Sawyer County, Wisconsin in 2017. Point classification uses semi-automated techniques on the point cloud to assign the feature type associated with each point. LiDAR points can be classified into a number of categories including bare earth or ground, top of canopy, and water. The different classes are defined using numeric integer codes in the LAS files.",
+ "dc_rights_s": "Public",
+ "dct_provenance_s": "WisconsinView",
+ "layer_id_s": "",
+ "layer_slug_s": "c9fb3278-fe07-4c7a-b5bd-998d164ea9d2",
+ "layer_geom_type_s": "Point",
+ "layer_modified_dt": "2022-05-11T12:44:00Z",
+ "dc_format_s": "LAS",
+ "dc_language_s": "English",
+ "dct_isPartOf_sm": [
+  "Wisconsin Elevation Data"
+ ],
+ "dc_creator_sm": [
+  "Sawyer County"
+ ],
+ "dc_publisher_sm": "",
+ "dc_type_s": "Dataset",
+ "dc_subject_sm": [
+  "Elevation"
+ ],
+ "dct_spatial_sm": [
+  ""
+ ],
+ "dct_temporal_sm": [
+  "2017"
+ ],
+ "solr_year_i": 2017,
+ "dct_issued_s": "",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/sawyer-2017-PointsClassifiedLASESRI.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Sawyer_LIDAR_USGS_2017.xml\"}",
+ "solr_geom": "ENVELOPE(-91.55189102,-90.67633383,46.15790841,45.63753507)",
+ "thumbnail_path_ss": "",
+ "uw_supplemental_s": "",
+ "uw_notice_s": "",
+ "uw_deprioritize_item_b": false
+}

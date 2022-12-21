@@ -1,0 +1,39 @@
+{
+ "geoblacklight_version": "1.0",
+ "dc_identifier_s": "7662af84-ebdf-48e5-a8dc-0e4b3ae9f2a9",
+ "dc_title_s": "LiDAR-Derived Intensity Images for Eau Claire County, WI 2013",
+ "dc_description_s": "This data represents LiDAR-derived intensity images for Eau Claire County, Wisconsin in 2013. LiDAR intensity is recorded as the return strength of a laser beam. It is a bi-product, provided as an integer number between 1-256. This number varies with the composition of the surface object reflecting the laser beam. A low number indicates low reflectivity while a high number indicates high reflectivity. The intensity of the laser beam return can also be affected by the angle of arrival (scan angle), range, surface composition, roughness, and moisture content.",
+ "dc_rights_s": "Public",
+ "dct_provenance_s": "WisconsinView",
+ "layer_id_s": "",
+ "layer_slug_s": "7662af84-ebdf-48e5-a8dc-0e4b3ae9f2a9",
+ "layer_geom_type_s": "Raster",
+"layer_modified_dt": "2022-01-22T20:12:43Z",
+ "dc_format_s": "GeoTIFF",
+ "dc_language_s": "English",
+ "dct_isPartOf_sm": [
+  "Wisconsin Elevation Data"
+ ],
+ "dc_creator_sm": [
+  "Eau Claire County"
+ ],
+ "dc_publisher_sm": "",
+ "dc_type_s": "Dataset",
+ "dc_subject_sm": [
+  "Elevation"
+ ],
+ "dct_spatial_sm": [
+  ""
+ ],
+ "dct_temporal_sm": [
+  "2013"
+ ],
+ "solr_year_i": 2013,
+ "dct_issued_s": "",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/Eau_Claire_Intensity_Images_tiled_2013.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/EauClaire_LIDAR_County_2013.xml\"}",
+ "solr_geom": "ENVELOPE(-91.65049307,-90.92113948,44.8577283,44.5958)",
+ "thumbnail_path_ss": "",
+ "uw_supplemental_s": "",
+ "uw_notice_s": "",
+ "uw_deprioritize_item_b": false
+}

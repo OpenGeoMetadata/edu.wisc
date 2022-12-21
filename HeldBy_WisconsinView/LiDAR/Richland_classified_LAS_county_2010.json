@@ -1,0 +1,39 @@
+{
+ "geoblacklight_version": "1.0",
+ "dc_identifier_s": "a284ba9c-6692-4c5c-a618-38d1681581dc",
+ "dc_title_s": "LiDAR-Derived Classified LAS for Richland County, WI 2010",
+ "dc_description_s": "This data represents LiDAR-derived classified LAS points for Richland County, Wisconsin in 2010. Point classification uses semi-automated techniques on the point cloud to assign the feature type associated with each point. LiDAR points can be classified into a number of categories including bare earth or ground, top of canopy, and water. The different classes are defined using numeric integer codes in the LAS files.",
+ "dc_rights_s": "Public",
+ "dct_provenance_s": "WisconsinView",
+ "layer_id_s": "",
+ "layer_slug_s": "a284ba9c-6692-4c5c-a618-38d1681581dc",
+ "layer_geom_type_s": "Point",
+"layer_modified_dt": "2022-01-22T20:12:43Z",
+ "dc_format_s": "LAS",
+ "dc_language_s": "English",
+ "dct_isPartOf_sm": [
+  "Wisconsin Elevation Data"
+ ],
+ "dc_creator_sm": [
+  "Richland County"
+ ],
+ "dc_publisher_sm": "",
+ "dc_type_s": "Dataset",
+ "dc_subject_sm": [
+  "Elevation"
+ ],
+ "dct_spatial_sm": [
+  ""
+ ],
+ "dct_temporal_sm": [
+  "2010"
+ ],
+ "solr_year_i": 2010,
+ "dct_issued_s": "",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/richland-2010-PointsClassifiedLAS.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Richland_LIDAR_County_2010.xml\"}",
+ "solr_geom": "ENVELOPE(-90.67165496,-90.19169558,43.55498397,43.16402256)",
+ "thumbnail_path_ss": "",
+ "uw_supplemental_s": "",
+ "uw_notice_s": "",
+ "uw_deprioritize_item_b": false
+}

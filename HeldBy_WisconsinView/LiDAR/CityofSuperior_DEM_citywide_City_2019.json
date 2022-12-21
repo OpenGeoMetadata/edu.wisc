@@ -1,0 +1,39 @@
+{
+ "geoblacklight_version": "1.0",
+ "dc_identifier_s": "dce7feb8-ddea-4fd5-aff1-3e67075d2d47",
+ "dc_title_s": "LiDAR-Derived Citywide DEM for City of Superior (Douglas County), WI 2019",
+ "dc_description_s": "This data represents a LiDAR-derived citywide Digital Elevation Model (DEM) for the City of Superior in Douglas County, Wisconsin in 2019. A DEM represents the bare-Earth surface, removing all natural and built features. This dataset contains a single file covering the geographic extent of the entire county.",
+ "dc_rights_s": "Public",
+ "dct_provenance_s": "WisconsinView",
+ "layer_id_s": "",
+ "layer_slug_s": "dce7feb8-ddea-4fd5-aff1-3e67075d2d47",
+ "layer_geom_type_s": "Raster",
+"layer_modified_dt": "2022-01-22T20:12:43Z",
+ "dc_format_s": "GeoTIFF",
+ "dc_language_s": "English",
+ "dct_isPartOf_sm": [
+  "Wisconsin Elevation Data", "Coastal"
+ ],
+ "dc_creator_sm": [
+  "City of Superior"
+ ],
+ "dc_publisher_sm": "",
+ "dc_type_s": "Dataset",
+ "dc_subject_sm": [
+  "Elevation"
+ ],
+ "dct_spatial_sm": [
+  ""
+ ],
+ "dct_temporal_sm": [
+  "2019"
+ ],
+ "solr_year_i": 2019,
+ "dct_issued_s": "",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://bin.ssec.wisc.edu/pub/wisconsinview/lidar/Douglas/CityofSuperior_2019_City_Delivery/Raster_DEM/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/CityofSuperior_LIDAR_City_2019.xml\"}",
+ "solr_geom": "ENVELOPE(-92.2060477278556,-91.93172734907797,46.749550308162696,46.647641375377034)",
+ "thumbnail_path_ss": "",
+ "uw_supplemental_s": "",
+ "uw_notice_s": "",
+ "uw_deprioritize_item_b": false
+}

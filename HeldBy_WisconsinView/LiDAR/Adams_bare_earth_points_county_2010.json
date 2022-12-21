@@ -1,0 +1,39 @@
+{
+ "geoblacklight_version": "1.0",
+ "dc_identifier_s": "3044e642-0f54-462d-b8a8-3f1b32157dd0",
+ "dc_title_s": "LiDAR-Derived Bare Earth Points for Adams County, WI 2010",
+ "dc_description_s": "This data represents LiDAR-derived bare earth points for Adams County, Wisconsin in 2010. Bare earth LiDAR is digital elevation data of the terrain surface consisting of irregularly spaced points, each with x/y location coordinates and z-value. The data have been subjected to automated and manual editing to remove vegetation, buildings, and other man-made structures. This data is available in both LAS and SHP formats.",
+ "dc_rights_s": "Public",
+ "dct_provenance_s": "WisconsinView",
+ "layer_id_s": "",
+ "layer_slug_s": "3044e642-0f54-462d-b8a8-3f1b32157dd0",
+ "layer_geom_type_s": "Point",
+"layer_modified_dt": "2022-01-22T20:12:43Z",
+ "dc_format_s": "LAS",
+ "dc_language_s": "English",
+ "dct_isPartOf_sm": [
+  "Wisconsin Elevation Data"
+ ],
+ "dc_creator_sm": [
+  "Adams County"
+ ],
+ "dc_publisher_sm": "",
+ "dc_type_s": "Dataset",
+ "dc_subject_sm": [
+  "Elevation"
+ ],
+ "dct_spatial_sm": [
+  ""
+ ],
+ "dct_temporal_sm": [
+  "2010"
+ ],
+ "solr_year_i": 2010,
+ "dct_issued_s": "",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/adams-2010-BareEarthPointsLAS.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Adams_LIDAR_County_2010.xml\"}",
+ "solr_geom": "ENVELOPE(-90.02882706,-89.5973126,44.24948618,43.64101773)",
+ "thumbnail_path_ss": "",
+ "uw_supplemental_s": "",
+ "uw_notice_s": "",
+ "uw_deprioritize_item_b": false
+}

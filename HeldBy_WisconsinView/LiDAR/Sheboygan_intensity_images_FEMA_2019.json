@@ -1,0 +1,39 @@
+{
+ "geoblacklight_version": "1.0",
+ "dc_identifier_s": "4bb709c6-d981-42d6-9222-b93f6175de36",
+ "dc_title_s": "LiDAR-Derived Intensity Images for Sheboygan County, WI 2019",
+ "dc_description_s": "This data represents LiDAR-derived intensity images for Sheboygan County, Wisconsin in 2019. LiDAR intensity is recorded as the return strength of a laser beam. It is a bi-product, provided as an integer number between 1-256. This number varies with the composition of the surface object reflecting the laser beam. A low number indicates low reflectivity while a high number indicates high reflectivity. The intensity of the laser beam return can also be affected by the angle of arrival (scan angle), range, surface composition, roughness, and moisture content.",
+ "dc_rights_s": "Public",
+ "dct_provenance_s": "WisconsinView",
+ "layer_id_s": "",
+ "layer_slug_s": "4bb709c6-d981-42d6-9222-b93f6175de36",
+ "layer_geom_type_s": "Raster",
+ "layer_modified_dt": "2022-01-22T20:12:43Z",
+ "dc_format_s": "GeoTIFF",
+ "dc_language_s": "English",
+ "dct_isPartOf_sm": [
+  "Wisconsin Elevation Data", "Coastal"
+ ],
+ "dc_creator_sm": [
+  "Federal Emergency Management Agency"
+ ],
+ "dc_publisher_sm": "",
+ "dc_type_s": "Dataset",
+ "dc_subject_sm": [
+  "Elevation"
+ ],
+ "dct_spatial_sm": [
+  ""
+ ],
+ "dct_temporal_sm": [
+  "2019"
+ ],
+ "solr_year_i": 2019,
+ "dct_issued_s": "",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/sheboygan-2019-IntensityImages.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Sheboygan_LIDAR_FEMA_2019.xml\"}",
+ "solr_geom": "ENVELOPE(-88.1832098149,-87.6744287876,43.9180963851,43.5223977786)",
+ "thumbnail_path_ss": "",
+ "uw_supplemental_s": "",
+ "uw_notice_s": "",
+ "uw_deprioritize_item_b": false
+}

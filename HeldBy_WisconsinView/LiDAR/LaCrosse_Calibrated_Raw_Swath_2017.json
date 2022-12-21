@@ -1,0 +1,39 @@
+{
+ "geoblacklight_version": "1.0",
+ "dc_identifier_s": "d7721bfb-fe2c-462d-a4a2-ed730c24085c",
+ "dc_title_s": "LiDAR-Derived Calibrated Raw Swath for La Crosse County, WI 2017",
+ "dc_description_s": "This data represents (calibrated) raw swath LAS files for La Crosse County, Wisconsin in 2017. Each flight line (swath) contains a series of raw point cloud files in LAS format. Swath areas of data collection are part of the raw data deliverable from a lidar acquisition project. Typically, no points are deleted from the raw swath collection, with a few exceptions for extraneous data such as outliers, blunders, noise points, or geometrically unreliable points near the extreme edge of the swath.",
+ "dc_rights_s": "Public",
+ "dct_provenance_s": "WisconsinView",
+ "layer_id_s": "",
+ "layer_slug_s": "d7721bfb-fe2c-462d-a4a2-ed730c24085c",
+ "layer_geom_type_s": "Point",
+"layer_modified_dt": "2022-10-06T20:12:43Z",
+ "dc_format_s": "LAS",
+ "dc_language_s": "English",
+ "dct_isPartOf_sm": [
+  "Wisconsin Elevation Data"
+ ],
+ "dc_creator_sm": [
+  "U.S. Geological Survey"
+ ],
+ "dc_publisher_sm": "",
+ "dc_type_s": "Dataset",
+ "dc_subject_sm": [
+  "Elevation"
+ ],
+ "dct_spatial_sm": [
+  ""
+ ],
+ "dct_temporal_sm": [
+  "2017"
+ ],
+ "solr_year_i": 2017,
+ "dct_issued_s": "",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://bin.ssec.wisc.edu/pub/wisconsinview/lidar/La_Crosse/La_Crosse_2017_3DEP_Delivery/Calibrated_Raw_Swath/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/LaCrosse_LIDAR_USGS_2017.xml\"}",
+ "solr_geom": "ENVELOPE(-91.42535505,-90.91009489,44.09069486,43.72484592)",
+ "thumbnail_path_ss": "",
+ "uw_supplemental_s": "",
+ "uw_notice_s": "",
+ "uw_deprioritize_item_b": false
+}

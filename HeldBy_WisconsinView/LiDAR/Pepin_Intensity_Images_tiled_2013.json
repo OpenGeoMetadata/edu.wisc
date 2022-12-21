@@ -1,0 +1,39 @@
+{
+ "geoblacklight_version": "1.0",
+ "dc_identifier_s": "d14f491b-5a30-4571-92d9-5cc86d3d0dbc",
+ "dc_title_s": "LiDAR-Derived Intensity Images Pepin County, WI 2013",
+ "dc_description_s": "This data represents LiDAR-derived intensity images for Pepin County, Wisconsin in 2013. LiDAR intensity is recorded as the return strength of a laser beam. It is a bi-product, provided as an integer number between 1-256. This number varies with the composition of the surface object reflecting the laser beam. A low number indicates low reflectivity while a high number indicates high reflectivity. The intensity of the laser beam return can also be affected by the angle of arrival (scan angle), range, surface composition, roughness, and moisture content.",
+ "dc_rights_s": "Public",
+ "dct_provenance_s": "WisconsinView",
+ "layer_id_s": "",
+ "layer_slug_s": "d14f491b-5a30-4571-92d9-5cc86d3d0dbc",
+ "layer_geom_type_s": "Raster",
+ "layer_modified_dt": "2022-01-22T20:12:43Z",
+ "dc_format_s": "GeoTIFF",
+ "dc_language_s": "English",
+ "dct_isPartOf_sm": [
+  "Wisconsin Elevation Data"
+ ],
+ "dc_creator_sm": [
+  "Pepin County"
+ ],
+ "dc_publisher_sm": "",
+ "dc_type_s": "Dataset",
+ "dc_subject_sm": [
+  "Elevation"
+ ],
+ "dct_spatial_sm": [
+  ""
+ ],
+ "dct_temporal_sm": [
+  "2013"
+ ],
+ "solr_year_i": 2013,
+ "dct_issued_s": "",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/Pepin_Intensity_Images_tiled_2013.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Pepin_LIDAR_County_2013.xml\"}",
+ "solr_geom": "ENVELOPE(-92.318654,-91.648216,44.685939,44.403718)",
+ "thumbnail_path_ss": "",
+ "uw_supplemental_s": "",
+ "uw_notice_s": "",
+ "uw_deprioritize_item_b": false
+}
