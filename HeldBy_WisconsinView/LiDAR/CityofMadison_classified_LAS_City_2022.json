@@ -1,0 +1,39 @@
+{
+ "geoblacklight_version": "1.0",
+ "dc_identifier_s": "660e4c36-b3ee-4a9f-9a72-aea4562164af",
+ "dc_title_s": "LiDAR-Derived Classified LAS for the City of Madison, WI 2022",
+ "dc_description_s": "This data represents LiDAR-derived classified LAS points for the City of Madison, Wisconsin in 2022. Point classification uses semi-automated techniques on the point cloud to assign the feature type associated with each point. LiDAR points can be classified into a number of categories including bare earth or ground, top of canopy, and water. The different classes are defined using numeric integer codes in the LAS files.",
+ "dc_rights_s": "Public",
+ "dct_provenance_s": "WisconsinView",
+ "layer_id_s": "",
+ "layer_slug_s": "660e4c36-b3ee-4a9f-9a72-aea4562164af",
+ "layer_geom_type_s": "Point",
+"layer_modified_dt": "2022-01-22T20:12:43Z",
+ "dc_format_s": "LAS",
+ "dc_language_s": "English",
+ "dct_isPartOf_sm": [
+  "Wisconsin Elevation Data"
+ ],
+ "dc_creator_sm": [
+  "City of Madison"
+ ],
+ "dc_publisher_sm": "",
+ "dc_type_s": "Dataset",
+ "dc_subject_sm": [
+  "Elevation"
+ ],
+ "dct_spatial_sm": [
+  ""
+ ],
+ "dct_temporal_sm": [
+  "2022"
+ ],
+ "solr_year_i": 2022,
+ "dct_issued_s": "",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/CityofMadison_classified_LAS_City_2022.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/CityofMadison_LIDAR_City_2022.xml\"}",
+ "solr_geom": "ENVELOPE(-89.604600,-89.186212,43.196283,42.985217)",
+ "thumbnail_path_ss": "",
+ "uw_supplemental_s": "For detailed metadata please visit: https://bin.ssec.wisc.edu/pub/wisconsinview/lidar/Dane/Madison_2022_City_Delivery/Metadata/",
+ "uw_notice_s": "",
+ "uw_deprioritize_item_b": false
+}

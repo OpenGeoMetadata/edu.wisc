@@ -1,0 +1,39 @@
+{
+ "geoblacklight_version": "1.0",
+ "dc_identifier_s": "1e9e802b-50df-426f-8c07-1bed0be5f919",
+ "dc_title_s": "LiDAR-Derived Breaklines for Marinette County, WI 2021",
+ "dc_description_s": "This data represents LiDAR-derived breaklines in Marinette County, Wisconsin in 2021. Hydro breaklines maintain the definition of water-related features in an elevation model. They are used to capture linear discontinuities in the surface, lake shorelines, single-line drains for small rivers, and double-line drains for large rivers.",
+ "dc_rights_s": "Public",
+ "dct_provenance_s": "WisconsinView",
+ "layer_id_s": "",
+ "layer_slug_s": "1e9e802b-50df-426f-8c07-1bed0be5f919",
+ "layer_geom_type_s": "Line",
+ "layer_modified_dt": "",
+ "dc_format_s": "Shapefile",
+ "dc_language_s": "English",
+ "dct_isPartOf_sm": [
+  "Wisconsin Elevation Data", "Coastal"
+ ],
+ "dc_creator_sm": [
+  "U.S. Geological Survey"
+ ],
+ "dc_publisher_sm": "",
+ "dc_type_s": "Dataset",
+ "dc_subject_sm": [
+  "Elevation"
+ ],
+ "dct_spatial_sm": [
+  ""
+ ],
+ "dct_temporal_sm": [
+  "2021"
+ ],
+ "solr_year_i": 2021,
+ "dct_issued_s": "",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://bin.ssec.wisc.edu/pub/wisconsinview/lidar/Marinette/Marinette_2021_3DEP_Delivery/Hydro_Breaklines/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Marinette_LIDAR_USGS_2021.xml\"}",
+ "solr_geom": "ENVELOPE(-88.42809148,-87.48997276,45.79561761,44.96563712)",
+ "thumbnail_path_ss": "",
+ "uw_supplemental_s": "For detailed metadata please visit: https://bin.ssec.wisc.edu/pub/wisconsinview/lidar/Marinette/Marinette_2021_3DEP_Delivery/Metadata/",
+ "uw_notice_s": "",
+ "uw_deprioritize_item_b": false
+}

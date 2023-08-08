@@ -1,0 +1,39 @@
+{
+ "geoblacklight_version": "1.0",
+ "dc_identifier_s": "83437374-1d01-4ff3-8226-c66e05164e50",
+ "dc_title_s": "LiDAR-Derived Countywide 2-ft Bare Earth DEM (m) for Rusk County, WI 2020",
+ "dc_description_s": "This data represents a LiDAR-derived 2-ft Digital Elevation Model (DEM) for Rusk County, Wisconsin in 2020. This dataset has elevation values in meters and is in the WISCRS coordinate system for Rusk County: EPSG 9122. A DEM represents the bare-Earth surface, removing all natural and built features.",
+ "dc_rights_s": "Public",
+ "dct_provenance_s": "WisconsinView",
+ "layer_id_s": "",
+ "layer_slug_s": "83437374-1d01-4ff3-8226-c66e05164e50",
+ "layer_geom_type_s": "Raster",
+"layer_modified_dt": "2022-01-22T20:12:43Z",
+ "dc_format_s": "GeoTIFF",
+ "dc_language_s": "English",
+ "dct_isPartOf_sm": [
+  "Wisconsin Elevation Data"
+ ],
+ "dc_creator_sm": [
+  "Wisconsin Department of Administration - Geographic Information Office"
+ ],
+ "dc_publisher_sm": "",
+ "dc_type_s": "Dataset",
+ "dc_subject_sm": [
+  "Elevation"
+ ],
+ "dct_spatial_sm": [
+  ""
+ ],
+ "dct_temporal_sm": [
+  "2020"
+ ],
+ "solr_year_i": 2020,
+ "dct_issued_s": "",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://bin.ssec.wisc.edu/pub/wisconsinview/lidar/Rusk/Rusk_2020_WVP_Derived_Products/Rusk_Wiscrs_EPSG9122/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Rusk_LIDAR_USGS_2020.xml\"}",
+ "solr_geom": "ENVELOPE(-91.54119875,-90.67803372,45.63909861,45.29150977)",
+ "thumbnail_path_ss": "",
+ "uw_supplemental_s": "This lidar data dataset was created by the WisconsinView Partners (WVP) – the WI Department of Administration’s Geographic Information Office in collaboration with the UW-Madison Space Science and Engineering Center’s (SSEC) WisconsinView repository. Original lidar data in tiled format from federal or local county/city lidar projects were used to create countywide mosaics of datasets such as DEMS, Intensity images, and DSMs in various projections and coordinate systems.",
+ "uw_notice_s": "",
+ "uw_deprioritize_item_b": false
+}
