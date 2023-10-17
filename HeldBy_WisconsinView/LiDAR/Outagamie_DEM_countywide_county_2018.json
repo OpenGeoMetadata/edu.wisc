@@ -15,7 +15,7 @@
   "Wisconsin Elevation Data"
  ],
  "dc_creator_sm": [
-  "Outagamie County"
+  "Wisconsin Department of Administration - Geographic Information Office"
  ],
  "dc_publisher_sm": "",
  "dc_type_s": "Dataset",
@@ -33,7 +33,7 @@
  "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://bin.ssec.wisc.edu/pub/wisconsinview/lidar/Outagamie/Outagamie_2018_WVP_Derived_Products/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Outagamie_LIDAR_County_2018.xml\"}",
  "solr_geom": "ENVELOPE(-88.73983555,-88.18997896,44.59067723,44.24197413)",
  "thumbnail_path_ss": "",
- "uw_supplemental_s": "",
+ "uw_supplemental_s": "This lidar data dataset was created by the WisconsinView Partners (WVP) – the WI Department of Administration’s Geographic Information Office in collaboration with the UW-Madison Space Science and Engineering Center’s (SSEC) WisconsinView repository. Original lidar data in tiled format from federal or local county/city lidar projects were used to create countywide mosaics of datasets such as DEMS, Intensity images, and DSMs in various projections and coordinate systems.",
  "uw_notice_s": "",
  "uw_deprioritize_item_b": false
 }
