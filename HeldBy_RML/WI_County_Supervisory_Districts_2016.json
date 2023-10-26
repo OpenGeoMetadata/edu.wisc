@@ -29,8 +29,8 @@
 		"2016"
 	],
 	"solr_year_i": 2016,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_CountySupervisoryDistricts_2016.zip\",\"http://schema.org/url\":\"http://legis.wisconsin.gov/ltsb/gis/data/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_CountySupervisoryDistricts_2016.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_CountySupervisoryDistricts_2016.zip\",\"http://schema.org/url\":\"https://gis-ltsb.hub.arcgis.com/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_CountySupervisoryDistricts_2016.xml\"}",
 	"solr_geom": "ENVELOPE(-92.887059, -86.763988, 47.080713, 42.492686)",
-	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most recent version of the data, please visit: http://data.ltsb.opendata.arcgis.com/",
+	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most recent version of the data, please visit: https://gis-ltsb.hub.arcgis.com/",
 	"uw_notice_s": ""
 }
