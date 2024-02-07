@@ -1,0 +1,39 @@
+{
+ "geoblacklight_version": "1.0",
+ "dc_identifier_s": "1c5d9772-2ddc-4ca6-828b-4a560e6f9ac4",
+ "dc_title_s": "LiDAR-Derived 2-m Countywide Hillshade Image for Calumet County, WI 2005",
+ "dc_description_s": "This data represents LiDAR-derived countywide bare earth 2-m hillshde image for Calumet County, Wisconsin in 2005. This dataset is in WTM coordinates (EPSG 3071). Hillshading is a technique used to visualize terrain as shaded relief, illuminating it with a hypothetical light source. The illumination value for each raster cell is determined by its orientation to the light source, which is based on slope and aspect.",
+ "dc_rights_s": "Public",
+ "dct_provenance_s": "WisconsinView",
+ "layer_id_s": "",
+ "layer_slug_s": "1c5d9772-2ddc-4ca6-828b-4a560e6f9ac4",
+ "layer_geom_type_s": "Raster",
+"layer_modified_dt": "2023-12-14T20:12:43Z",
+ "dc_format_s": "GeoTIFF",
+ "dc_language_s": "English",
+ "dct_isPartOf_sm": [
+  "Wisconsin Elevation Data"
+ ],
+ "dc_creator_sm": [
+  "Wisconsin Department of Administration - Geographic Information Office"
+ ],
+ "dc_publisher_sm": "",
+ "dc_type_s": "Dataset",
+ "dc_subject_sm": [
+  "Elevation"
+ ],
+ "dct_spatial_sm": [
+  ""
+ ],
+ "dct_temporal_sm": [
+  "2005"
+ ],
+ "solr_year_i": 2005,
+ "dct_issued_s": "",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://bin.ssec.wisc.edu/pub/wisconsinview/lidar/Calumet/Calumet_2005_WVP_Derived_Products/Rasters_WTM_EPSG3071/Calumet2005_beDEM2m_HS_WTM.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Calumet_LIDAR_County_2005.xml\"}",
+ "solr_geom": "ENVELOPE(-88.404872, -88.03895, 44.244102, 43.891091)",
+ "thumbnail_path_ss": "",
+ "uw_supplemental_s": "This lidar data dataset was created by the WisconsinView Partners (WVP) – the WI Department of Administration’s Geographic Information Office in collaboration with the UW-Madison Space Science and Engineering Center’s (SSEC) WisconsinView repository. Original lidar data in tiled format from federal or local county/city lidar projects were used to create countywide mosaics of datasets such as DEMS, Intensity images, and DSMs in various projections and coordinate systems.",
+ "uw_notice_s": "",
+ "uw_deprioritize_item_b": false
+}

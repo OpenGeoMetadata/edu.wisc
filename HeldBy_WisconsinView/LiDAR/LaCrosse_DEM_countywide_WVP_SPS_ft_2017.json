@@ -1,0 +1,39 @@
+{
+ "geoblacklight_version": "1.0",
+ "dc_identifier_s": "40650ed6-29b0-4368-8ea3-e3046d4554a7",
+ "dc_title_s": "LiDAR-Derived Countywide 2-ft DEM (State Plane) (ft) for La Crosse County, WI 2017",
+ "dc_description_s": "This data represents a LiDAR-derived countywide bare earth 2-ft Digital Elevation Model (DEM) for La Crosse County, Wisconsin in 2017. This dataset is in State Plane coordinates (EPSG 6609) with elevation in feet. A DEM represents the bare-Earth surface, removing all natural and built features.",
+ "dc_rights_s": "Public",
+ "dct_provenance_s": "WisconsinView",
+ "layer_id_s": "",
+ "layer_slug_s": "40650ed6-29b0-4368-8ea3-e3046d4554a7",
+ "layer_geom_type_s": "Raster",
+"layer_modified_dt": "2023-12-18T20:12:43Z",
+ "dc_format_s": "GeoTIFF",
+ "dc_language_s": "English",
+ "dct_isPartOf_sm": [
+  "Wisconsin Elevation Data"
+ ],
+ "dc_creator_sm": [
+  "Wisconsin Department of Administration - Geographic Information Office"
+ ],
+ "dc_publisher_sm": "",
+ "dc_type_s": "Dataset",
+ "dc_subject_sm": [
+  "Elevation"
+ ],
+ "dct_spatial_sm": [
+  ""
+ ],
+ "dct_temporal_sm": [
+  "2017"
+ ],
+ "solr_year_i": 2017,
+ "dct_issued_s": "",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://bin.ssec.wisc.edu/pub/wisconsinview/lidar/La_Crosse/La_Crosse_2017_WVP_Derived_Products/Rasters_StatePlaneSouth_EPSG6609/La_Crosse2017_beDEM2ft_ELft_SPS.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/LaCrosse_LIDAR_USGS_2017.xml\"}",
+ "solr_geom": "ENVELOPE(-91.42535505,-90.91009489,44.09069486,43.72484592)",
+ "thumbnail_path_ss": "",
+ "uw_supplemental_s": "This lidar data dataset was created by the WisconsinView Partners (WVP) – the WI Department of Administration’s Geographic Information Office in collaboration with the UW-Madison Space Science and Engineering Center’s (SSEC) WisconsinView repository. Original lidar data in tiled format from federal or local county/city lidar projects were used to create countywide mosaics of datasets such as DEMS, Intensity images, and DSMs in various projections and coordinate systems.",
+ "uw_notice_s": "",
+ "uw_deprioritize_item_b": false
+}
