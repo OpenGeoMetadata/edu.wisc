@@ -9,10 +9,10 @@
 "layer_slug_s": "5BFAC181-AFF3-40D0-9F2D-C93E2F8D6100",
 "layer_geom_type_s": "Polygon",
 "layer_modified_dt": "2022-01-22T20:12:43Z",
-"dc_format_s": "Shapefile",
+"dc_format_s": "Geodatabase",
 "dc_language_s": "English",
 "dct_isPartOf_sm": ["Coastal"],
-"dc_creator_sm": ["Douglas County"],
+"dc_creator_sm": ["Wisconsin Department of Administration"],
 "dc_publisher_sm": "",
 "dc_type_s": "Dataset",
 "dc_subject_sm": ["Planning and Cadastral"],
@@ -22,6 +22,6 @@
 "solr_year_i": 2010,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Douglas_Parcels_2015.zip\",\"http://schema.org/url\":\"http://www.ci.superior.wi.us/474/Geospatial-Data-GIS\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Douglas_Parcels_2015.xml\"}",
 "solr_geom": "ENVELOPE(-92.297612, -91.547276, 46.757784, 46.156654)",
-"uw_supplemental_s": "This metadata was updated in fall of 2017 to reflect that the data is no longer restricted and has been opened for public use.Augmented original metadata with UW-Madison specific elements. For complete metadata documentation, please visit: http://www.ci.superior.wi.us/474/Geospatial-Data-GIS",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.", 
 "uw_notice_s": ""
 }

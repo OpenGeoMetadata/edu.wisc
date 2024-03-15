@@ -22,6 +22,6 @@
 "solr_year_i": 2014,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Trempealeau_LandUse_2014.zip\",\"http://schema.org/url\":\"https://co.trempealeau.wi.us/departments/administrative_departments/land_records/data.php\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Trempealeau_LandUse_2014.xml\"}",
 "solr_geom": "ENVELOPE(-91.61417, -91.150052, 44.597192, 43.983889)",
-"uw_supplemental_s": "This metadata was updated to reflect that the data is no longer restricted and has been opened for public use. For current dataset download, please visit: http://www.tremplocounty.com/tchome/landrecords/data.aspx",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data available, please visit: https://co.trempealeau.wi.us/departments/administrative_departments/land_records/data.php",
 "uw_notice_s": ""
 }

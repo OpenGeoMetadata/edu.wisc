@@ -22,6 +22,6 @@
 "solr_year_i": 2016,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Manitowoc_Parcels_2016.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Manitowoc_Parcels_2016.xml\"}",
 "solr_geom": "ENVELOPE(-88.054702, -87.501925, 44.337089, 43.881609)",
-"uw_supplemental_s": "Augmented original metadata with UW-Madison specific elements. [Manitowoc Countymakes no warranties or representations of any kind whatsoever, expressed or implied, about the accuracy or quality of any data set or its fitness for a particular purpose. All data sets are provided 'as is' and the county and its co-producers will not, in any event, be liable in any way for consequential, direct, incidental, special, or any other damages in connection with use of any data set.]",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""
 }

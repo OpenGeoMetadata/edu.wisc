@@ -22,6 +22,6 @@
 "solr_year_i": 2016,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Oneida_Trails_2016.zip\",\"http://schema.org/url\":\"http://www.co.oneida.wi.us/departments/li/land-records-system/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Oneida_Trails_2016.xml\"}",
 "solr_geom": "ENVELOPE(-90.047799, -89.042337, 45.903176, 45.464394)",
-"uw_supplemental_s": "",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most recent version of this data, please visit: http://oneida.ncwrpc.info/",
 "uw_notice_s": ""
 }

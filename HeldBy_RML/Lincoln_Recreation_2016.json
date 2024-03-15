@@ -22,6 +22,6 @@
 "solr_year_i": 2016,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Lincoln_Recreation_2016.zip\",\"http://schema.org/url\":\"http://maps.co.lincoln.wi.us/webapps/gisportal/data.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Lincoln_Recreation_2016.xml\"}",
 "solr_geom": "ENVELOPE(-90.048086, -89.423327, 45.556088, 45.1192)",
-"uw_supplemental_s": "For access to the most current data for this county, please visit: http://maps.co.lincoln.wi.us/webapps/gisportal/data.html",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data available, please visit: http://maps.co.lincoln.wi.us/webapps/gisportal/data.html",
 "uw_notice_s": ""
 }

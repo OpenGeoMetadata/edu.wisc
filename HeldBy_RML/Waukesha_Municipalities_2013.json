@@ -22,6 +22,6 @@
 "solr_year_i": 2013,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Waukesha_Municipalities_2013.zip\",\"http://schema.org/url\":\"http://maps.waukeshacounty.opendata.arcgis.com/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Waukesha_Municipalities_2013.xml\"}",
 "solr_geom": "ENVELOPE(-88.545839, -88.058803, 43.19919, 42.835931)",
-"uw_supplemental_s": "This metadata was updated to reflect that the data is no longer restricted and has been opened for public use. Augmented original metadata with UW-Madison specific elements.",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most recent version of this data, please visit: https://data-waukeshacounty.opendata.arcgis.com/",
 "uw_notice_s": ""
 }

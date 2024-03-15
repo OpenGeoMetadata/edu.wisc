@@ -19,9 +19,9 @@
 "dct_spatial_sm": [],
 "dct_issued_s": "",
 "dct_temporal_sm": ["2017"],
-"solr_year_i": ["2017"],
+"solr_year_i": 2017,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Waupaca_Parcels_2017.zip\",\"http://schema.org/url\":\"http://www.sco.wisc.edu/parcels/data/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Waupaca_Parcels_2017.xml\"}",
 "solr_geom": "ENVELOPE(-89.229569, -88.603987, 44.684149, 44.237574)",
-"uw_supplemental_s": "",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data for this county, please visit: https://data2017-04-05t135915451z-waupacacounty.opendata.arcgis.com/",
 "uw_notice_s": ""
 }

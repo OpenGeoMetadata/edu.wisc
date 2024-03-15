@@ -22,6 +22,6 @@
 "solr_year_i": 2023,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/COLUMBIA_ADDRESSES_2023.zip\",\"http://schema.org/url\":\"http://opendata-cclid.opendata.arcgis.com/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/COLUMBIA_ADDRESSES_2023.xml\"}",
 "solr_geom": "ENVELOPE(-89.780717, -88.998451, 43.64694, 43.278835)",
-"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data for this county, please visit: https://opendata-cclid.opendata.arcgis.com/",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most recent version of this data, please visit: https://opendata-cclid.opendata.arcgis.com/",
 "uw_notice_s": ""
 }

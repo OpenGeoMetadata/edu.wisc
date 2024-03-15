@@ -22,6 +22,6 @@
 "solr_year_i": 2020,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Kenosha_Roads_ROW_2020.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Kenosha_Roads_ROW_2020.xml\"}",
 "solr_geom": "ENVELOPE(-88.308991, -87.797768, 42.676351, 42.486076)",
-"uw_supplemental_s": "This is an archived copy of data held at UW-Madison.",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most recent version of this data, please visit: https://dataportal.kenoshacounty.org/",
 "uw_notice_s": ""
 }

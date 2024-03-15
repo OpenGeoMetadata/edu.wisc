@@ -22,6 +22,6 @@
 "solr_year_i": 2018,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Walworth_Addresses_2018.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Walworth_Addresses_2018.xml\"}",
 "solr_geom": "ENVELOPE(-88.778458, -88.304932, 42.843671, 42.492185)",
-"uw_supplemental_s": "Augmented original metadata with UW-Madison specific elements.",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data for this county, please visit: https://open-walco.opendata.arcgis.com/",
 "uw_notice_s": ""
 }

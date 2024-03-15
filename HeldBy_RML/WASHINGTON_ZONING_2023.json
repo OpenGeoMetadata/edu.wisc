@@ -22,6 +22,6 @@
 "solr_year_i": 2023,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WASHINGTON_ZONING_2023.zip\",\"http://schema.org/url\":\"https://maps.washcowisco.gov/portal/apps/sites/#/maps\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WASHINGTON_ZONING_2023.xml\"}",
 "solr_geom": "ENVELOPE(-88.422996, -88.034369, 43.548053, 43.18818)",
-"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data available, please visit: https://maps.washcowisco.gov/portal/apps/sites/#/maps",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data available, please visit: https://maps.washcowisco.gov/portal/apps/sites/#/maps",
 "uw_notice_s": ""
 }

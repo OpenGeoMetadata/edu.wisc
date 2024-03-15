@@ -13,8 +13,7 @@
 	"dc_language_s": "English",
 	"dct_isPartOf_sm": [
 		"Statewide",
-		"Wisconsin State Agencies"
-	],
+		"Wisconsin State Agencies", "Geology and Groundwater"],
 	"dc_creator_sm": [
 		"Wisconsin Department of Natural Resources"
 	],
@@ -31,6 +30,6 @@
 	"solr_year_i": 1998,
 	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_WISCLAND_Image_1998.zip\",\"http://schema.org/url\":\"http://data-wi-dnr.opendata.arcgis.com/datasets?q=wiscland\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_WISCLAND_Image_1998.xml\"}",
 	"solr_geom": "ENVELOPE(-92.964587, -86.706218, 47.08809, 42.45788)",
-	"uw_supplemental_s": "Extensive additional information about this data set, including data lineage information, is provided in the 'Land Cover of Wisconsin, User's Guide to WISCLAND Land Cover Data', 1999, WiDNR. The WISCLAND User's Guide is accessible at: <URL:ftp://dnrftp01.wi.gov/geodata/metadata/wilndcov.pdf>'WISCLAND' is the Wisconsin Initiative for Statewide Cooperation on Landscape Analysis and Data. Temporal extent: 1991-1993",
+	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. [Extensive additional information about this data set, including data lineage information, is provided in the 'Land Cover of Wisconsin, User's Guide to WISCLAND Land Cover Data. The WISCLAND User's Guide is accessible at: https://data-wi-dnr.opendata.arcgis.com/]",
 	"uw_notice_s": ""
 }

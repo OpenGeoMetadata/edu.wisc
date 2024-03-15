@@ -31,6 +31,6 @@
 	"solr_year_i": 2006,
 	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_Reed_Canary_Grass_TIFF_2006.zip\",\"http://schema.org/url\":\"https://www.arcgis.com/home/item.html?id=1725432d06574118b5f868b71e1772d2\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Reed_Canary_Grass_TIFF_2006.xml\"}",
 	"solr_geom": "ENVELOPE(-92.964588, -86.706218, 47.088096, 42.457883)",
-	"uw_supplemental_s": "Extensive additional information about this data set, including data lineage information, is provided in the 'Development of a Landscape Level Monitoring Methodology Based on Mapping Invasive Species, Phase II: Statewide Mapping of Wetlands Dominated by Reed Canary Grass, Phalaris arundinacea L.', 2007, WiDNR. The report is accessible at: <URL: http://dnr.wi.gov/org/water/fhp/wetlands/assessment.shtml>Augmented original metadata with UW-Madison specific elements.",
+	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most recent version of the data (or current updates) please visit the WI DNR:https://www.arcgis.com/home/item.html?id=1725432d06574118b5f868b71e1772d2",
 	"uw_notice_s": ""
 }

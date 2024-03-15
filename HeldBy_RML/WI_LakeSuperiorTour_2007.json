@@ -22,6 +22,6 @@
 "solr_year_i": 2007,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_LakeSuperiorTour_2007.zip\",\"http://schema.org/url\":\"https://www.wicoastalatlas.net/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_LakeSuperiorTour_2007.xml\"}",
 "solr_geom": "ENVELOPE(-93, -86.5, 47.5, 42.5)",
-"uw_supplemental_s": "Wisconsin Coastal Atlas dataset also available from the Coastal Atlas online: https://www.wicoastalatlas.net/",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. Wisconsin Coastal Atlas datasets and more information are available from the Coastal Atlas online: https://www.wicoastalatlas.net/",
 "uw_notice_s": ""
 }

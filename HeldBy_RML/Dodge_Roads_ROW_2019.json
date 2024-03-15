@@ -22,6 +22,6 @@
 "solr_year_i": 2019,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Dodge_Roads_ROW_2019.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Dodge_Roads_ROW_2019.xml\"}",
 "solr_geom": "ENVELOPE(-89.013997, -88.394707, 43.637816, 43.190911)",
-"uw_supplemental_s": "",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""
 }

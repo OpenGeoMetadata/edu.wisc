@@ -2,7 +2,7 @@
 "geoblacklight_version": "1.0",
 "dc_identifier_s": "AD307CAB-E84B-44A6-9027-EBD5D40C94A7",
 "dc_title_s": "Parcels Columbia County, WI 2015",
-"dc_description_s": "This data layer represents tax parcels for Columbia County, Wisconsin in 2015. It is a feature class within the geodatabase, Columbia_Parcels_2015.gdb.",
+"dc_description_s": "This data layer represents tax parcels for Columbia County, Wisconsin in 2015.",
 "dc_rights_s": "Public",
 "dct_provenance_s": "UW-Madison Robinson Map Library",
 "layer_id_s": "",
@@ -12,7 +12,7 @@
 "dc_format_s": "Geodatabase",
 "dc_language_s": "English",
 "dct_isPartOf_sm": [],
-"dc_creator_sm": ["Columbia County"],
+"dc_creator_sm": ["Wisconsin Department of Administration"],
 "dc_publisher_sm": "",
 "dc_type_s": "Dataset",
 "dc_subject_sm": ["Planning and Cadastral"],
@@ -22,6 +22,6 @@
 "solr_year_i": 2015,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Columbia_Parcels_2015.zip\",\"http://schema.org/url\":\"http://www.co.columbia.wi.us/ColumbiaCounty/LandInformation/DownloadableGISData/tabid/3491/Default.aspx\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Columbia_Parcels_2015.xml\"}",
 "solr_geom": "ENVELOPE(-89.785921, -89.000047, 43.646675, 43.278606)",
-"uw_supplemental_s": "For most current data, please visit http://www.co.columbia.wi.us/ColumbiaCounty/landinformation/InteractiveMapping/tabid/235/Default.aspx",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""
 }

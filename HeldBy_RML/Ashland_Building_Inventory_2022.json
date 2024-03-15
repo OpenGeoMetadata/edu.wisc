@@ -22,6 +22,6 @@
 "solr_year_i": 2022,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Ashland_Building_Inventory_2022.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Ashland_Building_Inventory_2022.xml\"}",
 "solr_geom": "ENVELOPE(-90.927713, -90.548962, 46.675285, 46.241023)",
-"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. [Flowchart of process and time estimates to produce a building inventory included in global database. Ashland_Buildings_2020: Most records are from 2015. It appears to be a combination of City of Ashland work, with some project-specific attributes, and building polygons for the rest of the county (with few attributes populated). V7 Statewide Parcel Data: A collection and standardization of parcel data from Wisconsin counties. More documetation at https://www.sco.wisc.edu/parcels/data/.]",
+"uw_supplemental_s": "This is an archived copy of data held at UW-Madison. For the most recent version of this data, please visit: https://data-ashlandcountywi.opendata.arcgis.com/",
 "uw_notice_s": ""
 }

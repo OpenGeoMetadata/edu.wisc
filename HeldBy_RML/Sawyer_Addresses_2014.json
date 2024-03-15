@@ -22,6 +22,6 @@
 "solr_year_i": 2014,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Sawyer_Addresses_2014.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Sawyer_Addresses_2014.xml\"}",
 "solr_geom": "ENVELOPE(-91.552224, -90.67458, 46.156689, 45.638085)",
-"uw_supplemental_s": "Augmented original metadata with UW-Madison specific elements.",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""
 }

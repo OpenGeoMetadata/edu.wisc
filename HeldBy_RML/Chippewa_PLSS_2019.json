@@ -22,6 +22,6 @@
 "solr_year_i": 2019,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Chippewa_PLSS_2019.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Chippewa_PLSS_2019.xml\"}",
 "solr_geom": "ENVELOPE(-91.597231, -90.932377, 45.278708, 44.864146)",
-"uw_supplemental_s": "",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""
 }

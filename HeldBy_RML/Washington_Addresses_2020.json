@@ -22,6 +22,6 @@
 "solr_year_i": 2020,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Washington_Addresses_2020.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Washington_Addresses_2020.xml\"}",
 "solr_geom": "ENVELOPE(-88.42243, -88.035481, 43.547644, 43.188389)",
-"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data for this county, please visit: [http://washingtoncowi.maps.arcgis.com/apps/MapSeries/index.html?appid=0db0dd8e8e9f4f51931a58ec26a5037a]",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data available, please visit: https://maps.washcowisco.gov/portal/apps/sites/#/maps",
 "uw_notice_s": ""
 }

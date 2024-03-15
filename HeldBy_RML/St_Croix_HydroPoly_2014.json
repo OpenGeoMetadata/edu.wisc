@@ -22,6 +22,6 @@
 "solr_year_i": 2014,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/St_Croix_HydroPoly_2014.zip\",\"http://schema.org/url\":\"http://sccgis-scccdd.opendata.arcgis.com/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/St_Croix_HydroPoly_2014.xml\"}",
 "solr_geom": "ENVELOPE(-92.800854, -92.133078, 45.210151, 44.857746)",
-"uw_supplemental_s": "Augmented original metadata with UW-Madison specific elements. For complete metadata documentation, please visit http://sccgis-scccdd.opendata.arcgis.com/",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data for this county, please visit: https://gis-scccdd.opendata.arcgis.com/",
 "uw_notice_s": ""
 }

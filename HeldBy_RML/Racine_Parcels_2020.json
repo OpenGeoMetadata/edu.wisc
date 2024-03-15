@@ -22,6 +22,6 @@
 "solr_year_i": 2020,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Racine_Parcels_2020.zip \",\"http://schema.org/url\":\"https://www.sco.wisc.edu/parcels/data/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Racine_Parcels_2020.xml\"}",
 "solr_geom": "ENVELOPE(-88.312633, -87.755218, 42.850123, 42.601457)",
-"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data available, please visit: https://data-racinecounty.opendata.arcgis.com/",
 "uw_notice_s": ""
 }

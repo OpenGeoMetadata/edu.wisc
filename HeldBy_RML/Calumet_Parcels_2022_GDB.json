@@ -22,6 +22,6 @@
 "solr_year_i": 2022,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Calumet_Parcels_2022_GDB.zip\",\"http://schema.org/url\":\"https://www.sco.wisc.edu/parcels/data/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Calumet_Parcels_2022_GDB.xml\"}",
 "solr_geom": "ENVELOPE(-88.413296, -88.030373, 44.246609, 43.889516)",
-"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most recent version of this data, please visit: https://gis-calumet.hub.arcgis.com/",
 "uw_notice_s": ""
 }

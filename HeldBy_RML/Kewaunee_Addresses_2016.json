@@ -22,6 +22,6 @@
 "solr_year_i": 2016,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Kewaunee_Addresses_2016.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Kewaunee_Addresses_2016.xml\"}",
 "solr_geom": "ENVELOPE(-87.774447, -87.376468, 44.683298, 44.319692)",
-"uw_supplemental_s": "",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""
 }

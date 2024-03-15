@@ -1,1 +1,36 @@
-{"geoblacklight_version": "1.0", "dc_identifier_s": "700C9DA3-2A08-4C76-BB67-8EFF77D47195", "dc_title_s": "Solid Waste Landfills and Historic Waste, WI 2019", "dc_description_s": "This dataset includes active and inactive solid waste landfills and known historic waste site points. A point showing the general location of the landfill or polygon centroid can be found in the dataset called Solid Waste- Landfills and Historic Waste Site Points. At this time, most of the landfills and known waste sites\u2019 boundaries are mapped as a polygon. The remaining sites are in the process of being mapped. This dataset represents the latest updates and is updated frequently.", "dc_rights_s": "Public", "dct_provenance_s": "UW-Madison Robinson Map Library", "layer_id_s": "", "layer_slug_s": "700C9DA3-2A08-4C76-BB67-8EFF77D47195", "layer_geom_type_s": "Polygon","layer_modified_dt": "2022-01-22T20:12:43Z", "dc_format_s": "Shapefile", "dc_language_s": "English", "dct_isPartOf_sm": ["Statewide", "Wisconsin State Agencies"], "dc_creator_sm": ["Wisconsin Department of Natural Resources"], "dc_publisher_sm": "", "dc_type_s": "Dataset", "dc_subject_sm": ["Environment"], "dct_spatial_sm": [], "dct_issued_s": "", "dct_temporal_sm": ["2019"], "solr_year_i": 2019, "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_SolidWaste_Landfills_Historic_Waste_2019.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/solid-waste-%E2%80%93-landfills-and-historic-waste-site-extents\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_SolidWaste_Landfills_Historic_Waste_2019.xml\"}", "solr_geom": "ENVELOPE(-92.811091, -86.782652, 46.925135, 42.464094)", "uw_supplemental_s": "", "uw_notice_s": ""}
+{
+	"geoblacklight_version": "1.0",
+	"dc_identifier_s": "700C9DA3-2A08-4C76-BB67-8EFF77D47195",
+	"dc_title_s": "Solid Waste Landfills and Historic Waste, WI 2019",
+	"dc_description_s": "This dataset includes active and inactive solid waste landfills and known historic waste site points. A point showing the general location of the landfill or polygon centroid can be found in the dataset called Solid Waste- Landfills and Historic Waste Site Points. At this time, most of the landfills and known waste sites’ boundaries are mapped as a polygon. The remaining sites are in the process of being mapped. This dataset represents the latest updates and is updated frequently.",
+	"dc_rights_s": "Public",
+	"dct_provenance_s": "UW-Madison Robinson Map Library",
+	"layer_id_s": "",
+	"layer_slug_s": "700C9DA3-2A08-4C76-BB67-8EFF77D47195",
+	"layer_geom_type_s": "Polygon",
+	"layer_modified_dt": "2022-01-22T20:12:43Z",
+	"dc_format_s": "Shapefile",
+	"dc_language_s": "English",
+	"dct_isPartOf_sm": [
+		"Statewide",
+		"Wisconsin State Agencies"
+	],
+	"dc_creator_sm": [
+		"Wisconsin Department of Natural Resources"
+	],
+	"dc_publisher_sm": "",
+	"dc_type_s": "Dataset",
+	"dc_subject_sm": [
+		"Environment"
+	],
+	"dct_spatial_sm": [],
+	"dct_issued_s": "",
+	"dct_temporal_sm": [
+		"2019"
+	],
+	"solr_year_i": 2019,
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_SolidWaste_Landfills_Historic_Waste_2019.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/solid-waste-%E2%80%93-landfills-and-historic-waste-site-extents\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_SolidWaste_Landfills_Historic_Waste_2019.xml\"}",
+	"solr_geom": "ENVELOPE(-92.811091, -86.782652, 46.925135, 42.464094)",
+	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most recent version of the data (or current updates) please visit the WI DNR: https://data-wi-dnr.opendata.arcgis.com/datasets/wi-dnr::solid-waste-landfills-and-historic-waste-site-extents/about",
+	"uw_notice_s": ""
+}

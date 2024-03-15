@@ -33,6 +33,6 @@
 	],
 	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_Parcels_2017.zip\",\"http://schema.org/url\":\"http://www.sco.wisc.edu/parcels/data/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Parcels_2017.xml\"}",
 	"solr_geom": "ENVELOPE(-92.963573, -86.666103, 47.08304, 42.456895)",
-	"uw_supplemental_s": "",
+	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 	"uw_notice_s": ""
 }

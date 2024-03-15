@@ -22,6 +22,6 @@
 "solr_year_i": 2020,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Kenosha_LandUse_2020.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Kenosha_LandUse_2020.xml\"}",
 "solr_geom": "ENVELOPE(-88.309178, -87.795412, 42.676384, 42.486001)",
-"uw_supplemental_s": "This is an archived copy of data held at UW-Madison.",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data available, please visit: http://www.sewrpc.org/SEWRPC/LandUse.htm",
 "uw_notice_s": ""
 }

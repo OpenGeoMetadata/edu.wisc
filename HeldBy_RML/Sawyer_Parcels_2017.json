@@ -19,9 +19,9 @@
 "dct_spatial_sm": [],
 "dct_issued_s": "",
 "dct_temporal_sm": ["2017"],
-"solr_year_i": ["2017"],
+"solr_year_i": 2017,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Sawyer_Parcels_2017.zip\",\"http://schema.org/url\":\"http://www.sco.wisc.edu/parcels/data/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Sawyer_Parcels_2017.xml\"}",
 "solr_geom": "ENVELOPE(-91.556619, -90.672997, 46.165814, 45.629947)",
-"uw_supplemental_s": "",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""
 }

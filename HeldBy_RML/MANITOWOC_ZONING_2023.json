@@ -22,6 +22,6 @@
 "solr_year_i": 2023,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/MANITOWOC_ZONING_2023.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/MANITOWOC_ZONING_2023.xml\"}",
 "solr_geom": "ENVELOPE(-87.728368, -87.726387, 44.197639, 44.197202)",
-"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. [Manitowoc County makes no warranties or representations of any kind whatsoever, expressed or implied, about the accuracy or quality of any data set or its fitness for a particular purpose. All data sets are provided 'as is' and the county and its co-producers will not, in any event, be liable in any way for consequential, direct, incidental, special, or any other damages in connection with use of any data set.]",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""
 }

@@ -22,6 +22,6 @@
 "solr_year_i": 2006,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_Soils_MLRA_2006.zip\",\"http://schema.org/url\":\"https://datagateway.nrcs.usda.gov/ \",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Soils_MLRA_2006.xml\"}",
 "solr_geom": "ENVELOPE(-94.352264, -83.897937, 47.479532, 40.157311)",
-"uw_supplemental_s": "Archived dataset at UW-Madison. For the most recent verison of this data please visit: https://datagateway.nrcs.usda.gov/",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.  For the most recent verison of this data please visit: https://datagateway.nrcs.usda.gov/",
 "uw_notice_s": ""
 }

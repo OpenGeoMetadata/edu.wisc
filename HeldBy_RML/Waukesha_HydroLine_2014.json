@@ -22,6 +22,6 @@
 "solr_year_i": 2014,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Waukesha_HydroLine_2014.zip\",\"http://schema.org/url\":\"http://maps-waukeshacounty.opendata.arcgis.com/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Waukesha_HydroLine_2014.xml\"}",
 "solr_geom": "ENVELOPE(-88.546614, -88.059253, 43.198756, 42.836255)",
-"uw_supplemental_s": "This metadata was updated to reflect that the data is no longer restricted and has been opened for public use. [The planimetric features consist of four core features. These features are pavement edges (improved and unimproved), road centerlines, water, and railroads. These features were extracted from the DTM product that was compiled as part of the Year 2000 Orthophotography project.]",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most recent version of this data, please visit: https://data-waukeshacounty.opendata.arcgis.com/",
 "uw_notice_s": ""
 }

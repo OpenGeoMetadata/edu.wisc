@@ -22,6 +22,6 @@
 "solr_year_i": 2020,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Madison_City_LocalHistDist_2020.zip\",\"http://schema.org/url\":\"https://data-cityofmadison.opendata.arcgis.com/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Madison_City_LocalHistDist_2020.xml\"}",
 "solr_geom": "ENVELOPE(-89.423802, -89.355439, 43.088178, 43.066984)",
-"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data, please visit: [https://data-cityofmadison.opendata.arcgis.com/]",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data, please visit: https://data-cityofmadison.opendata.arcgis.com/",
 "uw_notice_s": ""
 }

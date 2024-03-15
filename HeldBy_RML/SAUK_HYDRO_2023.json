@@ -22,6 +22,6 @@
 "solr_year_i": 2023,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/SAUK_HYDRO_2023.zip\",\"http://schema.org/url\":\"https://data-saukgis.opendata.arcgis.com/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/SAUK_HYDRO_2023.xml\"}",
 "solr_geom": "ENVELOPE(-90.31241, -89.593692, 43.644975, 43.141726)",
-"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data available, please visit: https://data-saukgis.opendata.arcgis.com/",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data available, please visit: https://data-saukgis.opendata.arcgis.com/",
 "uw_notice_s": ""
 }

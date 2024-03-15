@@ -22,6 +22,6 @@
 "solr_year_i": 2016,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Waupaca_Municipalities_2016.zip\",\"http://schema.org/downloadUrl\":\"http://data.waupacacounty.opendata.arcgis.com/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Waupaca_Municipalities_2016.xml\"}",
 "solr_geom": "ENVELOPE(-89.227875, -88.605017, 44.682074, 44.241884)",
-"uw_supplemental_s": "For complete metadata documentation, please visit http://data.waupacacounty.opendata.arcgis.com/",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data for this county, please visit: https://data2017-04-05t135915451z-waupacacounty.opendata.arcgis.com/",
 "uw_notice_s": ""
 }

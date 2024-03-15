@@ -22,6 +22,6 @@
 "solr_year_i": 2016,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Taylor_Hydro_2016.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Taylor_Hydro_2016.xml\"}",
 "solr_geom": "ENVELOPE(-90.927931, -90.04222, 45.383157, 45.030033)",
-"uw_supplemental_s": "Augmented original metadata with UW-Madison specific elements.",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""
 }

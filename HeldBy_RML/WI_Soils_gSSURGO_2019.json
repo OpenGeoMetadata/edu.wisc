@@ -22,6 +22,6 @@
 "solr_year_i": 2019,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_Soils_gSSURGO_2019.zip\",\"http://schema.org/url\":\"http://datagateway.nrcs.usda.gov/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Soils_gSSURGO_2019.xml\"}",
 "solr_geom": "ENVELOPE(-93.026099, -86.599441, 47.154462, 42.321018)",
-"uw_supplemental_s": "",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""
 }

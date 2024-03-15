@@ -22,6 +22,6 @@
 "solr_year_i": 2019,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Adams_Zoning_2019.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Adams_Zoning_2019.xml\"}",
 "solr_geom": "ENVELOPE(-90.015029, -89.597364, 44.248796, 43.641584)",
-"uw_supplemental_s": "For access to the most current data for this county, please visit: www.adamscountylandrecords.com",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data for this county, please visit: https://adams-county-open-data-portal-adams-county-wi.hub.arcgis.com/",
 "uw_notice_s": ""
 }

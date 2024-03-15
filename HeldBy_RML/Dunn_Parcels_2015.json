@@ -9,10 +9,10 @@
 "layer_slug_s": "CD3D31FC-029D-43C7-BD0F-2228B5E82DE9",
 "layer_geom_type_s": "Polygon",
 "layer_modified_dt": "2022-01-22T20:12:43Z",
-"dc_format_s": "Shapefile",
+"dc_format_s": "Geodatabase",
 "dc_language_s": "English",
 "dct_isPartOf_sm": [],
-"dc_creator_sm": ["Dunn County"],
+"dc_creator_sm": ["Wisconsin Department of Administration"],
 "dc_publisher_sm": "",
 "dc_type_s": "Dataset",
 "dc_subject_sm": ["Planning and Cadastral"],
@@ -22,6 +22,6 @@
 "solr_year_i": 2015,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Dunn_Parcels_2015.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Dunn_Parcels_2015.xml\"}",
 "solr_geom": "ENVELOPE(-92.157471, -91.64769, 45.209821, 44.683463)",
-"uw_supplemental_s": "Augmented original metadata with UW-Madison specific elements.",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""
 }

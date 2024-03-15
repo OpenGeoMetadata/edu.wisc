@@ -2,7 +2,7 @@
 "geoblacklight_version": "1.0",
 "dc_identifier_s": "6B1C6DB7-6329-4B0A-ACA3-5D05AD662E6D",
 "dc_title_s": "Parcels Milwaukee County, WI 2015",
-"dc_description_s": "This polygon data layer represents tax parcels for Milwaukee County, Wisconsin in 2015. It is a feature class within the geodatabase, Milwaukee_Parcels_2015.gdb.",
+"dc_description_s": "This polygon data layer represents tax parcels for Milwaukee County, Wisconsin in 2015.",
 "dc_rights_s": "Public",
 "dct_provenance_s": "UW-Madison Robinson Map Library",
 "layer_id_s": "",
@@ -12,7 +12,7 @@
 "dc_format_s": "Geodatabase",
 "dc_language_s": "English",
 "dct_isPartOf_sm": ["Coastal"],
-"dc_creator_sm": ["Milwaukee County"],
+"dc_creator_sm": ["Wisconsin Department of Administration"],
 "dc_publisher_sm": "",
 "dc_type_s": "Dataset",
 "dc_subject_sm": ["Planning and Cadastral"],
@@ -22,6 +22,6 @@
 "solr_year_i": 2015,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Milwaukee_Parcels_2015.zip\",\"http://schema.org/url\":\"https://county.milwaukee.gov/EN/Administrative-Services/Land-Information-Office/GIS-Data-Downloads\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Milwaukee_Parcels_2015.xml\"}",
 "solr_geom": "ENVELOPE(-88.079667, -87.812613, 43.195139, 42.838929)",
-"uw_supplemental_s": "Best known date is February 27, 2015. For complete metadata documentation and online dataset download, please visit https://county.milwaukee.gov/EN/Administrative-Services/Land-Information-Office/GIS-Data-Downloads",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""
 }

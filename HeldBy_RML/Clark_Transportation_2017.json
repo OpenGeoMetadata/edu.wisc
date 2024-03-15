@@ -22,6 +22,6 @@
 "solr_year_i": 2017,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Clark_Transportation_2017.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Clark_Transportation_2017.xml\"}",
 "solr_geom": "ENVELOPE(-90.933983, -90.137824, 45.038989, 44.415613)",
-"uw_supplemental_s": "This data was submitted to the UW geospatial archive in 2017. Content may be considered current as of December 31, 2016. It was published to the UW geospatial archive as part of the Wisconsin Department of Administration Land Information Program annual collection of public data for the year 2017. The exception is the right of way data contained in the feature class 'ROW_2006' which was gathered in 2006.",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. This data was submitted to the UW geospatial archive in 2017. Content may be considered current as of December 31, 2016. It was published to the UW geospatial archive as part of the Wisconsin Department of Administration Land Information Program annual collection of public data for the year 2017.",
 "uw_notice_s": ""
 }

@@ -19,9 +19,9 @@
 "dct_spatial_sm": [],
 "dct_issued_s": "",
 "dct_temporal_sm": ["2017"],
-"solr_year_i": ["2017"],
+"solr_year_i": 2017,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Ozaukee_Parcels_2017.zip\",\"http://schema.org/url\":\"http://www.sco.wisc.edu/parcels/data/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Ozaukee_Parcels_2017.xml\"}",
 "solr_geom": "ENVELOPE(-88.067974, -87.789273, 43.547835, 43.187408)",
-"uw_supplemental_s": "",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""
 }

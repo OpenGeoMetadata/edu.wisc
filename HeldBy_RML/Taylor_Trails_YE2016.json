@@ -22,6 +22,6 @@
 "solr_year_i": 2016,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Taylor_Trails_YE2016.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Taylor_Trails_YE2016.xml\"}",
 "solr_geom": "ENVELOPE(-90.927718, -90.032497, 45.451076, 45.030234)",
-"uw_supplemental_s": "This data was submitted to the UW geospatial archive in 2017. Content may be considered current as of December 31, 2016. It was published to the UW geospatial archive as part of the Wisconsin Department of Administration Land Information Program annual collection of public data for the year 2017.",
+"uw_supplemental_s": "This data was submitted to the UW geospatial archive in 2017. Content may be considered current as of December 31, 2016. It was published to the UW geospatial archive as part of the Wisconsin Department of Administration Land Information Program annual collection of public data for the year 2017. This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""
 }

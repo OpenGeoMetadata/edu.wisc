@@ -2,7 +2,7 @@
 "geoblacklight_version": "1.0",
 "dc_identifier_s": "E857F9DC-A83F-482A-82E7-2F7CD7488BF4",
 "dc_title_s": "Trails Bayfield County, WI 2020",
-"dc_description_s": "Theis data represents recreational trails for Bayfield County in 2020, includes the layers BAYFIELD_TRAILS_2020_ATV, BAYFIELD_TRAILS_2020_ATVROUTE, BAYFIELD_TRAILS_2020_SILENT and BAYFIELD_TRAILS_2020_SNOWMOBILE.For snowmobile: [This layer contains snowmobile trail data in Bayfield County.Link to metadata information: https://www.bayfieldcounty.org/437/GIS-Metadata] For silent: [This layer contains silent sport walking, biking, skiing, horseback riding, and mushing trails in Bayfield County.Link to metadata information: https://www.bayfieldcounty.org/437/GIS-Metadata] For ATV route: [This layer contains ATV road routes in Bayfield County.Link to metadata information: https://www.bayfieldcounty.org/437/GIS-Metadata] For ATV: [This layer contains ATV trail data in Bayfield County.Link to metadata information: https://www.bayfieldcounty.org/437/GIS-Metadata]",
+"dc_description_s": "Theis data represents recreational trails for Bayfield County in 2020, includes the layers BAYFIELD_TRAILS_2020_ATV, BAYFIELD_TRAILS_2020_ATVROUTE, BAYFIELD_TRAILS_2020_SILENT and BAYFIELD_TRAILS_2020_SNOWMOBILE.For snowmobile: [This layer contains snowmobile trail data in Bayfield County.Link to metadata information: https://www.bayfieldcounty.wi.gov/437/GIS-Metadata] For silent: [This layer contains silent sport walking, biking, skiing, horseback riding, and mushing trails in Bayfield County.Link to metadata information: https://www.bayfieldcounty.wi.gov/437/GIS-Metadata] For ATV route: [This layer contains ATV road routes in Bayfield County.Link to metadata information: https://www.bayfieldcounty.wi.gov/437/GIS-Metadata] For ATV: [This layer contains ATV trail data in Bayfield County.Link to metadata information: https://www.bayfieldcounty.wi.gov/437/GIS-Metadata]",
 "dc_rights_s": "Public",
 "dct_provenance_s": "UW-Madison Robinson Map Library",
 "layer_id_s": "",
@@ -20,8 +20,8 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2020"],
 "solr_year_i": 2020,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Bayfield_Trails_2020.zip\",\"http://schema.org/url\":\"https://www.bayfieldcounty.org/892/GIS-Data-Download\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Bayfield_Trails_2020.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Bayfield_Trails_2020.zip\",\"http://schema.org/url\":\"https://www.bayfieldcounty.wi.gov/892/GIS-Data-Download\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Bayfield_Trails_2020.xml\"}",
 "solr_geom": "ENVELOPE(-91.610515, -90.395768, 47.081159, 46.004312)",
-"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data for this county, please visit: [https://www.bayfieldcounty.org/892/GIS-Data-Download]",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most recent version of this data, please visit: https://www.bayfieldcounty.wi.gov/892/GIS-Data-Access",
 "uw_notice_s": ""
 }

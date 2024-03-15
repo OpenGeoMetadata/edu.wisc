@@ -9,10 +9,10 @@
 "layer_slug_s": "6D6E476C-BFAB-4680-BC91-CE7CE9B5C6DB",
 "layer_geom_type_s": "Polygon",
 "layer_modified_dt": "2022-01-22T20:12:43Z",
-"dc_format_s": "Shapefile",
+"dc_format_s": "Geodatabase",
 "dc_language_s": "English",
 "dct_isPartOf_sm": ["Coastal"],
-"dc_creator_sm": ["Racine County"],
+"dc_creator_sm": ["Wisconsin Department of Administration"],
 "dc_publisher_sm": "",
 "dc_type_s": "Dataset",
 "dc_subject_sm": ["Planning and Cadastral"],
@@ -22,6 +22,6 @@
 "solr_year_i": 2015,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/UW_System/Racine_Parcels_2015.zip\",\"http://schema.org/downloadUrl\":\"http://data-racinecounty.opendata.arcgis.com/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Racine_Parcels_2015.xml\"}",
 "solr_geom": "ENVELOPE(-88.312621, -87.755128, 42.850185, 42.601303)",
-"uw_supplemental_s": "For the most recent version of this dataset, please visit http://data-racinecounty.opendata.arcgis.com/ .",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""
 }

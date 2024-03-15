@@ -22,6 +22,6 @@
 "solr_year_i": 2020,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Brown_Buildings_2020.zip\",\"http://schema.org/url\":\"https://www.co.brown.wi.us/departments/?department=85713eda4cdc\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Brown_Buildings_2020.xml\"}",
 "solr_geom": "ENVELOPE(-88.257087, -87.760186, 44.683565, 44.238341)",
-"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data for this county, please visit: [https://www.browncountywi.gov/departments/planning-and-land-services/land-information-office/]",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most recent version of this data, please visit: https://www.browncountywi.gov/departments/planning-and-land-services/land-information-office/",
 "uw_notice_s": ""
 }

@@ -22,6 +22,6 @@
 "solr_year_i": 2007,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/St_Croix_Municipalities_2007.zip\",\"http://schema.org/url\":\"http://sccgis-scccdd.opendata.arcgis.com/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/St_Croix_Municipalities_2007.xml\"}",
 "solr_geom": "ENVELOPE(-92.80356, -92.132813, 45.210516, 44.857573)",
-"uw_supplemental_s": "This metadata was updated to reflect that the data is no longer restricted and has been opened for public use.",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data for this county, please visit: https://gis-scccdd.opendata.arcgis.com/",
 "uw_notice_s": ""
 }

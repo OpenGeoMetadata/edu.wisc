@@ -22,6 +22,6 @@
 "solr_year_i": 2022,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_Hydro_12digit_Subwatersheds_2022.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/hydrologic-units-12-digit-subwatersheds/explore?location=45.142494%2C-88.625779%2C6.91\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Hydro_12digit_Subwatersheds_2022.xml\"}",
 "solr_geom": "ENVELOPE(-93.120571, -84.130974, 49.032581, 41.52429)",
-"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data available, please visit: [https://data-wi-dnr.opendata.arcgis.com/]",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data available, please visit: [https://data-wi-dnr.opendata.arcgis.com/datasets/wi-dnr::hydrologic-units-12-digit-subwatersheds/about]",
 "uw_notice_s": ""
 }

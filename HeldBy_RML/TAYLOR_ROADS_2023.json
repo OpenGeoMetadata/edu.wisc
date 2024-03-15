@@ -22,6 +22,6 @@
 "solr_year_i": 2023,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/TAYLOR_ROADS_2023.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/TAYLOR_ROADS_2023.xml\"}",
 "solr_geom": "ENVELOPE(-90.928083, -90.041672, 45.399857, 45.030008)",
-"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. [Numerous geographic and tabular datasets were used to create the road centerline feature class. These include the property tax database, existing MSAG, ANI/ALI, gas tax maps, hardcopy address maps, aerial imagery and the initial roads centerline shapefile maintained by the county. The soure materials used have all been maintained and most have been updated this year.]",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""
 }

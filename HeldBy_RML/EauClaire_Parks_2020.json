@@ -22,6 +22,6 @@
 "solr_year_i": 2020,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/EauClaire_Parks_2020.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/EauClaire_Parks_2020.xml\"}",
 "solr_geom": "ENVELOPE(-91.590354, -91.007502, 44.830093, 44.687035)",
-"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data for this county, please visit: https://hub-eccounty.hub.arcgis.com/pages/open-data",
 "uw_notice_s": ""
 }

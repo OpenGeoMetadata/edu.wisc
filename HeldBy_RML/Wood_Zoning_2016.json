@@ -22,6 +22,6 @@
 "solr_year_i": 2016,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Wood_Zoning_2016.zip\",\"http://schema.org/downloadUrl\":\"http://www.co.wood.wi.us/Departments/PZ/LandRecords.aspx\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Wood_Zoning_2016.xml\"}",
 "solr_geom": "ENVELOPE(-90.320501, -89.722636, 44.685684, 44.247502)",
-"uw_supplemental_s": "For complete metadata documentation, please visit http://www.co.wood.wi.us/Departments/PZ/LandRecords.aspx",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data available, please visit: https://opendata.woodcogis.com/",
 "uw_notice_s": ""
 }

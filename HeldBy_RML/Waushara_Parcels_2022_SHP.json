@@ -22,6 +22,6 @@
 "solr_year_i": 2022,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Waushara_Parcels_2022_SHP.zip\",\"http://schema.org/url\":\"https://www.sco.wisc.edu/parcels/data/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Waushara_Parcels_2022_SHP.xml\"}",
 "solr_geom": "ENVELOPE(-89.599663, -88.881189, 44.247299, 43.97747)",
-"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data available, please visit: https://data-waushara.opendata.arcgis.com/",
 "uw_notice_s": ""
 }

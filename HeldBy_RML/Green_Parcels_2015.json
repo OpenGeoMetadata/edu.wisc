@@ -12,7 +12,7 @@
 "dc_format_s": "Geodatabase",
 "dc_language_s": "English",
 "dct_isPartOf_sm": [],
-"dc_creator_sm": ["Green County"],
+"dc_creator_sm": ["Wisconsin Department of Administration"],
 "dc_publisher_sm": "",
 "dc_type_s": "Dataset",
 "dc_subject_sm": ["Planning and Cadastral"],
@@ -22,6 +22,6 @@
 "solr_year_i": 2015,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Green_Parcels_2015.zip\",\"http://schema.org/url\":\"https://wi-greencounty.civicplus.com/179/Downloadable-GIS-Data-Forms\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Green_Parcels_2015.xml\"}",
 "solr_geom": "ENVELOPE(-89.838635, -89.363102, 42.857734, 42.500089)",
-"uw_supplemental_s": "For additional information, please see original license/data sharing agreement where applicable. Best known date is 5/10/2015. For complete metadata documentation and online dataset download, please visit http://www.co.green.wi.gov/localgov_departments_details.asp?deptid=115&locid=148.",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""
 }

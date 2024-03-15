@@ -22,6 +22,6 @@
 "solr_year_i": 2018,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Washington_Parks_2018.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Washington_Parks_2018.xml\"}",
 "solr_geom": "ENVELOPE(-88.422329, -88.035387, 43.547713, 43.188383)",
-"uw_supplemental_s": "",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data available, please visit: https://maps.washcowisco.gov/portal/apps/sites/#/maps",
 "uw_notice_s": ""
 }
