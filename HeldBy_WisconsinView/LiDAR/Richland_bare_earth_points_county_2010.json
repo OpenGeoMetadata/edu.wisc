@@ -33,7 +33,7 @@
  "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/richland-2010-PointsBareEarth.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Richland_LIDAR_County_2010.xml\"}",
  "solr_geom": "ENVELOPE(-90.67165496,-90.19169558,43.55498397,43.16402256)",
  "thumbnail_path_ss": "",
- "uw_supplemental_s": "",
+ "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Richland/Richland_2010_County_Delivery/Metadata/Metadata.zip",
  "uw_notice_s": "",
  "uw_deprioritize_item_b": false
 }

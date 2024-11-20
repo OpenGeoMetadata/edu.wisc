@@ -33,7 +33,7 @@
  "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/waupaca3DEP-2018-DEMRaster.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Waupaca_LIDAR_USGS_2018.xml\"}",
  "solr_geom": "ENVELOPE(-89.229130,-88.603886,44.683005,44.240987)",
  "thumbnail_path_ss": "",
- "uw_supplemental_s": "",
+ "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Waupaca/Waupaca_2018_3DEP_Delivery/Metadata/Metadata.zip",
  "uw_notice_s": "",
  "uw_deprioritize_item_b": false
 }

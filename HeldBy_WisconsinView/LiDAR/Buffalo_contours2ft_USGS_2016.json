@@ -30,10 +30,10 @@
  ],
  "solr_year_i": 2016,
  "dct_issued_s": "",
- "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://bin.ssec.wisc.edu/pub/wisconsinview/lidar/Buffalo/Buffalo_2016_3DEP_Delivery/Contours/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Buffalo_LIDAR_USGS_2016.xml\"}",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Buffalo/Buffalo_2016_3DEP_Delivery/Contours/BuffaloCo_Contours_All.gdb.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Buffalo_LIDAR_USGS_2016.xml\"}",
  "solr_geom": "ENVELOPE(-92.08414741,-91.52874793,44.59672542,44.02537821)",
  "thumbnail_path_ss": "",
- "uw_supplemental_s": "This data is also available as a series of tiles to enable downloads of smaller, more specific areas within the county. To access the tiled data, please visit: https://www.sco.wisc.edu/scoapps/lidar/tile-search/?layer=buffalo",
+ "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Buffalo/Buffalo_2016_3DEP_Delivery/Metadata/Metadata.zip",
  "uw_notice_s": "",
  "uw_deprioritize_item_b": false
 }

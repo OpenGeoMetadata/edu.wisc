@@ -33,7 +33,7 @@
  "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/lafayette-2011-ClassifiedPoints.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Lafayette_LIDAR_County_2011.xml\"}",
  "solr_geom": "ENVELOPE(-90.426914,-89.83722727,42.81489959,42.50563725)",
  "thumbnail_path_ss": "",
- "uw_supplemental_s": "",
+ "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Lafayette/Lafayette_2011_County_Delivery/Metadata/Metadata.zip",
  "uw_notice_s": "",
  "uw_deprioritize_item_b": false
 }

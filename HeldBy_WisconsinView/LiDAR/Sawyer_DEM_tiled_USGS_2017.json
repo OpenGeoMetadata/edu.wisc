@@ -33,7 +33,7 @@
  "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/sawyer-2017-RasterDEM.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Sawyer_LIDAR_USGS_2017.xml\"}",
  "solr_geom": "ENVELOPE(-91.55189102,-90.67633383,46.15790841,45.63753507)",
  "thumbnail_path_ss": "",
- "uw_supplemental_s": "",
+ "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Sawyer/Sawyer_2017__3DEP_Delivery/Metadata/Metadata.zip",
  "uw_notice_s": "",
  "uw_deprioritize_item_b": false
 }

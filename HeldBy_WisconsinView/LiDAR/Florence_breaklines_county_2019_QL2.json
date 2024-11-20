@@ -30,10 +30,10 @@
  ],
  "solr_year_i": 2019,
  "dct_issued_s": "",
- "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://bin.ssec.wisc.edu/pub/wisconsinview/lidar/Florence/Florence_2019_3DEP_Delivery/WI_Florence_QL2_USGS_2019/Florence_QL2_breaklines/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Florence_LIDAR_USGS_2019.xml\"}",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Florence/Florence_2019_3DEP_Delivery/WI_Florence_QL2_USGS_2019/Florence_QL2_breaklines/FlorenceBreaklines_QL2.gdb.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Florence_LIDAR_USGS_2019.xml\"}",
  "solr_geom": "ENVELOPE(-88.68421375,-88.05822859,46.02121159,45.7130394)",
  "thumbnail_path_ss": "",
- "uw_supplemental_s": "",
+ "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Florence/Florence_2019_3DEP_Delivery/WI_Florence_QL2_USGS_2019/Metadata/Metadata.zip",
  "uw_notice_s": "",
  "uw_deprioritize_item_b": false
 }

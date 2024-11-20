@@ -1,8 +1,8 @@
 {
  "geoblacklight_version": "1.0",
  "dc_identifier_s": "b7eefb64-4432-44d6-9c18-e546f7514d97",
- "dc_title_s": "LiDAR-Derived Classified LAS for Adams County, WI 2019",
- "dc_description_s": "This data represents LiDAR-derived classified LAS points for Adams County, Wisconsin in 2019. Point classification uses semi-automated techniques on the point cloud to assign the feature type associated with each point. LiDAR points can be classified into a number of categories including bare earth or ground, top of canopy, and water. The different classes are defined using numeric integer codes in the LAS files.",
+ "dc_title_s": "Lidar-Derived Classified LAS for Adams County, WI 2019",
+ "dc_description_s": "This data represents Lidar-derived classified LAS points for Adams County, Wisconsin in 2019. Point classification uses semi-automated techniques on the point cloud to assign the feature type associated with each point. Lidar points can be classified into a number of categories including bare earth or ground, top of canopy, and water. The different classes are defined using numeric integer codes in the LAS files.",
  "dc_rights_s": "Public",
  "dct_provenance_s": "WisconsinView",
  "layer_id_s": "",
@@ -33,7 +33,7 @@
  "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/adams3DEP-2019-ClassifiedPoints.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Adams_LIDAR_USGS_2019.xml\"}",
  "solr_geom": "ENVELOPE(-90.030164,-89.593469,44.250431,43.639605)",
  "thumbnail_path_ss": "",
- "uw_supplemental_s": "",
+ "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Adams/Adams_2019_3DEP_Delivery/Metadata/Metadata.zip ",
  "uw_notice_s": "",
  "uw_deprioritize_item_b": false
 }

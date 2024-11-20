@@ -30,10 +30,10 @@
  ],
  "solr_year_i": 2019,
  "dct_issued_s": "",
- "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://bin.ssec.wisc.edu/pub/wisconsinview/lidar/Adams/Adams_2019_3DEP_Delivery/Hydro_Breaklines/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Adams_LIDAR_USGS_2019.xml\"}",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Adams/Adams_2019_3DEP_Delivery/Hydro_Breaklines/AdamsCo_WI_Hydro_Breaklines.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Adams_LIDAR_USGS_2019.xml\"}",
  "solr_geom": "ENVELOPE(-90.030164,-89.593469,44.250431,43.639605)",
  "thumbnail_path_ss": "",
- "uw_supplemental_s": "",
  "uw_notice_s": "",
+ "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Adams/Adams_2019_3DEP_Delivery/Metadata/Metadata.zip ",
  "uw_deprioritize_item_b": false
 }

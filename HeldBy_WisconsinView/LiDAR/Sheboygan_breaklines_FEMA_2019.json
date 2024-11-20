@@ -9,7 +9,7 @@
  "layer_slug_s": "f940298d-81ca-4ae3-86ee-b9961aaf9c07",
  "layer_geom_type_s": "Line",
  "layer_modified_dt": "2022-01-22T20:12:43Z",
- "dc_format_s": "Shapefile",
+ "dc_format_s": "Geodatabase",
  "dc_language_s": "English",
  "dct_isPartOf_sm": [
   "Wisconsin Elevation Data", "Coastal"
@@ -30,10 +30,10 @@
  ],
  "solr_year_i": 2019,
  "dct_issued_s": "",
- "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://bin.ssec.wisc.edu/pub/wisconsinview/lidar/Sheboygan/Sheboygan_2019_FEMA_Delivery/Hydro_Breaklines/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Sheboygan_LIDAR_FEMA_2019.xml\"}",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Sheboygan/Sheboygan_2019_FEMA_Delivery/Hydro_Breaklines/140G0219F0026_Lot8_Sheboygan.gdb.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Sheboygan_LIDAR_FEMA_2019.xml\"}",
  "solr_geom": "ENVELOPE(-88.1832098149,-87.6744287876,43.9180963851,43.5223977786)",
  "thumbnail_path_ss": "",
- "uw_supplemental_s": "",
+ "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Sheboygan/Sheboygan_2019_FEMA_Delivery/Metadata/Metadata.zip",
  "uw_notice_s": "",
  "uw_deprioritize_item_b": false
 }

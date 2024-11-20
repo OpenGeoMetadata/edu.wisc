@@ -33,7 +33,7 @@
  "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Burnett/Burnett_2022_3DEP_Delivery/Hydro_Breaklines/WI_12County_11_B22_230110_Burnett_Breaklines.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Burnett_LIDAR_USGS_2022.xml\"}",
  "solr_geom": "ENVELOPE(-92.88690824,-92.03124266,46.15765428,45.63971233)",
  "thumbnail_path_ss": "",
- "uw_supplemental_s": "For original vendor XML metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Burnett/Burnett_2022_3DEP_Delivery/Metadata/Metadata.zip",
+ "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Burnett/Burnett_2022_3DEP_Delivery/Metadata/Metadata.zip",
  "uw_notice_s": "",
  "uw_deprioritize_item_b": false
 }

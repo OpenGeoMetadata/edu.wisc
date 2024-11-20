@@ -30,10 +30,10 @@
  ],
  "solr_year_i": 2015,
  "dct_issued_s": "",
- "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://bin.ssec.wisc.edu/pub/wisconsinview/lidar/Iron/Iron_2015_WVP_Derived_Products/Raster_WTM_EPSG3071/Iron2015_beDEM1m_HS_WTM.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Iron_LIDAR_County_2015.xml\"}",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Iron/Iron_2015_WVP_Derived_Products/Raster_WTM_EPSG3071/Iron2015_beDEM1m_HS_WTM.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Iron_LIDAR_County_2015.xml\"}",
  "solr_geom": "ENVELOPE(-90.55228446,-89.92830784,46.59004326,45.98148968)",
  "thumbnail_path_ss": "",
- "uw_supplemental_s": "This lidar data dataset was created by the WisconsinView Partners (WVP) – the WI Department of Administration’s Geographic Information Office in collaboration with the UW-Madison Space Science and Engineering Center’s (SSEC) WisconsinView repository. Original lidar data in tiled format from federal or local county/city lidar projects were used to create countywide mosaics of datasets such as DEMS, Intensity images, and DSMs in various projections and coordinate systems.",
+ "uw_supplemental_s": "This lidar data dataset was created by the WisconsinView Partners (WVP) – the WI Department of Administration’s Geographic Information Office in collaboration with the UW-Madison Space Science and Engineering Center’s (SSEC) WisconsinView repository. Original lidar data in tiled format from federal or local county/city lidar projects were used to create countywide mosaics of datasets such as DEMS, Intensity images, and DSMs in various projections and coordinate systems. For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Iron/Iron_2015_County_Delivery/Metadata/Metadata.zip",
  "uw_notice_s": "",
  "uw_deprioritize_item_b": false
 }

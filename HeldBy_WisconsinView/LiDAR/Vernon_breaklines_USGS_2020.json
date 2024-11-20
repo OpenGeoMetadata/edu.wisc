@@ -30,10 +30,10 @@
  ],
  "solr_year_i": 2020,
  "dct_issued_s": "",
- "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://bin.ssec.wisc.edu/pub/wisconsinview/lidar/Vernon/Vernon_2020_3DEP_Delivery/breaklines/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Vernon_LIDAR_USGS_2020.xml\"}",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Vernon/Vernon_2020_3DEP_Delivery/breaklines/VernonCo_WI_Breaklines.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Vernon_LIDAR_USGS_2020.xml\"}",
  "solr_geom": "ENVELOPE(-91.2732635,-90.31104723,43.73149652,43.42234461)",
  "thumbnail_path_ss": "",
- "uw_supplemental_s": "Detailed metadata for this data can be accessed here: https://bin.ssec.wisc.edu/pub/wisconsinview/lidar/Vernon/Vernon_2020_3DEP_Delivery/metadata/",
+ "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Vernon/Vernon_2020_3DEP_Delivery/Metadata/Metadata.zip",
  "uw_notice_s": "",
  "uw_deprioritize_item_b": false
 }

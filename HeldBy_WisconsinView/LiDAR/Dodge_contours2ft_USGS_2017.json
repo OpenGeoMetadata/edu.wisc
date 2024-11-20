@@ -30,10 +30,10 @@
  ],
  "solr_year_i": 2017,
  "dct_issued_s": "",
- "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://bin.ssec.wisc.edu/pub/wisconsinview/lidar/Dodge/Dodge_2017_3DEP_Delivery/Contours_2ft/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Dodge_LIDAR_USGS_2017.xml\"}",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Dodge/Dodge_2017_3DEP_Delivery/Contours_2ft/Contours_2ft.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Dodge_LIDAR_USGS_2017.xml\"}",
  "solr_geom": "ENVELOPE(-89.0094854,-88.40027034,43.63351855,43.19471212)",
  "thumbnail_path_ss": "",
- "uw_supplemental_s": "This data is also available as a series of tiles to enable downloads of smaller, more specific areas within the county. To access the tiled data, please visit: https://www.sco.wisc.edu/scoapps/lidar/tile-search/?layer=dodge",
+ "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Dodge/Dodge_2017_3DEP_Delivery/Metadata/Metadata.zip",
  "uw_notice_s": "",
  "uw_deprioritize_item_b": false
 }

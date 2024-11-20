@@ -33,7 +33,7 @@
  "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/Grant_DEM_tiled_USGS_2020.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Grant_LIDAR_USGS_2020.xml\"}",
  "solr_geom": "ENVELOPE(-91.15685483,-90.42575702,43.21157413,42.5071642)",
  "thumbnail_path_ss": "",
- "uw_supplemental_s": "Detailed metadata for this data can be accessed here: https://bin.ssec.wisc.edu/pub/wisconsinview/lidar/Grant/Grant_2020_3DEP_Delivery/metadata/",
+ "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Grant/Grant_2020_3DEP_Delivery/Metadata/Metadata.zip",
  "uw_notice_s": "",
  "uw_deprioritize_item_b": false
 }

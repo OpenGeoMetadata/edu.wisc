@@ -30,10 +30,10 @@
  ],
  "solr_year_i": 2017,
  "dct_issued_s": "",
- "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://bin.ssec.wisc.edu/pub/wisconsinview/lidar/La_Crosse/La_Crosse_2017_WVP_Derived_Products/Rasters_WTM_EPSG3071/La_Crosse2017_beDEM1m_ELm_WTM.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/LaCrosse_LIDAR_USGS_2017.xml\"}",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/lidar/La_Crosse/La_Crosse_2017_WVP_Derived_Products/Rasters_WTM_EPSG3071/La_Crosse2017_beDEM1m_ELm_WTM.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/LaCrosse_LIDAR_USGS_2017.xml\"}",
  "solr_geom": "ENVELOPE(-91.42535505,-90.91009489,44.09069486,43.72484592)",
  "thumbnail_path_ss": "",
- "uw_supplemental_s": "This lidar data dataset was created by the WisconsinView Partners (WVP) – the WI Department of Administration’s Geographic Information Office in collaboration with the UW-Madison Space Science and Engineering Center’s (SSEC) WisconsinView repository. Original lidar data in tiled format from federal or local county/city lidar projects were used to create countywide mosaics of datasets such as DEMS, Intensity images, and DSMs in various projections and coordinate systems.",
+ "uw_supplemental_s": "This lidar data dataset was created by the WisconsinView Partners (WVP) – the WI Department of Administration’s Geographic Information Office in collaboration with the UW-Madison Space Science and Engineering Center’s (SSEC) WisconsinView repository. Original lidar data in tiled format from federal or local county/city lidar projects were used to create countywide mosaics of datasets such as DEMS, Intensity images, and DSMs in various projections and coordinate systems. For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/La_Crosse/La_Crosse_2017_3DEP_Delivery/Metadata/Metadata.zip",
  "uw_notice_s": "",
  "uw_deprioritize_item_b": false
 }

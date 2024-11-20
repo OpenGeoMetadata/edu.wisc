@@ -33,7 +33,7 @@
  "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/CityofSheboygan_classified_LAS_City_2009.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/CityofSheboygan_LIDAR_City_2009.xml\"}",
  "solr_geom": "ENVELOPE(-87.781091,-87.685921,43.815252,43.684797)",
  "thumbnail_path_ss": "",
- "uw_supplemental_s": "",
+ "uw_supplemental_s": "For detailed metadata please visit: ",
  "uw_notice_s": "",
  "uw_deprioritize_item_b": false
 }
