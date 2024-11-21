@@ -1,0 +1,39 @@
+{
+	"geoblacklight_version": "1.0",
+	"dc_identifier_s": "19bb8741-35f1-4469-adf0-ccf9a1658601",
+	"dc_title_s": "LiDAR-Derived Tiled DEM for Vernon County, WI 2020",
+	"dc_description_s": "This data represents a LiDAR-derived tiled Digital Elevation Model (DEM) for Vernon County, Wisconsin in 2020. A DEM represents the bare-Earth surface, removing all natural and built features. This dataset contains individual files available for download consisting of smaller tiled geographic areas over the extent of an entire county.",
+	"dc_rights_s": "Public",
+	"dct_provenance_s": "WisconsinView",
+	"layer_id_s": "",
+	"layer_slug_s": "19bb8741-35f1-4469-adf0-ccf9a1658601",
+	"layer_geom_type_s": "Raster",
+	"layer_modified_dt": "2024-01-18T02:31:13Z",
+	"dc_format_s": "GeoTIFF",
+	"dc_language_s": "English",
+	"dct_isPartOf_sm": [
+		"Wisconsin Elevation Data"
+	],
+	"dc_creator_sm": [
+		"U.S. Geological Survey"
+	],
+	"dc_publisher_sm": "",
+	"dc_type_s": "Dataset",
+	"dc_subject_sm": [
+		"Elevation"
+	],
+	"dct_spatial_sm": [
+		""
+	],
+	"dct_temporal_sm": [
+		"2020"
+	],
+	"solr_year_i": 2020,
+	"dct_issued_s": "",
+	"dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/Vernon_DEM_tiled_USGS_2020.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Vernon_LIDAR_USGS_2020.xml\"}",
+	"solr_geom": "ENVELOPE(-91.2732635,-90.31104723,43.73149652,43.42234461)",
+	"thumbnail_path_ss": "",
+	"uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Vernon/Vernon_2020_3DEP_Delivery/Metadata/Metadata.zip",
+	"uw_notice_s": "",
+	"uw_deprioritize_item_b": false
+}

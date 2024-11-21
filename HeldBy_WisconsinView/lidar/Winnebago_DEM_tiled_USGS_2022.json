@@ -1,0 +1,39 @@
+{
+ "geoblacklight_version": "1.0",
+ "dc_identifier_s": "c67c30ba-d153-460b-924a-6a26ac4812f4",
+ "dc_title_s": "LiDAR-Derived Tiled Digital Elevation Model (DEM) for Winnebago County, WI 2022",
+ "dc_description_s": "This data represents a LiDAR-derived tiled Digital Elevation Model (DEM) for Winnebago County, Wisconsin in 2022. A DEM represents the bare-Earth surface, removing all natural and built features.",
+ "dc_rights_s": "Public",
+ "dct_provenance_s": "WisconsinView",
+ "layer_id_s": "",
+ "layer_slug_s": "c67c30ba-d153-460b-924a-6a26ac4812f4",
+ "layer_geom_type_s": "Raster",
+"layer_modified_dt": "2024-04-22T20:12:43Z",
+ "dc_format_s": "GeoTIFF",
+ "dc_language_s": "English",
+ "dct_isPartOf_sm": [
+  "Wisconsin Elevation Data"
+ ],
+ "dc_creator_sm": [
+  "U.S. Geological Survey"
+ ],
+ "dc_publisher_sm": "",
+ "dc_type_s": "Dataset",
+ "dc_subject_sm": [
+  "Elevation"
+ ],
+ "dct_spatial_sm": [
+  ""
+ ],
+ "dct_temporal_sm": [
+  "2022"
+ ],
+ "solr_year_i": 2022,
+ "dct_issued_s": "",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/Winnebago_DEM_TileIndex_USGS_2022.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Winnebago_LIDAR_USGS_2022.xml\"}",
+ "solr_geom": "ENVELOPE(-88.88671857,-88.4029432,44.24415909,43.89289884)",
+ "thumbnail_path_ss": "",
+ "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Winnebago/Winnebago_2022_3DEP_Delivery/Metadata/Metadata.zip",
+ "uw_notice_s": "",
+ "uw_deprioritize_item_b": false
+}

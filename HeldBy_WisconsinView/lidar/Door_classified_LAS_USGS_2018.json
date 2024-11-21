@@ -1,0 +1,39 @@
+{
+	"geoblacklight_version": "1.0",
+	"dc_identifier_s": "b1e04fea-8a02-426d-94c1-0897707fa563",
+	"dc_title_s": "LiDAR-Derived Classified LAS for Door County, WI 2018",
+	"dc_description_s": "This data represents LiDAR-derived classified LAS points for Door County, Wisconsin in 2018. Point classification uses semi-automated techniques on the point cloud to assign the feature type associated with each point. LiDAR points can be classified into a number of categories including bare earth or ground, top of canopy, and water. The different classes are defined using numeric integer codes in the LAS files.",
+	"dc_rights_s": "Public",
+	"dct_provenance_s": "WisconsinView",
+	"layer_id_s": "",
+	"layer_slug_s": "b1e04fea-8a02-426d-94c1-0897707fa563",
+	"layer_geom_type_s": "Point",
+	"layer_modified_dt": "2024-01-18T02:31:13Z",
+	"dc_format_s": "LAS",
+	"dc_language_s": "English",
+	"dct_isPartOf_sm": [
+		"Wisconsin Elevation Data"
+	],
+	"dc_creator_sm": [
+		"U.S. Geological Survey"
+	],
+	"dc_publisher_sm": "",
+	"dc_type_s": "Dataset",
+	"dc_subject_sm": [
+		"Elevation"
+	],
+	"dct_spatial_sm": [
+		""
+	],
+	"dct_temporal_sm": [
+		"2018"
+	],
+	"solr_year_i": 2018,
+	"dct_issued_s": "",
+	"dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/Door_classified_LAS_USGS_2018.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Door_LIDAR_USGS_2018.xml\"}",
+	"solr_geom": "ENVELOPE(-87.73656895,-86.80479845,45.42841759,44.67514743)",
+	"thumbnail_path_ss": "",
+	"uw_supplemental_s": "",
+	"uw_notice_s": "",
+	"uw_deprioritize_item_b": false
+}

@@ -1,0 +1,39 @@
+{
+ "geoblacklight_version": "1.0",
+ "dc_identifier_s": "c2cbf61a-10e5-4f1c-b1ec-07525f74400e",
+ "dc_title_s": "LiDAR-Derived Bare Earth Points for Iron County, WI 2015",
+ "dc_description_s": "This data represents LiDAR-derived bare earth points for Iron County, Wisconsin in 2015. Bare earth LiDAR is digital elevation data of the terrain surface consisting of irregularly spaced points, each with x/y location coordinates and z-value. The data have been subjected to automated and manual editing to remove vegetation, buildings, and other man-made structures.",
+ "dc_rights_s": "Public",
+ "dct_provenance_s": "WisconsinView",
+ "layer_id_s": "",
+ "layer_slug_s": "c2cbf61a-10e5-4f1c-b1ec-07525f74400e",
+ "layer_geom_type_s": "Point",
+"layer_modified_dt": "2022-01-22T20:12:43Z",
+ "dc_format_s": "LAS",
+ "dc_language_s": "English",
+ "dct_isPartOf_sm": [
+  "Wisconsin Elevation Data","Coastal"
+ ],
+ "dc_creator_sm": [
+  "Iron County"
+ ],
+ "dc_publisher_sm": "",
+ "dc_type_s": "Dataset",
+ "dc_subject_sm": [
+  "Elevation"
+ ],
+ "dct_spatial_sm": [
+  ""
+ ],
+ "dct_temporal_sm": [
+  "2015"
+ ],
+ "solr_year_i": 2015,
+ "dct_issued_s": "",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/iron-2015-BareEarthPoints.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Iron_LIDAR_County_2015.xml\"}",
+ "solr_geom": "ENVELOPE(-90.55228446,-89.92830784,46.59004326,45.98148968)",
+ "thumbnail_path_ss": "",
+ "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Iron/Iron_2015_County_Delivery/Metadata/Metadata.zip",
+ "uw_notice_s": "",
+ "uw_deprioritize_item_b": false
+}

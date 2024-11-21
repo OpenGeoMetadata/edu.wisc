@@ -1,0 +1,39 @@
+{
+	"geoblacklight_version": "1.0",
+	"dc_identifier_s": "1aeb67c3-592e-440f-a7d6-1dc42bf214da",
+	"dc_title_s": "LiDAR Tile Index for Door County, WI 2018",
+	"dc_description_s": "This data represents the tile index used for LiDAR-derived datasets in Door County, Wisconsin in 2018. The tile index is a shapefile that shows how tiled lidar datasets are labeled and where they are located geographically.",
+	"dc_rights_s": "Public",
+	"dct_provenance_s": "WisconsinView",
+	"layer_id_s": "",
+	"layer_slug_s": "1aeb67c3-592e-440f-a7d6-1dc42bf214da",
+	"layer_geom_type_s": "Polygon",
+	"layer_modified_dt": "2024-01-18T02:31:13Z",
+	"dc_format_s": "Shapefile",
+	"dc_language_s": "English",
+	"dct_isPartOf_sm": [
+		"Wisconsin Elevation Data"
+	],
+	"dc_creator_sm": [
+		"U.S. Geological Survey"
+	],
+	"dc_publisher_sm": "",
+	"dc_type_s": "Dataset",
+	"dc_subject_sm": [
+		"Elevation"
+	],
+	"dct_spatial_sm": [
+		""
+	],
+	"dct_temporal_sm": [
+		"2018"
+	],
+	"solr_year_i": 2018,
+	"dct_issued_s": "",
+	"dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Door/Door_2018_TNM_Download/Tile_Index/DoorCo_tile_index.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Door_LIDAR_USGS_2018.xml\"}",
+	"solr_geom": "ENVELOPE(-87.73656895,-86.80479845,45.42841759,44.67514743)",
+	"thumbnail_path_ss": "",
+	"uw_supplemental_s": "",
+	"uw_notice_s": "",
+	"uw_deprioritize_item_b": false
+}

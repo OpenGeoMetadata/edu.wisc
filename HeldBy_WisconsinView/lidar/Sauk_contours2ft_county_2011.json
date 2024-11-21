@@ -1,0 +1,39 @@
+{
+ "geoblacklight_version": "1.0",
+ "dc_identifier_s": "318dcb54-59bf-4460-855d-9228d57857a5",
+ "dc_title_s": "LiDAR-Derived 2-foot Contours for Sauk County, WI 2011",
+ "dc_description_s": "This data represents LiDAR-derived 2-foot contours for Sauk County, Wisconsin in 2011. A contour is a line through all contiguous points of equal elevation value. Contours are vector features used to represent the elevation of a landscape in a relatively familiar way. They are typically used for basemaps and general topographic representation. This data is available in both SHP and DWG formats.",
+ "dc_rights_s": "Public",
+ "dct_provenance_s": "WisconsinView",
+ "layer_id_s": "",
+ "layer_slug_s": "318dcb54-59bf-4460-855d-9228d57857a5",
+ "layer_geom_type_s": "Line",
+"layer_modified_dt": "2022-01-22T20:12:43Z",
+ "dc_format_s": "Shapefile",
+ "dc_language_s": "English",
+ "dct_isPartOf_sm": [
+  "Wisconsin Elevation Data"
+ ],
+ "dc_creator_sm": [
+  "Sauk County"
+ ],
+ "dc_publisher_sm": "",
+ "dc_type_s": "Dataset",
+ "dc_subject_sm": [
+  "Elevation"
+ ],
+ "dct_spatial_sm": [
+  ""
+ ],
+ "dct_temporal_sm": [
+  "2011"
+ ],
+ "solr_year_i": 2011,
+ "dct_issued_s": "",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/sauk-2011-Contours2ftSHP.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Sauk_LIDAR_County_2011.xml\"}",
+ "solr_geom": "ENVELOPE(-90.31263231,-89.59970288,43.64211134,43.14539735)",
+ "thumbnail_path_ss": "",
+ "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Sauk/Sauk_2011_County_Delivery/Metadata/Metadata.zip",
+ "uw_notice_s": "",
+ "uw_deprioritize_item_b": false
+}

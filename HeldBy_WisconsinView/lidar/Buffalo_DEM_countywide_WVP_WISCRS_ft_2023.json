@@ -1,0 +1,39 @@
+{
+ "geoblacklight_version": "1.0",
+ "dc_identifier_s": "8bc05b19-d73e-4ab3-a03b-55bd59790258",
+ "dc_title_s": "Lidar-Derived Countywide 1-ft DEM for Buffalo County, WI 2023",
+ "dc_description_s": "This data represents a Lidar-derived countywide 1-ft Digital Elevation Model (DEM) for Buffalo County, Wisconsin in 2023. This dataset is in WISCRS coordinates for Buffalo County with elevation in feet. A DEM represents the bare-Earth surface, removing all natural and built features.",
+ "dc_rights_s": "Public",
+ "dct_provenance_s": "WisconsinView",
+ "layer_id_s": "",
+ "layer_slug_s": "8bc05b19-d73e-4ab3-a03b-55bd59790258",
+ "layer_geom_type_s": "Raster",
+"layer_modified_dt": "2024-09-17T20:12:43Z",
+ "dc_format_s": "GeoTIFF",
+ "dc_language_s": "English",
+ "dct_isPartOf_sm": [
+  "Wisconsin Elevation Data"
+ ],
+ "dc_creator_sm": [
+  "Wisconsin Department of Administration - Geographic Information Office"
+ ],
+ "dc_publisher_sm": "",
+ "dc_type_s": "Dataset",
+ "dc_subject_sm": [
+  "Elevation"
+ ],
+ "dct_spatial_sm": [
+  ""
+ ],
+ "dct_temporal_sm": [
+  "2023"
+ ],
+ "solr_year_i": 2023,
+ "dct_issued_s": "",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationLidar/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Buffalo/Buffalo_2023_WVP_Derived_Products/Buffalo2023_beDEM1ft_Elft_WISCRS.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Buffalo_Lidar_USGS_2023.xml\"}",
+ "solr_geom": "ENVELOPE(-92.08414741,-91.52874793,44.59672542,44.02537821)",
+ "thumbnail_path_ss": "",
+ "uw_supplemental_s": "This Lidar data dataset was created by the WisconsinView Partners (WVP) – the WI Department of Administration’s Geographic Information Office in collaboration with the UW-Madison Space Science and Engineering Center’s (SSEC) WisconsinView repository. Original Lidar data in tiled format from federal or local county/city Lidar projects were used to create countywide mosaics of datasets such as DEMS, Intensity images, and DSMs in various projections and coordinate systems.",
+ "uw_notice_s": "",
+ "uw_deprioritize_item_b": false
+}

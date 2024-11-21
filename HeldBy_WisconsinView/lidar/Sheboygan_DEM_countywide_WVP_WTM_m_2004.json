@@ -1,0 +1,39 @@
+{
+ "geoblacklight_version": "1.0",
+ "dc_identifier_s": "ceb2ecc3-c24f-46fd-9ce4-fa4dfd7fa84e",
+ "dc_title_s": "LiDAR-Derived Countywide 1.5m DEM (m) for Sheboygan County, WI 2004",
+ "dc_description_s": "This data represents a LiDAR-derived countywide Digital Elevation Model (DEM) forSheboygan County, Wisconsin in 2004. The elevation is in meters, and the coordinate system is WTM (EPSG 3071). A DEM represents the bare-Earth surface, removing all natural and built features. This dataset contains a single file covering the geographic extent of the entire county.",
+ "dc_rights_s": "Public",
+ "dct_provenance_s": "WisconsinView",
+ "layer_id_s": "",
+ "layer_slug_s": "ceb2ecc3-c24f-46fd-9ce4-fa4dfd7fa84e",
+ "layer_geom_type_s": "Raster",
+"layer_modified_dt": "2024-02-01T20:12:43Z",
+ "dc_format_s": "GeoTIFF",
+ "dc_language_s": "English",
+ "dct_isPartOf_sm": [
+  "Wisconsin Elevation Data","Coastal"
+ ],
+ "dc_creator_sm": [
+  "Wisconsin Department of Administration - Geographic Information Office"
+ ],
+ "dc_publisher_sm": "",
+ "dc_type_s": "Dataset",
+ "dc_subject_sm": [
+  "Elevation"
+ ],
+ "dct_spatial_sm": [
+  ""
+ ],
+ "dct_temporal_sm": [
+  "2004"
+ ],
+ "solr_year_i": 2004,
+ "dct_issued_s": "",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Sheboygan/Sheboygan_2004_WVP_Derived_Products/Rasters_DEM_WTM_EPSG3071/Sheboygan_2004_beDEM1.5m_ELm_WTM.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Sheboygan_LIDAR_County_2004.xml\"}",
+ "solr_geom": "ENVELOPE(-88.16222993,-87.69554395,43.89247712,43.54242181)",
+ "thumbnail_path_ss": "",
+ "uw_supplemental_s": "",
+ "uw_notice_s": "",
+ "uw_deprioritize_item_b": false
+}

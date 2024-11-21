@@ -1,0 +1,39 @@
+{
+ "geoblacklight_version": "1.0",
+ "dc_identifier_s": "e0b3d08e-45e9-4fc7-9df5-43b05d0febf2",
+ "dc_title_s": "LiDAR-Derived Classified Raw LAS for Racine County, WI 2010",
+ "dc_description_s": "This data represents LiDAR-derived classified LAS points for Racine County, Wisconsin in 2010. Point classification uses semi-automated techniques on the point cloud to assign the feature type associated with each point. LiDAR points can be classified into a number of categories including bare earth or ground, top of canopy, and water. The different classes are defined using numeric integer codes in the LAS files.",
+ "dc_rights_s": "Public",
+ "dct_provenance_s": "WisconsinView",
+ "layer_id_s": "",
+ "layer_slug_s": "e0b3d08e-45e9-4fc7-9df5-43b05d0febf2",
+ "layer_geom_type_s": "Point",
+ "layer_modified_dt": "2022-05-09T16:04:00Z",
+ "dc_format_s": "LAS",
+ "dc_language_s": "English",
+ "dct_isPartOf_sm": [
+  "Wisconsin Elevation Data"
+ ],
+ "dc_creator_sm": [
+  "Racine County"
+ ],
+ "dc_publisher_sm": "",
+ "dc_type_s": "Dataset",
+ "dc_subject_sm": [
+  "Elevation"
+ ],
+ "dct_spatial_sm": [
+  ""
+ ],
+ "dct_temporal_sm": [
+  "2010"
+ ],
+ "solr_year_i": 2010,
+ "dct_issued_s": "",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/racine-2010-PointsClassifiedRawLAS.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Racine_LIDAR_County_2010.xml\"}",
+ "solr_geom": "ENVELOPE(-88.30795627,-87.75750955,42.84359745,42.61075475)",
+ "thumbnail_path_ss": "",
+ "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Racine/Racine_2010_County_Delivery/Metadata/Metadata.zip",
+ "uw_notice_s": "",
+ "uw_deprioritize_item_b": false
+}

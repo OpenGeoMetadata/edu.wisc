@@ -1,0 +1,39 @@
+{
+ "geoblacklight_version": "1.0",
+ "dc_identifier_s": "a67c7294-bbda-418d-83c5-bf477ad11fbf",
+ "dc_title_s": "LiDAR Tile Index for Wood County, WI 2022",
+ "dc_description_s": "This data represents the tile index used for LiDAR-derived datasets in Wood County, Wisconsin in 2022. The tile index is a shapefile that shows how tiled lidar datasets are labeled and where they are located geographically.",
+ "dc_rights_s": "Public",
+ "dct_provenance_s": "WisconsinView",
+ "layer_id_s": "",
+ "layer_slug_s": "a67c7294-bbda-418d-83c5-bf477ad11fbf",
+ "layer_geom_type_s": "Polygon",
+"layer_modified_dt": "2024-04-22T20:12:43Z",
+ "dc_format_s": "Shapefile",
+ "dc_language_s": "English",
+ "dct_isPartOf_sm": [
+  "Wisconsin Elevation Data"
+ ],
+ "dc_creator_sm": [
+  "U.S. Geological Survey"
+ ],
+ "dc_publisher_sm": "",
+ "dc_type_s": "Dataset",
+ "dc_subject_sm": [
+  "Elevation"
+ ],
+ "dct_spatial_sm": [
+  ""
+ ],
+ "dct_temporal_sm": [
+  "2022"
+ ],
+ "solr_year_i": 2022,
+ "dct_issued_s": "",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Wood/Wood_2022_3DEP_Delivery/Tile_Index/Tile_Index.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Wood_LIDAR_USGS_2022.xml\"}",
+ "solr_geom": "ENVELOPE(-90.31798902,-89.7244899,44.68537623,44.24763102)",
+ "thumbnail_path_ss": "",
+ "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Wood/Wood_2022_3DEP_Delivery/Metadata/Metadata.zip",
+ "uw_notice_s": "",
+ "uw_deprioritize_item_b": false
+}

@@ -1,0 +1,39 @@
+{
+ "geoblacklight_version": "1.0",
+ "dc_identifier_s": "e96c41e3-7b55-4b43-9b68-fe3a8f527f47",
+ "dc_title_s": "LiDAR-Derived Bare Earth Points for Rock County, WI 2011",
+ "dc_description_s": "This data represents LiDAR-derived bare earth points for Rock County, Wisconsin in 2011. Bare earth LiDAR is digital elevation data of the terrain surface consisting of irregularly spaced points, each with x/y location coordinates and z-value. The data have been subjected to automated and manual editing to remove vegetation, buildings, and other man-made structures. This data is available in LAS, SHP, DWG, and XYZ formats.",
+ "dc_rights_s": "Public",
+ "dct_provenance_s": "WisconsinView",
+ "layer_id_s": "",
+ "layer_slug_s": "e96c41e3-7b55-4b43-9b68-fe3a8f527f47",
+ "layer_geom_type_s": "Point",
+"layer_modified_dt": "2022-01-22T20:12:43Z",
+ "dc_format_s": "LAS",
+ "dc_language_s": "English",
+ "dct_isPartOf_sm": [
+  "Wisconsin Elevation Data"
+ ],
+ "dc_creator_sm": [
+  "Rock County"
+ ],
+ "dc_publisher_sm": "",
+ "dc_type_s": "Dataset",
+ "dc_subject_sm": [
+  "Elevation"
+ ],
+ "dct_spatial_sm": [
+  ""
+ ],
+ "dct_temporal_sm": [
+  "2011"
+ ],
+ "solr_year_i": 2011,
+ "dct_issued_s": "",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Rock/WI_Rock_new/Bare_Earth/Bare_Earth.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Rock_LIDAR_County_2011.xml\"}",
+ "solr_geom": "ENVELOPE(-89.36927387,-88.77603315,42.84764122,42.49196631)",
+ "thumbnail_path_ss": "",
+ "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Rock/WI_Rock_new/Metadata/Metadata.zip",
+ "uw_notice_s": "",
+ "uw_deprioritize_item_b": false
+}

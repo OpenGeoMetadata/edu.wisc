@@ -1,0 +1,39 @@
+{
+ "geoblacklight_version": "1.0",
+ "dc_identifier_s": "967c8045-0241-4ba8-b447-c361d04e80ec",
+ "dc_title_s": "LiDAR-Derived Countywide DEM for Racine County, WI 2010",
+ "dc_description_s": "This data represents a LiDAR-derived countywide Digital Elevation Model (DEM) for Racine County, Wisconsin in 2010. A DEM represents the bare-Earth surface, removing all natural and built features. This dataset contains a single file covering the geographic extent of the entire county.",
+ "dc_rights_s": "Public",
+ "dct_provenance_s": "WisconsinView",
+ "layer_id_s": "",
+ "layer_slug_s": "967c8045-0241-4ba8-b447-c361d04e80ec",
+ "layer_geom_type_s": "Raster",
+"layer_modified_dt": "2022-01-22T20:12:43Z",
+ "dc_format_s": "GeoTIFF",
+ "dc_language_s": "English",
+ "dct_isPartOf_sm": [
+  "Wisconsin Elevation Data","Coastal"
+ ],
+ "dc_creator_sm": [
+  "Racine County"
+ ],
+ "dc_publisher_sm": "",
+ "dc_type_s": "Dataset",
+ "dc_subject_sm": [
+  "Elevation"
+ ],
+ "dct_spatial_sm": [
+  ""
+ ],
+ "dct_temporal_sm": [
+  "2010"
+ ],
+ "solr_year_i": 2010,
+ "dct_issued_s": "",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Racine/Racine_2010_County_Delivery/Raster_DEM_County/Racine2010_beDEM1m_ELft_UTM16.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Racine_LIDAR_County_2010.xml\"}",
+ "solr_geom": "ENVELOPE(-88.30795627,-87.75750955,42.84359745,42.61075475)",
+ "thumbnail_path_ss": "",
+ "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Racine/Racine_2010_County_Delivery/Metadata/Metadata.zip",
+ "uw_notice_s": "",
+ "uw_deprioritize_item_b": false
+}
