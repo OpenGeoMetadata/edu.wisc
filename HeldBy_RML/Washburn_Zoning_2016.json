@@ -22,6 +22,6 @@
 "solr_year_i": 2016,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Washburn_Zoning_2016.zip\",\"http://schema.org/url\":\"http://www.co.washburn.wi.us/departments/land-info-surveyor-mapping/gis-data\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Washburn_Zoning_2016.xml\"}",
 "solr_geom": "ENVELOPE(-92.05069, -91.53846, 46.161108, 45.63797)",
-"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data available, please visit: https://www.co.washburn.wi.us/departments/land-info-surveyor-mapping/gis-data",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data available, please visit: https://co.washburn.wi.us/gis-data-downloads/",
 "uw_notice_s": ""
 }

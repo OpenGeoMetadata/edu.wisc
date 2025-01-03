@@ -11,7 +11,7 @@
 "layer_modified_dt": "2022-07-26T21:20:38Z",
 "dc_format_s": "Shapefile",
 "dc_language_s": "English",
-"dct_isPartOf_sm": [],
+"dct_isPartOf_sm": ["Wisconsin State Agencies"],
 "dc_creator_sm": ["Wisconsin Department of Administration"],
 "dc_publisher_sm": "",
 "dc_type_s": "Dataset",
@@ -22,6 +22,6 @@
 "solr_year_i": 2022,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Washburn_Parcels_2022_SHP.zip\",\"http://schema.org/url\":\"https://www.sco.wisc.edu/parcels/data/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Washburn_Parcels_2022_SHP.xml\"}",
 "solr_geom": "ENVELOPE(-92.057179, -91.532303, 46.16551, 45.629865)",
-"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data available, please visit: https://www.co.washburn.wi.us/departments/land-info-surveyor-mapping/gis-data",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data available, please visit: https://co.washburn.wi.us/gis-data-downloads/",
 "uw_notice_s": ""
 }

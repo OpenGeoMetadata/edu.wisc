@@ -2,7 +2,7 @@
 "geoblacklight_version": "1.0",
 "dc_identifier_s": "F88A15E0-E18E-49A4-9F53-92B42CB8089D",
 "dc_title_s": "Zoning Bayfield County, WI 2023",
-"dc_description_s": "This data represents zoning in Bayfield County in 2022 and includes the layers 'BAYFIELD_AIRPORT_2022', 'BAYFIELD_GENERAL_2022' and 'BAYFIELD_SHORELAND_2022'.[Shoreland: This layer contains shoreland zoning data for Bayfield County. General:  Airport: This layer contains airport location data in Bayfield County. Link to metadata information: https://www.bayfieldcounty.org/437/GIS-Metadata.]",
+"dc_description_s": "This data represents zoning in Bayfield County in 2022 and includes the layers 'BAYFIELD_AIRPORT_2022', 'BAYFIELD_GENERAL_2022' and 'BAYFIELD_SHORELAND_2022'.[Shoreland: This layer contains shoreland zoning data for Bayfield County. General:  Airport: This layer contains airport location data in Bayfield County.]",
 "dc_rights_s": "Public",
 "dct_provenance_s": "UW-Madison Robinson Map Library",
 "layer_id_s": "",

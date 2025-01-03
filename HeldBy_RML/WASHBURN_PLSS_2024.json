@@ -20,8 +20,8 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2024"],
 "solr_year_i": 2024,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WASHBURN_PLSS_2024.zip\",\"http://schema.org/url\":\"https://www.co.washburn.wi.us/departments/land-info-surveyor-mapping/gis-data\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WASHBURN_PLSS_2024.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WASHBURN_PLSS_2024.zip\",\"http://schema.org/url\":\"https://co.washburn.wi.us/gis-data-downloads/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WASHBURN_PLSS_2024.xml\"}",
 "solr_geom": "ENVELOPE(-92.057179, -91.532303, 46.16551, 45.629865)",
-"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data available, please visit: https://www.co.washburn.wi.us/departments/land-info-surveyor-mapping/gis-data",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data available, please visit: https://co.washburn.wi.us/gis-data-downloads/",
 "uw_notice_s": ""
 }
