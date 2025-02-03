@@ -1,8 +1,8 @@
 {
  "geoblacklight_version": "1.0",
  "dc_identifier_s": "8c752c8b-1fcb-476d-a126-647258a66376",
- "dc_title_s": "LiDAR-Derived Countywide First Return Intensity Image for St_Croix County, WI 2021",
- "dc_description_s": "This data represents a LiDAR-derived 2-ft First Return Intensity Image for St_Croix County, Wisconsin in 2021. This dataset has 2-ft x 2-ft grid cells and is in the WISCRS coordinate system for St_Croix County: EPSG 7634. LiDAR intensity is recorded as the return strength of a laser beam. It is a bi-product, provided as an integer number between 1-256. This number varies with the composition of the surface object reflecting the laser beam. A low number indicates low reflectivity while a high number indicates high reflectivity. The intensity of the laser beam return can also be affected by the angle of arrival (scan angle), range, surface composition, roughness, and moisture content.",
+ "dc_title_s": "LiDAR-Derived Countywide First Return Intensity Image for St. Croix County, WI 2021",
+ "dc_description_s": "This data represents a LiDAR-derived 2-ft First Return Intensity Image for St. Croix County, Wisconsin in 2021. This dataset has 2-ft x 2-ft grid cells and is in the WISCRS coordinate system for St. Croix County: EPSG 7634. LiDAR intensity is recorded as the return strength of a laser beam. It is a bi-product, provided as an integer number between 1-256. This number varies with the composition of the surface object reflecting the laser beam. A low number indicates low reflectivity while a high number indicates high reflectivity. The intensity of the laser beam return can also be affected by the angle of arrival (scan angle), range, surface composition, roughness, and moisture content.",
  "dc_rights_s": "Public",
  "dct_provenance_s": "WisconsinView",
  "layer_id_s": "",

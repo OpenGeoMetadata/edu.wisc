@@ -1,8 +1,8 @@
 {
  "geoblacklight_version": "1.0",
  "dc_identifier_s": "cb20ee2c-d8d0-4f97-bb76-ef0b3c7d9ebf",
- "dc_title_s": "LiDAR-Derived Countywide 2-ft Bare Earth DEM (m) for St_Croix County, WI 2021",
- "dc_description_s": "This data represents a LiDAR-derived 2-ft Digital Elevation Model (DEM) for St_Croix County, Wisconsin in 2021. This dataset has elevation values in meters and is in the WISCRS coordinate system for St_Croix County: EPSG 7634. A DEM represents the bare-Earth surface, removing all natural and built features.",
+ "dc_title_s": "LiDAR-Derived Countywide 2-ft Bare Earth DEM (m) for St. Croix County, WI 2021",
+ "dc_description_s": "This data represents a LiDAR-derived 2-ft Digital Elevation Model (DEM) for St. Croix County, Wisconsin in 2021. This dataset has elevation values in meters and is in the WISCRS coordinate system for St_Croix County: EPSG 7634. A DEM represents the bare-Earth surface, removing all natural and built features.",
  "dc_rights_s": "Public",
  "dct_provenance_s": "WisconsinView",
  "layer_id_s": "",

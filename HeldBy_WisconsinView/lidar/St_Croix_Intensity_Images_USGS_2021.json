@@ -1,8 +1,8 @@
 {
 	"geoblacklight_version": "1.0",
 	"dc_identifier_s": "4619701f-d30b-441d-8fbb-eaea440604f8",
-	"dc_title_s": "LiDAR-Derived Intensity Images for St_Croix County, WI 2021",
-	"dc_description_s": "This data represents LiDAR-derived tiled intensity images for St_Croix County, Wisconsin in 2021. LiDAR intensity is recorded as the return strength of a laser beam. It is a bi-product, provided as an integer number between 1-256. This number varies with the composition of the surface object reflecting the laser beam. A low number indicates low reflectivity while a high number indicates high reflectivity. The intensity of the laser beam return can also be affected by the angle of arrival (scan angle), range, surface composition, roughness, and moisture content.",
+	"dc_title_s": "LiDAR-Derived Intensity Images for St. Croix County, WI 2021",
+	"dc_description_s": "This data represents LiDAR-derived tiled intensity images for St. Croix County, Wisconsin in 2021. LiDAR intensity is recorded as the return strength of a laser beam. It is a bi-product, provided as an integer number between 1-256. This number varies with the composition of the surface object reflecting the laser beam. A low number indicates low reflectivity while a high number indicates high reflectivity. The intensity of the laser beam return can also be affected by the angle of arrival (scan angle), range, surface composition, roughness, and moisture content.",
 	"dc_rights_s": "Public",
 	"dct_provenance_s": "WisconsinView",
 	"layer_id_s": "",

@@ -1,8 +1,8 @@
 {
  "geoblacklight_version": "1.0",
  "dc_identifier_s": "1a4403e1-3187-4c4c-9950-20eb5cb5dfb2",
- "dc_title_s": "LiDAR-Derived Countywide 60-cm Hillshade Image for St_Croix County, WI 2021",
- "dc_description_s": "This data represents a LiDAR-derived 60-cm Bare Earth DEM Hillshade Image for St_Croix County, Wisconsin in 2021. This dataset is in the WTM coordinate system: EPSG 3071. Hillshading is a technique used to visualize terrain as shaded relief, illuminating it with a hypothetical light source. The illumination value for each raster cell is determined by its orientation to the light source, which is based on slope and aspect.",
+ "dc_title_s": "LiDAR-Derived Countywide 60-cm Hillshade Image for St. Croix County, WI 2021",
+ "dc_description_s": "This data represents a LiDAR-derived 60-cm Bare Earth DEM Hillshade Image for St. Croix County, Wisconsin in 2021. This dataset is in the WTM coordinate system: EPSG 3071. Hillshading is a technique used to visualize terrain as shaded relief, illuminating it with a hypothetical light source. The illumination value for each raster cell is determined by its orientation to the light source, which is based on slope and aspect.",
  "dc_rights_s": "Public",
  "dct_provenance_s": "WisconsinView",
  "layer_id_s": "",

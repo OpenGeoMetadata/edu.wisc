@@ -1,8 +1,8 @@
 {
  "geoblacklight_version": "1.0",
  "dc_identifier_s": "860f20af-55f0-4efc-9f64-ca49bdd56e40",
- "dc_title_s": "LiDAR-Derived Classified LAS for St_Croix County, WI 2014",
- "dc_description_s": "This data represents LiDAR-derived classified LAS points for St_Croix County, Wisconsin in 2014. Point classification uses semi-automated techniques on the point cloud to assign the feature type associated with each point. LiDAR points can be classified into a number of categories including bare earth or ground, top of canopy, and water. The different classes are defined using numeric integer codes in the LAS files.",
+ "dc_title_s": "LiDAR-Derived Classified LAS for St. Croix County, WI 2014",
+ "dc_description_s": "This data represents LiDAR-derived classified LAS points for St. Croix County, Wisconsin in 2014. Point classification uses semi-automated techniques on the point cloud to assign the feature type associated with each point. LiDAR points can be classified into a number of categories including bare earth or ground, top of canopy, and water. The different classes are defined using numeric integer codes in the LAS files.",
  "dc_rights_s": "Public",
  "dct_provenance_s": "WisconsinView",
  "layer_id_s": "",
@@ -15,7 +15,7 @@
   "Wisconsin Elevation Data"
  ],
  "dc_creator_sm": [
-  "St_Croix County"
+  "St. Croix County"
  ],
  "dc_publisher_sm": "",
  "dc_type_s": "Dataset",

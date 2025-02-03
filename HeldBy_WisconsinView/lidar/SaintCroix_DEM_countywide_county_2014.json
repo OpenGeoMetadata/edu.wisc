@@ -1,8 +1,8 @@
 {
  "geoblacklight_version": "1.0",
  "dc_identifier_s": "f77c8019-f9e9-4767-bc65-134e0e4a8f18",
- "dc_title_s": "LiDAR-Derived Countywide DEM for St_Croix County, WI 2014",
- "dc_description_s": "This data represents a LiDAR-derived countywide Digital Elevation Model (DEM) for St_Croix County, Wisconsin in 2014. A DEM represents the bare-Earth surface, removing all natural and built features. This dataset contains a single file covering the geographic extent of the entire county.",
+ "dc_title_s": "LiDAR-Derived Countywide DEM for St. Croix County, WI 2014",
+ "dc_description_s": "This data represents a LiDAR-derived countywide Digital Elevation Model (DEM) for St. Croix County, Wisconsin in 2014. A DEM represents the bare-Earth surface, removing all natural and built features. This dataset contains a single file covering the geographic extent of the entire county.",
  "dc_rights_s": "Public",
  "dct_provenance_s": "WisconsinView",
  "layer_id_s": "",
@@ -15,7 +15,7 @@
   "Wisconsin Elevation Data"
  ],
  "dc_creator_sm": [
-  "St_Croix County"
+  "St. Croix County"
  ],
  "dc_publisher_sm": "",
  "dc_type_s": "Dataset",

@@ -1,8 +1,8 @@
 {
 	"geoblacklight_version": "1.0",
 	"dc_identifier_s": "97c57548-a6d5-425d-a320-af4fd0a6dcc6",
-	"dc_title_s": "LiDAR-Derived Breaklines for St_Croix County, WI 2021",
-	"dc_description_s": "This data represents LiDAR-derived breaklines in St_Croix County, Wisconsin in 2021. Hydro breaklines maintain the definition of water-related features in an elevation model. They are used to capture linear discontinuities in the surface, lake shorelines, single-line drains for small rivers, and double-line drains for large rivers.",
+	"dc_title_s": "LiDAR-Derived Breaklines for St. Croix County, WI 2021",
+	"dc_description_s": "This data represents LiDAR-derived breaklines in St. Croix County, Wisconsin in 2021. Hydro breaklines maintain the definition of water-related features in an elevation model. They are used to capture linear discontinuities in the surface, lake shorelines, single-line drains for small rivers, and double-line drains for large rivers.",
 	"dc_rights_s": "Public",
 	"dct_provenance_s": "WisconsinView",
 	"layer_id_s": "",
