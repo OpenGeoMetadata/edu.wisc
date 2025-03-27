@@ -8,7 +8,7 @@
 "layer_id_s": "",
 "layer_slug_s": "A115EB5B-641C-42F5-9FFA-C647A62360B3",
 "layer_geom_type_s": "Point",
-"layer_modified_dt": "2025-02-04T15:40:47Z",
+"layer_modified_dt": "2025-03-13T17:14:11Z",
 "dc_format_s": "Geodatabase",
 "dc_language_s": "English",
 "dct_isPartOf_sm": [],
@@ -21,7 +21,7 @@
 "dct_temporal_sm": ["2025"],
 "solr_year_i": 2025,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/FOREST_ADDRESSES_2025.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/FOREST_ADDRESSES_2025.xml\"}",
-"solr_geom": "ENVELOPE(-89.050712, -88.423785, 46.057998, 45.376578)",
+"solr_geom": "ENVELOPE(-89.050555, -88.423937, 46.052032, 45.37769)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""
 }

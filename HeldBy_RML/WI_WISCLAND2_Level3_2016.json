@@ -11,9 +11,7 @@
 	"layer_modified_dt": "2022-01-22T20:12:43Z",
 	"dc_format_s": "GeoTIFF",
 	"dc_language_s": "English",
-	"dct_isPartOf_sm": [
-		"Statewide",
-		"Wisconsin State Agencies", "Geology and Groundwater"],
+	"dct_isPartOf_sm": ["Statewide", "Wisconsin State Agencies"],
 	"dc_creator_sm": [
 		"Wisconsin Department of Natural Resources"
 	],

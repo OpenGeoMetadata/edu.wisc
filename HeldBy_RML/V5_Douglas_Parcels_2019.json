@@ -1,0 +1,35 @@
+{
+    "geoblacklight_version": "1.0",
+    "dc_identifier_s": "0b5cac9e-1fa0-498b-a2fa-5060a9ebe9d6",
+    "dc_title_s": "V5 Parcels Douglas County, WI 2019",
+    "dc_description_s": "This is the final deliverable for the Version 5 Statewide Parcel Map Database Project (V5). The V5 Project successfully aggregated all known digital parcel datasets within the state. The resulting statewide GIS parcel layer totaling 3.5 million parcels was made publicly available online on June 30, 2019. See the Project Homepage for more detail on the parameters for how data was prepared and submitted to this project: https://www.sco.wisc.edu/parcels/submission/   Schema documentation can be found within this feature class metadata and in the schema documentation: https://www.sco.wisc.edu/parcels/data/assets/V5/V5_Wisconsin_Statewide_Parcels_Schema_Documentation.pdf   Missing Data & Known Gap: this database reflects all known taxable and non-taxable parcels in Wisconsin available in GIS format. Most attribute information that is known to exist is populated. Some attribute information is incomplete. Blank spaces or values indicate either no data was submitted or is/was not applicable to a specific parcel. In some cases, it is appropriate for blank spaces to exist due to the nature of the data (e.g., a parcel without an improved structure might not have a site address).Owner Name Attribute. For the majority of counties, attribute information is populated for parcel owner name. In some cases, counties or cities opted out from including owner information in the statewide database. Per a county board resolution, one county has implemented complete owner name redaction\u2014Kenosha County. Eight other counties have partial owner name redaction.Change log and known issues can be found here: https://www.sco.wisc.edu/parcels/data/assets/Wisconsin_Statewide_Parcels_Change_Log.pdf",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "UW-Madison Robinson Map Library",
+    "dc_format_s": "Multiple Formats",
+    "dc_language_s": "English",
+    "layer_slug_s": "0b5cac9e-1fa0-498b-a2fa-5060a9ebe9d6",
+    "layer_geom_type_s": "Polygon",
+    "layer_id_s": "",
+    "dct_isPartOf_sm": [
+        "Wisconsin State Agencies",
+        "Coastal"
+    ],
+    "dc_creator_sm": [
+        "Wisconsin Department of Administration"
+    ],
+    "dc_type_s": "Dataset",
+    "dc_subject_sm": [
+        "Planning and Cadastral"
+    ],
+    "dct_spatial_sm": [
+        ""
+    ],
+    "dct_temporal_sm": [
+        "2019"
+    ],
+    "solr_geom": "ENVELOPE(-92.293242,-91.55131992,46.75733937,46.15694485)",
+    "solr_year_i": 2019,
+    "layer_modified_dt": "2025-03-14T15:27:36Z",
+    "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
+    "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/parcels/data\",\"http://schema.org/downloadUrl\":[{\"url\": \"https://web.s3.wisc.edu/parcels/v5_parcels/county/V500_Wisconsin_Parcels_DOUGLAS_SHP.zip\", \"label\": \"Shapefile\"},{\"url\":\"https://web.s3.wisc.edu/parcels/v5_parcels/county/V500_Wisconsin_Parcels_DOUGLAS_GDB.zip\",\"label\": \"Geodatabase\"}],\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Parcels_2019.xml\"}"
+}

@@ -2,7 +2,7 @@
 	"geoblacklight_version": "1.0",
 	"dc_identifier_s": "4DFA561E-9AB4-4074-AE86-22EB7FEF38E5",
 	"dc_title_s": "Parcels Wisconsin (Statewide), 2015",
-	"dc_description_s": "This is the final deliverable for the Version 1 Statewide Parcel Map Database Project (V1). This feature class represents a comprehensive, spatially referenced collection of parcel geometries as recognized by local-level governments within the state of Wisconsin (aggregated from county level and municipal-level data). See the project interim report for further details on the project, the parcel layer and attributes included. http://www.sco.wisc.edu/images/stories/publications/V2/V1_Parcel_Project_Interim_Report_FINAL_20150630.pdf Schema documentationcan be found here: http://www.sco.wisc.edu/images/stories/publications/V2/V1_Parcels_Schema_Documentation.pdf Change logand known issuescan be found here: http://www.sco.wisc.edu/images/stories/publications/V2/Wisconsin_Statewide_Parcels_Change_Log.pdf",
+	"dc_description_s": "This is the final deliverable for the Version 1 Statewide Parcel Map Database Project (V1). This feature class represents a comprehensive, spatially referenced collection of parcel geometries as recognized by local-level governments within the state of Wisconsin (aggregated from county level and municipal-level data). See the project interim report for further details on the project, the parcel layer and attributes included. http://www.sco.wisc.edu/images/stories/publications/V2/V1_Parcel_Project_Interim_Report_FINAL_20150630.pdf Schema documentationcan be found here: http://www.sco.wisc.edu/images/stories/publications/V2/V1_Parcels_Schema_Documentation.pdf Change log and known issues can be found here: http://www.sco.wisc.edu/parcels/data/assets/Wisconsin_Statewide_Parcels_Change_Log.pdf",
 	"dc_rights_s": "Public",
 	"dct_provenance_s": "UW-Madison Robinson Map Library",
 	"layer_id_s": "",
@@ -29,7 +29,7 @@
 		"2015"
 	],
 	"solr_year_i": 2015,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_Parcels_2015.zip\",\"http://schema.org/url\":\"https://www.sco.wisc.edu/parcels/data/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Parcels_2015.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/parcels/v1_parcels/V1.0.1_Wisconsin_Parcels_2015_10.2_Compressed.zip\",\"http://schema.org/url\":\"https://www.sco.wisc.edu/parcels/data/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Parcels_2015.xml\"}",
 	"solr_geom": "ENVELOPE(-92.955616, -86.666103, 47.08304, 42.456895)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 	"uw_notice_s": ""

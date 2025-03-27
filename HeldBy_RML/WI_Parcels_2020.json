@@ -29,7 +29,7 @@
 		"2020"
 	],
 	"solr_year_i": 2020,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_Parcels_2020.zip\",\"http://schema.org/url\":\"https://www.sco.wisc.edu/parcels/data/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Parcels_2020.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/parcels/v6_parcels/V6.0.0_Wisconsin_Parcels_2020_10.3_Compressed.zip\",\"http://schema.org/url\":\"https://www.sco.wisc.edu/parcels/data/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Parcels_2020.xml\"}",
 	"solr_geom": "ENVELOPE(-92.963573, -86.666103, 47.08304, 42.456897)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 	"uw_notice_s": ""

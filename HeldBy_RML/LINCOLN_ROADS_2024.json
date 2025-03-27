@@ -20,8 +20,8 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2024"],
 "solr_year_i": 2024,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/LINCOLN_ROADS_2024.zip\",\"http://schema.org/url\":\"http://maps.co.lincoln.wi.us/webapps/gisportal/data.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/LINCOLN_ROADS_2024.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/LINCOLN_ROADS_2024.zip\",\"http://schema.org/url\":\"https://maps.co.lincoln.wi.us/webapps/gisportal/data.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/LINCOLN_ROADS_2024.xml\"}",
 "solr_geom": "ENVELOPE(-90.045683, -89.403481, 45.558618, 45.119111)",
-"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data available, please visit: http://maps.co.lincoln.wi.us/webapps/gisportal/data.html",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data available, please visit: https://maps.co.lincoln.wi.us/webapps/gisportal/data.html",
 "uw_notice_s": ""
 }

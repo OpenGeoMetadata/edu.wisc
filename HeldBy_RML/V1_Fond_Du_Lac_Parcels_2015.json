@@ -1,0 +1,34 @@
+{
+    "geoblacklight_version": "1.0",
+    "dc_identifier_s": "9d3a6973-b965-41fd-8948-0a9cd8695ba2",
+    "dc_title_s": "V1 Parcels Fond Du Lac County, WI 2015",
+    "dc_description_s": "This is the final deliverable for the Version 1 Statewide Parcel Map Database Project (V1). This feature class represents a comprehensive, spatially referenced collection of parcel geometries as recognized by local-level governments within the state of Wisconsin (aggregated from county level and municipal-level data). See the project interim report for further details on the project, the parcel layer and attributes included. https://www.sco.wisc.edu/pubs/v1-interim-report-digital-appendices/   Schema documentationcan be found here: https://www.sco.wisc.edu/parcels/data/assets/V1/V1_Parcels_Schema_Documentation.pdf    Change log and known issues can be found here: https://www.sco.wisc.edu/parcels/data/assets/Wisconsin_Statewide_Parcels_Change_Log.pdf",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "UW-Madison Robinson Map Library",
+    "dc_format_s": "Multiple Formats",
+    "dc_language_s": "English",
+    "layer_slug_s": "9d3a6973-b965-41fd-8948-0a9cd8695ba2",
+    "layer_geom_type_s": "Polygon",
+    "layer_id_s": "",
+    "dct_isPartOf_sm": [
+        "Wisconsin State Agencies"
+    ],
+    "dc_creator_sm": [
+        "Wisconsin Department of Administration"
+    ],
+    "dc_type_s": "Dataset",
+    "dc_subject_sm": [
+        "Planning and Cadastral"
+    ],
+    "dct_spatial_sm": [
+        ""
+    ],
+    "dct_temporal_sm": [
+        "2015"
+    ],
+    "solr_geom": "ENVELOPE(-88.88606287,-88.16089818,43.93779642,43.54291772)",
+    "solr_year_i": 2015,
+    "layer_modified_dt": "2025-03-14T15:27:36Z",
+    "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
+    "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/parcels/data\",\"http://schema.org/downloadUrl\":[{\"url\": \"https://web.s3.wisc.edu/parcels/v1_parcels/county/V101_Wisconsin_Parcels_FOND_DU_LAC_SHP.zip\", \"label\": \"Shapefile\"},{\"url\":\"https://web.s3.wisc.edu/parcels/v1_parcels/county/V101_Wisconsin_Parcels_FOND_DU_LAC_GDB.zip\",\"label\": \"Geodatabase\"}],\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Parcels_2015.xml\"}"
+}

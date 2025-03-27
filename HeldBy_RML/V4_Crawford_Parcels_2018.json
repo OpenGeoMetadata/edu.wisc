@@ -1,0 +1,34 @@
+{
+    "geoblacklight_version": "1.0",
+    "dc_identifier_s": "feff654d-5b6f-4a43-b22b-44be115bbc56",
+    "dc_title_s": "V4 Parcels Crawford County, WI 2018",
+    "dc_description_s": "This is the final deliverable for the Version 4 Statewide Parcel Map Database Project (V4). This feature class represents a comprehensive, spatially referenced collection of parcel geometries as recognized by local-level governments within the State of Wisconsin (the feature class is aggregated from county level and municipal-level data). See the Project Homepage for more detail on the parameters for how data was prepared and submitted to this project: https://www.sco.wisc.edu/parcels/submission/   Schema documentation can be found within this feature class metadata and here: https://www.sco.wisc.edu/parcels/data/assets/V4/V4_Wisconsin_Statewide_Parcels_Schema_Documentation.pdf   Change log and known issuescan be found here: https://www.sco.wisc.edu/parcels/data/assets/Wisconsin_Statewide_Parcels_Change_Log.pdf",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "UW-Madison Robinson Map Library",
+    "dc_format_s": "Multiple Formats",
+    "dc_language_s": "English",
+    "layer_slug_s": "feff654d-5b6f-4a43-b22b-44be115bbc56",
+    "layer_geom_type_s": "Polygon",
+    "layer_id_s": "",
+    "dct_isPartOf_sm": [
+        "Wisconsin State Agencies"
+    ],
+    "dc_creator_sm": [
+        "Wisconsin Department of Administration"
+    ],
+    "dc_type_s": "Dataset",
+    "dc_subject_sm": [
+        "Planning and Cadastral"
+    ],
+    "dct_spatial_sm": [
+        ""
+    ],
+    "dct_temporal_sm": [
+        "2018"
+    ],
+    "solr_geom": "ENVELOPE(-91.21449096,-90.6666691,43.42302299,42.98818272)",
+    "solr_year_i": 2018,
+    "layer_modified_dt": "2025-03-14T15:27:36Z",
+    "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
+    "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/parcels/data\",\"http://schema.org/downloadUrl\":[{\"url\": \"https://web.s3.wisc.edu/parcels/v4_parcels/county/V401_Wisconsin_Parcels_CRAWFORD_SHP.zip\", \"label\": \"Shapefile\"},{\"url\":\"https://web.s3.wisc.edu/parcels/v4_parcels/county/V401_Wisconsin_Parcels_CRAWFORD_GDB.zip\",\"label\": \"Geodatabase\"}],\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Parcels_2018.xml\"}"
+}

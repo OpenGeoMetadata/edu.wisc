@@ -1,1 +1,36 @@
-{"geoblacklight_version": "1.0", "dc_identifier_s": "D348FED4-A210-4EEA-9069-801900EF480C", "dc_title_s": "Vaccines for Children Program Participant Locations, Wisconsin 2020", "dc_description_s": "This data represents vaccines for children program participant sites for Wisconsin in 2020. [This dataset contains locations and attributes of health care providers participating in the Vaccines for Children Program in the state of Wisconsin. The data is used for planning, management and analysis by Wisconsin Department of Health Services staff and by other government agencies. For more information please visit the Wisconsin Department of Health Services website: https://www.dhs.wisconsin.gov/immunization/vfc.htm]", "dc_rights_s": "Public", "dct_provenance_s": "UW-Madison Robinson Map Library", "layer_id_s": "", "layer_slug_s": "D348FED4-A210-4EEA-9069-801900EF480C", "layer_geom_type_s": "Point", "dc_format_s": "Shapefile", "dc_language_s": "English", "dct_isPartOf_sm": ["Statewide", "Wisconsin State Agencies"], "dc_creator_sm": ["Wisconsin Department of Health Services"], "dc_publisher_sm": "", "dc_type_s": "Dataset", "dc_subject_sm": ["Health"], "dct_spatial_sm": [], "dct_issued_s": "", "dct_temporal_sm": ["2020"], "solr_year_i": 2020, "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_VaccinesforChildrenProgramParticipantLocations_2020.zip\",\"http://schema.org/url\":\"https://data.dhsgis.wi.gov/datasets/7ff90de1bf744710baf22c8c6718f329_0?geometry=-103.841%2C41.933%2C-76.090%2C47.397\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_VaccinesforChildrenProgramParticipantLocations_2020.xml\"}", "solr_geom": "ENVELOPE(-92.718728, -87.212014, 46.858485, 42.519181)", "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data available, please visit: https://data.dhsgis.wi.gov/datasets/7ff90de1bf744710baf22c8c6718f329_0?geometry=-103.841%2C41.933%2C-76.090%2C47.397", "uw_notice_s": "", "layer_modified_dt": "2024-01-18T02:31:00Z"}
+{
+	"geoblacklight_version": "1.0",
+	"dc_identifier_s": "D348FED4-A210-4EEA-9069-801900EF480C",
+	"dc_title_s": "Vaccines for Children Program Participant Locations, Wisconsin 2020",
+	"dc_description_s": "This data represents vaccines for children program participant sites for Wisconsin in 2020. [This dataset contains locations and attributes of health care providers participating in the Vaccines for Children Program in the state of Wisconsin. The data is used for planning, management and analysis by Wisconsin Department of Health Services staff and by other government agencies. For more information please visit the Wisconsin Department of Health Services website.",
+	"dc_rights_s": "Public",
+	"dct_provenance_s": "UW-Madison Robinson Map Library",
+	"layer_id_s": "",
+	"layer_slug_s": "D348FED4-A210-4EEA-9069-801900EF480C",
+	"layer_geom_type_s": "Point",
+	"dc_format_s": "Shapefile",
+	"dc_language_s": "English",
+	"dct_isPartOf_sm": [
+		"Statewide",
+		"Wisconsin State Agencies"
+	],
+	"dc_creator_sm": [
+		"Wisconsin Department of Health Services"
+	],
+	"dc_publisher_sm": "",
+	"dc_type_s": "Dataset",
+	"dc_subject_sm": [
+		"Health"
+	],
+	"dct_spatial_sm": [],
+	"dct_issued_s": "",
+	"dct_temporal_sm": [
+		"2020"
+	],
+	"solr_year_i": 2020,
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_VaccinesforChildrenProgramParticipantLocations_2020.zip\",\"http://schema.org/url\":\"https://data.dhsgis.wi.gov/datasets/7ff90de1bf744710baf22c8c6718f329_0?geometry=-103.841%2C41.933%2C-76.090%2C47.397\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_VaccinesforChildrenProgramParticipantLocations_2020.xml\"}",
+	"solr_geom": "ENVELOPE(-92.718728, -87.212014, 46.858485, 42.519181)",
+	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data available, please visit: https://data.dhsgis.wi.gov/datasets/7ff90de1bf744710baf22c8c6718f329_0?geometry=-103.841%2C41.933%2C-76.090%2C47.397",
+	"uw_notice_s": "",
+	"layer_modified_dt": "2024-01-18T02:31:00Z"
+}
