@@ -9,7 +9,7 @@
  "layer_slug_s": "dd9b9979-357d-4357-95d7-c17f8e22487c",
  "layer_geom_type_s": "Line",
  "layer_modified_dt": "2025-04-30T20:12:43Z",
- "dc_format_s": "Shapefile",
+ "dc_format_s": "Geodatabase",
  "dc_language_s": "English",
  "dct_isPartOf_sm": [
   "Wisconsin Elevation Data", "Coastal"

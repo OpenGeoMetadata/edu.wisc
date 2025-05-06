@@ -2,7 +2,7 @@
 "geoblacklight_version": "1.0",
 "dc_identifier_s": "DF5BC84C-17DC-4ADA-AA99-F4C65E50853B",
 "dc_title_s": "Critical Access Hospitals, Wisconsin 2024",
-"dc_description_s": "This data represents critical access hospital sites for Wisconsin in 2024. [This dataset contains locations and attributes of critical access hospitals licensed by the state of Wisconsin. The data is used for planning, management and analysis by Wisconsin Department of Health Services staff and by other government agencies. For more information please visit the Wisconsin Department of Health Services website: https://www.dhs.wisconsin.gov/regulations/cah/introduction.htm]",
+"dc_description_s": "This data represents critical access hospital sites for Wisconsin in 2024. [This dataset contains locations and attributes of critical access hospitals licensed by the state of Wisconsin. The data is used for planning, management and analysis by Wisconsin Department of Health Services staff and by other government agencies.",
 "dc_rights_s": "Public",
 "dct_provenance_s": "UW-Madison Robinson Map Library",
 "layer_id_s": "",
@@ -22,6 +22,6 @@
 "solr_year_i": 2024,
 "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_CriticalAccessHospitals_2024.zip\",\"http://schema.org/url\":\"https://data.dhsgis.wi.gov/datasets/wi-dhs::wisconsin-critical-access-hospitals/about\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_CriticalAccessHospitals_2024.xml\"}",
 "solr_geom": "ENVELOPE(-92.71737, -87.35363, 46.69749, 42.598083)",
-"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data available, please visit: https://data.dhsgis.wi.gov/datasets/wi-dhs::wisconsin-critical-access-hospitals/about",
+"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""
 }
