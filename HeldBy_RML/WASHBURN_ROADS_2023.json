@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2023"],
 "solr_year_i": 2023,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WASHBURN_ROADS_2023.zip\",\"http://schema.org/url\":\"https://co.washburn.wi.us/gis-data-downloads/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WASHBURN_ROADS_2023.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WASHBURN_ROADS_2023.zip\",\"http://schema.org/url\":\"https://co.washburn.wi.us/gis-data-downloads/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WASHBURN_ROADS_2023.xml\"}",
 "solr_geom": "ENVELOPE(-92.07201, -91.499164, 46.188588, 45.632417)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data available, please visit: https://co.washburn.wi.us/gis-data-downloads/",
 "uw_notice_s": ""

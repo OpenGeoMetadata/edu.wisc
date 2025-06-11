@@ -29,7 +29,7 @@
 		"2018"
 	],
 	"solr_year_i": 2018,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_Deer_Mgmt_Units_Zones_2018.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/deer-management-zones-units-and-metro-subunits\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Deer_Mgmt_Units_Zones_2018.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_Deer_Mgmt_Units_Zones_2018.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/deer-management-zones-units-and-metro-subunits\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_Deer_Mgmt_Units_Zones_2018.xml\"}",
 	"solr_geom": "ENVELOPE(-92.964436, -86.66623, 47.083195, 42.456931)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most recent version of the data (or curent updates) please visit the WI DNR: https://data-wi-dnr.opendata.arcgis.com/datasets/deer-management-zones-units-and-metro-subunits",
 	"uw_notice_s": ""

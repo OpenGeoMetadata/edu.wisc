@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2020"],
 "solr_year_i": 2020,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Clark_PSAP_2020.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Clark_PSAP_2020.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/Clark_PSAP_2020.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/Clark_PSAP_2020.xml\"}",
 "solr_geom": "ENVELOPE(-90.924661, -90.311586, 45.034623, 44.421366)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""

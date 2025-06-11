@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2024"],
 "solr_year_i": 2024,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_Great_Lakes_Shoreline_2024.zip\",\"http://schema.org/url\":\"https://shoreline.noaa.gov/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Great_Lakes_Shoreline_2024.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_Great_Lakes_Shoreline_2024.zip\",\"http://schema.org/url\":\"https://shoreline.noaa.gov/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_Great_Lakes_Shoreline_2024.xml\"}",
 "solr_geom": "ENVELOPE(-92.292301,-86.763918,47.080727,42.492392)",
 "uw_supplemental_s": "",
 "uw_notice_s": ""

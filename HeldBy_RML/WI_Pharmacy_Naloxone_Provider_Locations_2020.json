@@ -1,1 +1,36 @@
-{"geoblacklight_version": "1.0", "dc_identifier_s": "CE396925-0DC2-416E-B274-75E036D9EBC7", "dc_title_s": "Pharmacy Naloxone Provider Locations, Wisconsin 2020", "dc_description_s": "This data represents Naloxone pharmacy locations for Wisconsin in 2020. [This dataset contains locations and attributes of pharmacies providing Naloxone in the state of Wisconsin. The data is used for planning, management and analysis by Wisconsin Department of Health Services staff and by other government agencies. For more information please visit the Wisconsin Department of Health Services website: https://www.dhs.wisconsin.gov/opioids/naloxone-pharmacies.htm]", "dc_rights_s": "Public", "dct_provenance_s": "UW-Madison Robinson Map Library", "layer_id_s": "", "layer_slug_s": "CE396925-0DC2-416E-B274-75E036D9EBC7", "layer_geom_type_s": "Point", "dc_format_s": "Shapefile", "dc_language_s": "English", "dct_isPartOf_sm": ["Statewide", "Wisconsin State Agencies"], "dc_creator_sm": ["Wisconsin Department of Health Services"], "dc_publisher_sm": "", "dc_type_s": "Dataset", "dc_subject_sm": ["Health"], "dct_spatial_sm": [], "dct_issued_s": "", "dct_temporal_sm": ["2020"], "solr_year_i": 2020, "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_Pharmacy_Naloxone_Provider_Locations_2020.zip\",\"http://schema.org/url\":\"https://data.dhsgis.wi.gov/datasets/3880ec267a7049b5b876eb943e9bae57_4?geometry=-104.990%2C42.259%2C-77.239%2C47.693\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Pharmacy_Naloxone_Provider_Locations_2020.xml\"}", "solr_geom": "ENVELOPE(-94.880734, -87.347846, 47.473998, 42.498243)", "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data available, please visit: https://data.dhsgis.wi.gov/datasets/3880ec267a7049b5b876eb943e9bae57_4?geometry=-104.990%2C42.259%2C-77.239%2C47.693", "uw_notice_s": "", "layer_modified_dt": "2024-01-18T02:31:00Z"}
+{
+	"geoblacklight_version": "1.0",
+	"dc_identifier_s": "CE396925-0DC2-416E-B274-75E036D9EBC7",
+	"dc_title_s": "Pharmacy Naloxone Provider Locations, Wisconsin 2020",
+	"dc_description_s": "This data represents Naloxone pharmacy locations for Wisconsin in 2020. [This dataset contains locations and attributes of pharmacies providing Naloxone in the state of Wisconsin. The data is used for planning, management and analysis by Wisconsin Department of Health Services staff and by other government agencies.]",
+	"dc_rights_s": "Public",
+	"dct_provenance_s": "UW-Madison Robinson Map Library",
+	"layer_id_s": "",
+	"layer_slug_s": "CE396925-0DC2-416E-B274-75E036D9EBC7",
+	"layer_geom_type_s": "Point",
+	"dc_format_s": "Shapefile",
+	"dc_language_s": "English",
+	"dct_isPartOf_sm": [
+		"Statewide",
+		"Wisconsin State Agencies"
+	],
+	"dc_creator_sm": [
+		"Wisconsin Department of Health Services"
+	],
+	"dc_publisher_sm": "",
+	"dc_type_s": "Dataset",
+	"dc_subject_sm": [
+		"Health"
+	],
+	"dct_spatial_sm": [],
+	"dct_issued_s": "",
+	"dct_temporal_sm": [
+		"2020"
+	],
+	"solr_year_i": 2020,
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_Pharmacy_Naloxone_Provider_Locations_2020.zip\",\"http://schema.org/url\":\"https://data.dhsgis.wi.gov/datasets/3880ec267a7049b5b876eb943e9bae57_4?geometry=-104.990%2C42.259%2C-77.239%2C47.693\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_Pharmacy_Naloxone_Provider_Locations_2020.xml\"}",
+	"solr_geom": "ENVELOPE(-94.880734, -87.347846, 47.473998, 42.498243)",
+	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data available, please visit: https://data.dhsgis.wi.gov/datasets/3880ec267a7049b5b876eb943e9bae57_4?geometry=-104.990%2C42.259%2C-77.239%2C47.693",
+	"uw_notice_s": "",
+	"layer_modified_dt": "2024-01-18T02:31:00Z"
+}

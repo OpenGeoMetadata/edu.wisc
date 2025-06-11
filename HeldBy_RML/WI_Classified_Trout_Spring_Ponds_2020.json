@@ -29,7 +29,7 @@
 		"2020"
 	],
 	"solr_year_i": 2020,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_Classified_Trout_Spring_Ponds_2020.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/classified-trout-spring-ponds\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Classified_Trout_Spring_Ponds_2020.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_Classified_Trout_Spring_Ponds_2020.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/classified-trout-spring-ponds\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_Classified_Trout_Spring_Ponds_2020.xml\"}",
 	"solr_geom": "ENVELOPE(-92.64027, -87.947455, 46.372401, 43.297186)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data, please visit: [https://data-wi-dnr.opendata.arcgis.com/]",
 	"uw_notice_s": ""

@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2017"],
 "solr_year_i": 2017,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_Coastal_Wetlands_Streams_2017.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/coastal-wisconsin-wetlands-streams\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Coastal_Wetlands_Streams_2017.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_Coastal_Wetlands_Streams_2017.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/coastal-wisconsin-wetlands-streams\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_Coastal_Wetlands_Streams_2017.xml\"}",
 "solr_geom": "ENVELOPE(-92.307948, -86.804322, 47.014993, 42.476714)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data, please visit: [https://data-wi-dnr.opendata.arcgis.com/]",
 "uw_notice_s": ""

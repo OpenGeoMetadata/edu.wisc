@@ -29,7 +29,7 @@
 		"2019"
 	],
 	"solr_year_i": 2019,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_SolidWaste_Landfills_Historic_Waste_2019.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/solid-waste-%E2%80%93-landfills-and-historic-waste-site-extents\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_SolidWaste_Landfills_Historic_Waste_2019.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_SolidWaste_Landfills_Historic_Waste_2019.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/solid-waste-%E2%80%93-landfills-and-historic-waste-site-extents\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_SolidWaste_Landfills_Historic_Waste_2019.xml\"}",
 	"solr_geom": "ENVELOPE(-92.811091, -86.782652, 46.925135, 42.464094)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most recent version of the data (or current updates) please visit the WI DNR: https://data-wi-dnr.opendata.arcgis.com/datasets/wi-dnr::solid-waste-landfills-and-historic-waste-site-extents/about",
 	"uw_notice_s": ""

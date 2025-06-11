@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2015"],
 "solr_year_i": 2015,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/LMichigan_Bluff_Crest_Recession_2015.zip\",\"http://schema.org/url\":\"https://floodscience.maps.arcgis.com/apps/instant/minimalist/index.html?appid=c47ab45bb8c046e099a46df28837ca88\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/LMichigan_Bluff_Crest_Recession_2015.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/LMichigan_Bluff_Crest_Recession_2015.zip\",\"http://schema.org/url\":\"https://floodscience.maps.arcgis.com/apps/instant/minimalist/index.html?appid=c47ab45bb8c046e099a46df28837ca88\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/LMichigan_Bluff_Crest_Recession_2015.xml\"}",
 "solr_geom": "ENVELOPE(-87.932036, -87.73168, 43.444647, 42.61999)",
 "uw_supplemental_s": "For access to the most current data, please visit: [https://floodsciencecenter.org/projects/shoreline-inventory-oblique-photo-viewer/]",
 "uw_notice_s": ""

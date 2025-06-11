@@ -29,7 +29,7 @@
 		"2016"
 	],
 	"solr_year_i": 2016,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_ElectionData_2012.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_ElectionData_2012.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_ElectionData_2012.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_ElectionData_2012.xml\"}",
 	"solr_geom": "ENVELOPE(-92.964428, -86.6661, 47.083094, 42.456925)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For more inforamtion please visit: https://gis-ltsb.hub.arcgis.com/",
 	"uw_notice_s": ""

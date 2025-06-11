@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2007"],
 "solr_year_i": 2007,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/St_Croix_LandUse_2007.zip\",\"http://schema.org/url\":\"http://sccgis-scccdd.opendata.arcgis.com/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/St_Croix_LandUse_2007.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/St_Croix_LandUse_2007.zip\",\"http://schema.org/url\":\"http://sccgis-scccdd.opendata.arcgis.com/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/St_Croix_LandUse_2007.xml\"}",
 "solr_geom": "ENVELOPE(-92.798531, -92.133372, 45.210565, 44.85763)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data for this county, please visit: https://gis-scccdd.opendata.arcgis.com/",
 "uw_notice_s": ""

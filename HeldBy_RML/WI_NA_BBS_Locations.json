@@ -30,7 +30,7 @@
 		"2019"
 	],
 	"solr_year_i": 2019,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data-wi-dnr.opendata.arcgis.com/datasets/north-american-breeding-bird-survey-wisconsin-stop-locations?geometry=-102.777%2C41.89%2C-80.892%2C47.358\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_NA_BBS_Locations.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://data-wi-dnr.opendata.arcgis.com/datasets/north-american-breeding-bird-survey-wisconsin-stop-locations?geometry=-102.777%2C41.89%2C-80.892%2C47.358\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_NA_BBS_Locations.xml\"}",
 	"solr_geom": "ENVELOPE(-92.74769, -86.84885, 46.81905, 42.50715)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data, please visit: http://data-wi-dnr.opendata.arcgis.com/datasets/north-american-breeding-bird-survey-wisconsin-stop-locations?geometry=-102.777%2C41.89%2C-80.892%2C47.358",
 	"uw_notice_s": ""

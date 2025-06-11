@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2024"],
 "solr_year_i": 2024,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/parcels/v10_parcels/V10.0.0_Wisconsin_Parcels_2024_10.3_Compressed.zip\",\"http://schema.org/url\":\"https://www.sco.wisc.edu/parcels/data/\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/n6uYoouQZW75n5WI/arcgis/rest/services/Wisconsin_Statewide_Parcels/FeatureServer/0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Parcels_2024.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/parcels/v10_parcels/V10.0.0_Wisconsin_Parcels_2024_10.3_Compressed.zip\",\"http://schema.org/url\":\"https://www.sco.wisc.edu/parcels/data/\",\"urn:x-esri:serviceType:ArcGIS#FeatureLayer\":\"https://services3.arcgis.com/n6uYoouQZW75n5WI/arcgis/rest/services/Wisconsin_Statewide_Parcels/FeatureServer/0\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_Parcels_2024.xml\"}",
 "solr_geom": "ENVELOPE(-92.963573, -86.666103, 47.08304, 42.456897)",
 "uw_supplemental_s": "This is an archived dataset at UW-Madison.",
 "uw_notice_s": ""

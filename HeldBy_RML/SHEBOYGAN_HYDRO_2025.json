@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2025"],
 "solr_year_i": 2025,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/SHEBOYGAN_HYDRO_2025.zip\",\"http://schema.org/url\":\"https://geospatialhub-shebco.hub.arcgis.com/pages/open-data\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/SHEBOYGAN_HYDRO_2025.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/SHEBOYGAN_HYDRO_2025.zip\",\"http://schema.org/url\":\"https://geospatialhub-shebco.hub.arcgis.com/pages/open-data\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/SHEBOYGAN_HYDRO_2025.xml\"}",
 "solr_geom": "ENVELOPE(-88.164322, -87.702344, 43.893005, 43.541718)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""

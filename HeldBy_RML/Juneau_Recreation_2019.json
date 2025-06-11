@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2019"],
 "solr_year_i": 2019,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Juneau_Recreation_2019.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Juneau_Recreation_2019.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/Juneau_Recreation_2019.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/Juneau_Recreation_2019.xml\"}",
 "solr_geom": "ENVELOPE(-90.277359, -89.824936, 44.228734, 43.653242)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""

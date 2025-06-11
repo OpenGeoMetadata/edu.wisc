@@ -30,7 +30,7 @@
 		"2015"
 	],
 	"solr_year_i": 2015,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_Nutrient_Mgmt_2015.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Nutrient_Mgmt_2015.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_Nutrient_Mgmt_2015.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_Nutrient_Mgmt_2015.xml\"}",
 	"solr_geom": "ENVELOPE(-92.981569, -86.70844, 47.083097, 42.448039)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. [The data for this dataset was published with multiple feature classes, and the metadata was generated from the “WI_Nutrient_Mgmt' feature dataset. For more information, consult the original metadata present in each feature class within this dataset. For the most current dataset information, please visit: https://datcp.wi.gov/Pages/Programs_Services/GISData.aspx",
 	"uw_notice_s": ""

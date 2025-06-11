@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2020"],
 "solr_year_i": 2020,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Racine_Roads_ROW_2020.zip\",\"http://schema.org/url\":\"http://data-racinecounty.opendata.arcgis.com/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Racine_Roads_ROW_2020.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/Racine_Roads_ROW_2020.zip\",\"http://schema.org/url\":\"http://data-racinecounty.opendata.arcgis.com/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/Racine_Roads_ROW_2020.xml\"}",
 "solr_geom": "ENVELOPE(-88.312666, -87.756817, 42.851656, 42.601432)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data available, please visit: https://data-racinecounty.opendata.arcgis.com/",
 "uw_notice_s": ""

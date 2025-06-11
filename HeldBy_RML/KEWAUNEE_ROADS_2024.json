@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2024"],
 "solr_year_i": 2024,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/KEWAUNEE_ROADS_2024.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/KEWAUNEE_ROADS_2024.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/KEWAUNEE_ROADS_2024.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/KEWAUNEE_ROADS_2024.xml\"}",
 "solr_geom": "ENVELOPE(-87.774577, -87.377017, 44.683708, 44.319175)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""

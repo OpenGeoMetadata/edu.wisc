@@ -29,7 +29,7 @@
 		"2008"
 	],
 	"solr_year_i": 2008,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_StForest_Invasives_2008.zip\",\"http://schema.org/url\":\"https://dnr.wi.gov/topic/ForestManagement/data.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_StForest_Invasives_2008.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_StForest_Invasives_2008.zip\",\"http://schema.org/url\":\"https://dnr.wi.gov/topic/ForestManagement/data.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_StForest_Invasives_2008.xml\"}",
 	"solr_geom": "ENVELOPE(-92.943909, -87.683472, 46.786534, 43.80436)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data available please visit: https://data-wi-dnr.opendata.arcgis.com/ [Please refer to INVxW9xx_shp_dd.doc (Data Dictionary) for more detailed attribute information. Content dates 2006-2007.]",
 	"uw_notice_s": ""

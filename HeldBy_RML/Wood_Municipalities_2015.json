@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2015"],
 "solr_year_i": 2015,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/filename.zip\",\"http://schema.org/downloadUrl\":\"http://www.co.wood.wi.us/Departments/PZ/LandRecords.aspx \",\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Wood_Municipalities_2015.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Wood_Municipalities_2015.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/filename.zip\",\"http://schema.org/downloadUrl\":\"http://www.co.wood.wi.us/Departments/PZ/LandRecords.aspx \",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/Wood_Municipalities_2015.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/Wood_Municipalities_2015.xml\"}",
 "solr_geom": "ENVELOPE(-90.320413, -89.722635, 44.685684, 44.247503)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data available, please visit: https://opendata.woodcogis.com/",
 "uw_notice_s": ""

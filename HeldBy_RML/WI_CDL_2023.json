@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2023"],
 "solr_year_i": 2023,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_CDL_2023.zip\",\"http://schema.org/url\":\"https://croplandcros.scinet.usda.gov/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_CDL_2023.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_CDL_2023.zip\",\"http://schema.org/url\":\"https://croplandcros.scinet.usda.gov/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_CDL_2023.xml\"}",
 "solr_geom": "ENVELOPE(-92.964163, -86.709691, 47.078351, 42.457926)",
 "uw_supplemental_s": "Please visit the CDL FAQs and metadata webpages at https://www.nass.usda.gov/Research_and_Science/Cropland/SARS1a.php to view a complete list of imagery, ancillary inputs, and ground reference used for a specific state and year.",
 "uw_notice_s": ""

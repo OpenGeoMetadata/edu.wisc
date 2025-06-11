@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2023"],
 "solr_year_i": 2023,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/RUSK_ROADS_2023.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/RUSK_ROADS_2023.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/RUSK_ROADS_2023.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/RUSK_ROADS_2023.xml\"}",
 "solr_geom": "ENVELOPE(-91.543829, -90.676924, 45.641499, 45.29086)",
 "uw_supplemental_s": "This is an archived copy of data held at UW-Madison.",
 "uw_notice_s": ""

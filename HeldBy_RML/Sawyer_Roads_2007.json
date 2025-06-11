@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2007"],
 "solr_year_i": 2007,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Sawyer_Roads_2007.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Sawyer_Roads_2007.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/Sawyer_Roads_2007.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/Sawyer_Roads_2007.xml\"}",
 "solr_geom": "ENVELOPE(-91.552224, -90.67458, 46.156689, 45.638085)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""

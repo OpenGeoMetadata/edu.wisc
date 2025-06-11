@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2025"],
 "solr_year_i": 2025,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/VERNON_ADDRESSES_2025.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/VERNON_ADDRESSES_2025.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/VERNON_ADDRESSES_2025.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/VERNON_ADDRESSES_2025.xml\"}",
 "solr_geom": "ENVELOPE(-91.230149, -90.309781, 43.730501, 43.422338)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. [Numerous geographic and tabular datasets and field survey techniques were used to create the site access point feature class, including GPS field work, field observations, property tax database, existing MSAG, ANI/ALI, digital imagery, and a previously created Vernontel digital building point file. The source materials used range in date from approximately 1995 to present, however many of the datasets utilized to compile the site access digital data date later than 1995. Although believed to be the most accurate digital representation of site access or address information available, there are attributes within the data that indicate problems. These problems or errors in the data will be systematically remedied over an unknown period of time. For information regarding specifics on this particular feature class, refer to the Addressing Geodatabase Design.]",
 "uw_notice_s": ""

@@ -29,7 +29,7 @@
 		"2019"
 	],
 	"solr_year_i": 2019,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_Public_Boat_Access_2019.zip\",\"http://schema.org/url\":\"http://data-wi-dnr.opendata.arcgis.com/datasets/public-boat-access-sites\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Public_Boat_Access_2019.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_Public_Boat_Access_2019.zip\",\"http://schema.org/url\":\"http://data-wi-dnr.opendata.arcgis.com/datasets/public-boat-access-sites\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_Public_Boat_Access_2019.xml\"}",
 	"solr_geom": "ENVELOPE(-92.941201, -86.751642, 46.950535, 42.475524)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data available, visit: https://data-wi-dnr.opendata.arcgis.com/",
 	"uw_notice_s": ""

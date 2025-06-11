@@ -29,7 +29,7 @@
 		"2017"
 	],
 	"solr_year_i": 2017,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_Secondary_School_Dist_2017.zip\",\"http://schema.org/url\":\"https://dpi.wi.gov/wise/gis-maps\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Secondary_School_Dist_2017.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_Secondary_School_Dist_2017.zip\",\"http://schema.org/url\":\"https://dpi.wi.gov/wise/gis-maps\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_Secondary_School_Dist_2017.xml\"}",
 	"solr_geom": "ENVELOPE(-90.045641, -87.764274, 46.29993, 42.479282)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For more information and most current data please visit: https://data-wi-dpi.opendata.arcgis.com/",
 	"uw_notice_s": ""

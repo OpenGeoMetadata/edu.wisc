@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2025"],
 "solr_year_i": 2025,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/LAFAYETTE_ROADS_2025.zip\",\"http://schema.org/url\":\"https://lafay.maps.arcgis.com/apps/PublicGallery/index.html?appid=da8fbe9f3f7e4bf79d7178e007625930\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/LAFAYETTE_ROADS_2025.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/LAFAYETTE_ROADS_2025.zip\",\"http://schema.org/url\":\"https://lafay.maps.arcgis.com/apps/PublicGallery/index.html?appid=da8fbe9f3f7e4bf79d7178e007625930\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/LAFAYETTE_ROADS_2025.xml\"}",
 "solr_geom": "ENVELOPE(-90.429363, -89.837187, 42.815351, 42.504151)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data available, please visit: https://lafay.maps.arcgis.com/apps/PublicGallery/index.html?appid=da8fbe9f3f7e4bf79d7178e007625930",
 "uw_notice_s": ""

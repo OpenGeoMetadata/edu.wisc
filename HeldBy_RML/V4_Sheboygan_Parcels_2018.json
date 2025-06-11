@@ -31,5 +31,5 @@
     "solr_year_i": 2018,
     "layer_modified_dt": "2025-03-14T15:27:36Z",
     "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
-    "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/parcels/data\",\"http://schema.org/downloadUrl\":[{\"url\": \"https://web.s3.wisc.edu/parcels/v4_parcels/county/V401_Wisconsin_Parcels_SHEBOYGAN_SHP.zip\", \"label\": \"Shapefile\"},{\"url\":\"https://web.s3.wisc.edu/parcels/v4_parcels/county/V401_Wisconsin_Parcels_SHEBOYGAN_GDB.zip\",\"label\": \"Geodatabase\"}],\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Parcels_2018.xml\"}"
+    "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/parcels/data\",\"http://schema.org/downloadUrl\":[{\"url\": \"https://web.s3.wisc.edu/parcels/v4_parcels/county/V401_Wisconsin_Parcels_SHEBOYGAN_SHP.zip\", \"label\": \"Shapefile\"},{\"url\":\"https://web.s3.wisc.edu/parcels/v4_parcels/county/V401_Wisconsin_Parcels_SHEBOYGAN_GDB.zip\",\"label\": \"Geodatabase\"}],\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_Parcels_2018.xml\"}"
 }

@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2024"],
 "solr_year_i": 2024,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_AdultFamilyHomes_2024.zip\",\"http://schema.org/url\":\"https://data.dhsgis.wi.gov/datasets/dbe5769f41974f87a63b32ff845339e9_2?geometry=-103.909%2C41.845%2C-76.158%2C47.317\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_AdultFamilyHomes_2024.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_AdultFamilyHomes_2024.zip\",\"http://schema.org/url\":\"https://data.dhsgis.wi.gov/datasets/dbe5769f41974f87a63b32ff845339e9_2?geometry=-103.909%2C41.845%2C-76.158%2C47.317\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_AdultFamilyHomes_2024.xml\"}",
 "solr_geom": "ENVELOPE(-92.747447, -87.371863, 46.709759, 42.497839)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data available, please visit: https://data.dhsgis.wi.gov/datasets/wi-dhs::wisconsin-adult-family-homes/about",
 "uw_notice_s": ""

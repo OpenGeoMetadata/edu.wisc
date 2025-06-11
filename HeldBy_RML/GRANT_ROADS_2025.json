@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2025"],
 "solr_year_i": 2025,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/GRANT_ROADS_2025.zip\",\"http://schema.org/url\":\"https://landrecords.co.grant.wi.gov/publicinfo/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/GRANT_ROADS_2025.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/GRANT_ROADS_2025.zip\",\"http://schema.org/url\":\"https://landrecords.co.grant.wi.gov/publicinfo/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/GRANT_ROADS_2025.xml\"}",
 "solr_geom": "ENVELOPE(-91.146475, -90.410085, 43.205849, 42.502473)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""

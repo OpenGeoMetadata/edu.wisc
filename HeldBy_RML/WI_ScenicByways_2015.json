@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2015"],
 "solr_year_i": 2015,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_ScenicByways_2015.zip\",\"http://schema.org/url\":\"https://www.wicoastalatlas.net/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_ScenicByways_2015.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_ScenicByways_2015.zip\",\"http://schema.org/url\":\"https://www.wicoastalatlas.net/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_ScenicByways_2015.xml\"}",
 "solr_geom": "ENVELOPE(-93, -86.5, 47.5, 42.5)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. Wisconsin Coastal Atlas information and data are also available from the Coastal Atlas online: https://www.wicoastalatlas.net/ For more information on Wisconsin's Scenic Byways: https://wisconsindot.gov/Pages/travel/road/scenic-ways/default.aspx",
 "uw_notice_s": ""

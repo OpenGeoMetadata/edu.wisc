@@ -29,7 +29,7 @@
 		"2019"
 	],
 	"solr_year_i": 2019,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_FarmPres_Plan_2019.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_FarmPres_Plan_2019.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_FarmPres_Plan_2019.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_FarmPres_Plan_2019.xml\"}",
 	"solr_geom": "ENVELOPE(-92.940583, -86.678907, 46.876157, 42.456895)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For more information please visit: https://datcp.wi.gov/Pages/Programs_Services/GISData.aspx",
 	"uw_notice_s": ""

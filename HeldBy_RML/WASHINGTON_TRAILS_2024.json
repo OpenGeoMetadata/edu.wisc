@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2024"],
 "solr_year_i": 2024,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WASHINGTON_TRAILS_2024.zip\",\"http://schema.org/url\":\"https://maps.washcowisco.gov/portal/apps/sites/#/maps\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WASHINGTON_TRAILS_2024.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WASHINGTON_TRAILS_2024.zip\",\"http://schema.org/url\":\"https://maps.washcowisco.gov/portal/apps/sites/#/maps\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WASHINGTON_TRAILS_2024.xml\"}",
 "solr_geom": "ENVELOPE(-88.393338, -88.14141, 43.545967, 43.19002)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data available, please visit: https://maps.washcowisco.gov/portal/apps/sites/#/maps",
 "uw_notice_s": ""

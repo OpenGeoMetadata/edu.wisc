@@ -27,7 +27,7 @@
 		"2016"
 	],
 	"solr_year_i": 2016,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_WISCLAND2_Level4_2016.zip\",\"http://schema.org/url\":\"https://dnr.wisconsin.gov/maps/WISCLAND\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_WISCLAND2_Level4_2016.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_WISCLAND2_Level4_2016.zip\",\"http://schema.org/url\":\"https://dnr.wisconsin.gov/maps/WISCLAND\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_WISCLAND2_Level4_2016.xml\"}",
 	"solr_geom": "ENVELOPE(-92.96421, -86.708801, 47.08301, 42.457982)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. Authoritative data download available from: https://data-wi-dnr.opendata.arcgis.com/",
 	"uw_notice_s": ""

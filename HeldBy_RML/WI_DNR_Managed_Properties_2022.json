@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2022"],
 "solr_year_i": 2022,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_DNR_Managed_Properties_2022.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/dnr-managed-properties/explore?location=44.597000%2C-89.888000%2C7.59\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_DNR_Managed_Properties_2022.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_DNR_Managed_Properties_2022.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/dnr-managed-properties/explore?location=44.597000%2C-89.888000%2C7.59\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_DNR_Managed_Properties_2022.xml\"}",
 "solr_geom": "ENVELOPE(-92.950336, -86.721205, 46.887081, 42.460415)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data available, please visit:https://data-wi-dnr.opendata.arcgis.com/",
 "uw_notice_s": ""

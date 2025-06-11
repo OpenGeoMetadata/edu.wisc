@@ -29,7 +29,7 @@
 		"2019"
 	],
 	"solr_year_i": 2019,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_MunicipalWards_Spring_2019.zip\",\"http://schema.org/url\":\"https://gis-ltsb.hub.arcgis.com/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_MunicipalWards_Spring_2019.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_MunicipalWards_Spring_2019.zip\",\"http://schema.org/url\":\"https://gis-ltsb.hub.arcgis.com/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_MunicipalWards_Spring_2019.xml\"}",
 	"solr_geom": "ENVELOPE(-92.889337, -86.763988, 47.080713, 42.49193)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For additional information and most current data, please visit https://gis-ltsb.hub.arcgis.com/.",
 	"uw_notice_s": ""

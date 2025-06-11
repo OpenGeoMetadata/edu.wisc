@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2023"],
 "solr_year_i": 2023,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_24K_Hydro_2023.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/24k-hydro-full-file-geodatabase/about\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_24K_Hydro_2023.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_24K_Hydro_2023.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/24k-hydro-full-file-geodatabase/about\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_24K_Hydro_2023.xml\"}",
 "solr_geom": "ENVELOPE(-94.431518, -84.127919, 49.038739, 40.979797)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. All user guides, data dictionaries and documentation are incuded in this download from GeoData@Wisconsin. However, for authoritative data download and all relevant information, please visit the WI DNR Open Data Portal: https://data-wi-dnr.opendata.arcgis.com/datasets/24k-hydro-full-file-geodatabase/about.",
 "uw_notice_s": ""

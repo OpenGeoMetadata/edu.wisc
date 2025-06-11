@@ -30,7 +30,7 @@
 		"1996"
 	],
 	"solr_year_i": 1996,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_PLSSCentroids_1996.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/plss-centroids\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_PLSSCentroids_1996.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_PLSSCentroids_1996.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/plss-centroids\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_PLSSCentroids_1996.xml\"}",
 	"solr_geom": "ENVELOPE(-92.96406, -86.71051, 47.081557, 42.459843)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. for the most current data available, visit: https://data-wi-dnr.opendata.arcgis.com/ [A reference document, '24K Landnet Spatial Database Technical Documentation', 1996, Wisconsin DNR, includes details about the sources and characteristics of the 24K Landnet database:http://www.dnr.state.wi.us/maps/gis/documents/landnet_doc.pdf ]",
 	"uw_notice_s": ""

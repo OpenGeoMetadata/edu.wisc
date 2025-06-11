@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2025"],
 "solr_year_i": 2025,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/DANE_ADDRESSES_2025.zip\",\"http://schema.org/url\":\"https://gis-countyofdane.opendata.arcgis.com/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/DANE_ADDRESSES_2025.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/DANE_ADDRESSES_2025.zip\",\"http://schema.org/url\":\"https://gis-countyofdane.opendata.arcgis.com/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/DANE_ADDRESSES_2025.xml\"}",
 "solr_geom": "ENVELOPE(-89.840686, -89.008423, 43.294124, 42.845422)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""

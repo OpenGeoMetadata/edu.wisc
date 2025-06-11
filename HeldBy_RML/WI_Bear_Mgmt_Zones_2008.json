@@ -31,7 +31,7 @@
 		"2008"
 	],
 	"solr_year_i": 2008,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_Bear_Mgmt_Zones_2008.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/bear-hunting-management-zones\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Bear_Mgmt_Zones_2008.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_Bear_Mgmt_Zones_2008.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/bear-hunting-management-zones\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_Bear_Mgmt_Zones_2008.xml\"}",
 	"solr_geom": "ENVELOPE(-92.964436, -86.709234, 47.083195, 42.457994)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most recent version of the data (or current updates) please visit the WI DNR: https://data-wi-dnr.opendata.arcgis.com/datasets/wi-dnr::bear-hunting-management-zones-1/about",
 	"uw_notice_s": ""

@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2021"],
 "solr_year_i": 2021,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Bayfield_Buildings_2022.zip\",\"http://schema.org/url\":\"https://www.bayfieldcounty.wi.gov/892/GIS-Data-Download\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Bayfield_Buildings_2022.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/Bayfield_Buildings_2022.zip\",\"http://schema.org/url\":\"https://www.bayfieldcounty.wi.gov/892/GIS-Data-Download\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/Bayfield_Buildings_2022.xml\"}",
 "solr_geom": "ENVELOPE(-91.556466, -90.76986, 47.003359, 46.154476)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most recent version of this data, please visit: https://www.bayfieldcounty.wi.gov/892/GIS-Data-Access",
 "uw_notice_s": ""

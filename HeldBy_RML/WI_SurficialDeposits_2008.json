@@ -30,7 +30,7 @@
 		"2008"
 	],
 	"solr_year_i": 2008,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_SurficialDeposits_2008.zip\",\"http://schema.org/url\":\"http://data-wi-dnr.opendata.arcgis.com/datasets/gcsm-surficial-deposits\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_SurficialDeposits_2008.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_SurficialDeposits_2008.zip\",\"http://schema.org/url\":\"http://data-wi-dnr.opendata.arcgis.com/datasets/gcsm-surficial-deposits\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_SurficialDeposits_2008.xml\"}",
 	"solr_geom": "ENVELOPE(-93.099442, -86.531193, 47.145983, 42.371599)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data available please visit: https://data-wi-dnr.opendata.arcgis.com/",
 	"uw_notice_s": ""

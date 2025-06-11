@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["1981-2010"],
 "solr_year_i": 1981,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_AnnualPrecip_1981_2010.zip\",\"http://schema.org/url\":\"https://datagateway.nrcs.usda.gov/ \",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_AnnualPrecip_1981_2010.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_AnnualPrecip_1981_2010.zip\",\"http://schema.org/url\":\"https://datagateway.nrcs.usda.gov/ \",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_AnnualPrecip_1981_2010.xml\"}",
 "solr_geom": "ENVELOPE(-92.889425, -86.753928, 47.112557, 42.491712)",
 "uw_supplemental_s": "Archived dataset at UW-Madison. For the most recent verison of this data please visit: https://datagateway.nrcs.usda.gov/",
 "uw_notice_s": ""

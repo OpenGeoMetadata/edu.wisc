@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2015"],
 "solr_year_i": 2015,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_Counties_2015.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/county-boundaries-24k\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Counties_2015.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_Counties_2015.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/county-boundaries-24k\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_Counties_2015.xml\"}",
 "solr_geom": "ENVELOPE(-92.964215, -86.70883, 47.083097, 42.457983)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most recent version of the data (or current updates) please visit the WI DNR:https://data-wi-dnr.opendata.arcgis.com/datasets/county-boundaries-24k",
 "uw_notice_s": ""

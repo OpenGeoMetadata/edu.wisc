@@ -30,7 +30,7 @@
 		"2001"
 	],
 	"solr_year_i": 2001,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_Hillshade30m_2001.zip\",\"http://schema.org/url\":\"http://data-wi-dnr.opendata.arcgis.com/datasets?q=hillshade\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Hillshade30m_2001.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_Hillshade30m_2001.zip\",\"http://schema.org/url\":\"http://data-wi-dnr.opendata.arcgis.com/datasets?q=hillshade\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_Hillshade30m_2001.xml\"}",
 	"solr_geom": "ENVELOPE(-93.032408, -86.597317, 47.12809, 42.410216)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data, please visit: https://data-wi-dnr.opendata.arcgis.com/",
 	"uw_notice_s": ""

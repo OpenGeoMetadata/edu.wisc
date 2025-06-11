@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2015"],
 "solr_year_i": 2015,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Waupaca_Roads_2015.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Waupaca_Roads_2015.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/Waupaca_Roads_2015.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/Waupaca_Roads_2015.xml\"}",
 "solr_geom": "ENVELOPE(-89.227695, -88.604954, 44.682074, 44.241825)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most current data for this county, please visit: https://data2017-04-05t135915451z-waupacacounty.opendata.arcgis.com/",
 "uw_notice_s": ""

@@ -29,7 +29,7 @@
 		"2019"
 	],
 	"solr_year_i": 2019,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_Superfund_NPL_Site_Boundaries_2019.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/superfund-npl-site-boundaries/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Superfund_NPL_Site_Boundaries_2019.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_Superfund_NPL_Site_Boundaries_2019.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/superfund-npl-site-boundaries/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_Superfund_NPL_Site_Boundaries_2019.xml\"}",
 	"solr_geom": "ENVELOPE(-91.50335, -87.659416, 44.868802, 42.684441)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most recent version of the data (or current updates) please visit the WI DNR: https://data-wi-dnr.opendata.arcgis.com/datasets/wi-dnr::superfund-npl-site-boundaries/about",
 	"uw_notice_s": ""

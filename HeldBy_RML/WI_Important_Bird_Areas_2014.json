@@ -29,7 +29,7 @@
 		"2014"
 	],
 	"solr_year_i": 2014,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_Important_Bird_Areas_2014.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/important-bird-areas\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Important_Bird_Areas_2014.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_Important_Bird_Areas_2014.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/important-bird-areas\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_Important_Bird_Areas_2014.xml\"}",
 	"solr_geom": "ENVELOPE(-92.908356, -86.702922, 47.133897, 41.64217)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most recent version of the data (or current updates) please visit the WI DNR: https://data-wi-dnr.opendata.arcgis.com/datasets/wi-dnr::important-bird-areas/about",
 	"uw_notice_s": ""

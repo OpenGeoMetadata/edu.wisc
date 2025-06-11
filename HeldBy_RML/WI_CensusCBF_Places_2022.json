@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2022"],
 "solr_year_i": 2022,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_CensusCBF_Places_2022.zip\",\"http://schema.org/url\":\"https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_CensusCBF_Places_2022.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_CensusCBF_Places_2022.zip\",\"http://schema.org/url\":\"https://www.census.gov/geographies/mapping-files/time-series/geo/cartographic-boundary.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_CensusCBF_Places_2022.xml\"}",
 "solr_geom": "ENVELOPE(-92.807988, -87.048532, 46.885732, 42.492576)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""

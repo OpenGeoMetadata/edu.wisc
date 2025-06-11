@@ -29,7 +29,7 @@
 		"2019"
 	],
 	"solr_year_i": 2019,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_PublicLibraries_Branches_2019.zip\",\"http://schema.org/url\":\"https://dpi.wi.gov/wise/gis-maps\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_PublicLibraries_Branches_2019.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_PublicLibraries_Branches_2019.zip\",\"http://schema.org/url\":\"https://dpi.wi.gov/wise/gis-maps\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_PublicLibraries_Branches_2019.xml\"}",
 	"solr_geom": "ENVELOPE(-92.889381, -86.850983, 46.815039, 42.471498)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data, please visit: https://data-wi-dpi.opendata.arcgis.com/",
 	"uw_notice_s": ""

@@ -29,7 +29,7 @@
 		"2006"
 	],
 	"solr_year_i": 2006,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_OER_Waters_Poly_2006.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/outstanding-and-exceptional-lakes\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_OER_Waters_Poly_2006.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_OER_Waters_Poly_2006.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/outstanding-and-exceptional-lakes\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_OER_Waters_Poly_2006.xml\"}",
 	"solr_geom": "ENVELOPE(-92.91742, -87.25896, 46.806967, 42.477714)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most recent version of the data (or current updates) please visit the WI DNR: https://data-wi-dnr.opendata.arcgis.com/datasets/outstanding-and-exceptional-lakes",
 	"uw_notice_s": ""

@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2010"],
 "solr_year_i": 2010,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/Rock_LandUse_2010.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Rock_LandUse_2010.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/Rock_LandUse_2010.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/Rock_LandUse_2010.xml\"}",
 "solr_geom": "ENVELOPE(-89.372644, -88.769639, 42.850139, 42.491778)",
 "uw_supplemental_s": "This is an archived copy of data held at UW-Madison.",
 "uw_notice_s": ""

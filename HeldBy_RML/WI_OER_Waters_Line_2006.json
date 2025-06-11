@@ -30,7 +30,7 @@
 		"2006"
 	],
 	"solr_year_i": 2006,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_OER_Waters_Line_2006.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/outstanding-and-exceptional-rivers-and-streams\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_OER_Waters_Line_2006.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_OER_Waters_Line_2006.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/datasets/outstanding-and-exceptional-rivers-and-streams\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_OER_Waters_Line_2006.xml\"}",
 	"solr_geom": "ENVELOPE(-92.932677, -86.939104, 47.08753, 42.804018)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most recent version of the data (or current updates) please visit the WI DNR:: https://data-wi-dnr.opendata.arcgis.com/datasets/wi-dnr::outstanding-and-exceptional-rivers-and-streams/about",
 	"uw_notice_s": ""

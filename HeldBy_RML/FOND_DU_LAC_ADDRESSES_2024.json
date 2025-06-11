@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2024"],
 "solr_year_i": 2024,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/FOND_DU_LAC_ADDRESSES_2024.zip\",\"http://schema.org/url\":\"https://www.fdlco.wi.gov/departments/departments-f-m/land-information/data-download\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/FOND_DU_LAC_ADDRESSES_2024.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/FOND_DU_LAC_ADDRESSES_2024.zip\",\"http://schema.org/url\":\"https://www.fdlco.wi.gov/departments/departments-f-m/land-information/data-download\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/FOND_DU_LAC_ADDRESSES_2024.xml\"}",
 "solr_geom": "ENVELOPE(-88.886471, -88.158538, 43.937758, 43.542548)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data available, please visit: https://www.fdlco.wi.gov/departments/departments-f-m/land-information/data-download",
 "uw_notice_s": ""

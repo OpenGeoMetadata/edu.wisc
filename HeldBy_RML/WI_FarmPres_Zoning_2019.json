@@ -29,7 +29,7 @@
 		"2019"
 	],
 	"solr_year_i": 2019,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_FarmPres_Zoning_2019.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_FarmPres_Zoning_2019.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_FarmPres_Zoning_2019.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_FarmPres_Zoning_2019.xml\"}",
 	"solr_geom": "ENVELOPE(-92.820288, -87.268678, 46.093014, 42.467581)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For more information please visit: https://datcp.wi.gov/Pages/Programs_Services/GISData.aspx [Zoning jurisdictions that have not been recertified since 2009 are not portrayed. The zoning layer does not account for rezoned parcels.]",
 	"uw_notice_s": ""

@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2025"],
 "solr_year_i": 2025,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WASHINGTON_BUILDINGS_2025.zip\",\"http://schema.org/url\":\"https://gisdata.washcowisco.gov/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WASHINGTON_BUILDINGS_2025.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WASHINGTON_BUILDINGS_2025.zip\",\"http://schema.org/url\":\"https://gisdata.washcowisco.gov/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WASHINGTON_BUILDINGS_2025.xml\"}",
 "solr_geom": "ENVELOPE(-88.430149, -88.032377, 43.549074, 43.184705)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""

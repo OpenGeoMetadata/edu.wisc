@@ -29,7 +29,7 @@
 		"2016"
 	],
 	"solr_year_i": 2016,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_CongressionalDistricts_2016.zip\",\"http://schema.org/url\":\"https://gis-ltsb.hub.arcgis.com/  \",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_CongressionalDistricts_2016.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_CongressionalDistricts_2016.zip\",\"http://schema.org/url\":\"https://gis-ltsb.hub.arcgis.com/  \",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_CongressionalDistricts_2016.xml\"}",
 	"solr_geom": "ENVELOPE(-92.889432, -86.763987, 47.080774, 42.491915)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For additional information, please visit https://gis-ltsb.hub.arcgis.com/.",
 	"uw_notice_s": ""

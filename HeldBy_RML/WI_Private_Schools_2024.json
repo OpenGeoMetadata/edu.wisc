@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2024"],
 "solr_year_i": 2024,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_Private_School_2024.zip\",\"http://schema.org/url\":\"https://data-wi-dpi.opendata.arcgis.com/datasets/WI-DPI::elementary-school-districts-wisconsin/about\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Private_Schools.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_Private_School_2024.zip\",\"http://schema.org/url\":\"https://data-wi-dpi.opendata.arcgis.com/datasets/WI-DPI::elementary-school-districts-wisconsin/about\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_Private_Schools.xml\"}",
 "solr_geom": "ENVELOPE(-92.89576, -86.84909, 46.818066, 42.468581)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data available, please visit: https://data-wi-dpi.opendata.arcgis.com/",
 "uw_notice_s": ""

@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2023"],
 "solr_year_i": 2023,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_AmbulatorySurgicalCenters_2023.zip\",\"http://schema.org/url\":\"https://data.dhsgis.wi.gov/datasets/wi-dhs::wisconsin-ambulatory-surgical-centers/about\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_AmbulatorySurgicalCenters_2023.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_AmbulatorySurgicalCenters_2023.zip\",\"http://schema.org/url\":\"https://data.dhsgis.wi.gov/datasets/wi-dhs::wisconsin-ambulatory-surgical-centers/about\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_AmbulatorySurgicalCenters_2023.xml\"}",
 "solr_geom": "ENVELOPE(-91.41886, -87.659577, 45.895766, 42.499977)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data available, please visit: https://data.dhsgis.wi.gov/datasets/wi-dhs::wisconsin-ambulatory-surgical-centers/about",
 "uw_notice_s": ""

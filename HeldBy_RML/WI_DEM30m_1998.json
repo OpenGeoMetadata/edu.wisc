@@ -29,7 +29,7 @@
 		"1998"
 	],
 	"solr_year_i": 1998,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_DEM30m_1998.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_DEM30m_1998.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_DEM30m_1998.zip\",\"http://schema.org/url\":\"https://data-wi-dnr.opendata.arcgis.com/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_DEM30m_1998.xml\"}",
 	"solr_geom": "ENVELOPE(-93.032613, -86.597506, 47.128225, 42.410356)",
 	"uw_supplemental_s": "The spatial extent this data layer is the state of Wisconsin, plus a buffer around the perimeter extending approximately 5,000 meters beyond the state boundary. The DEM includes elevation values every 30 meters or 98.4 feet. Elevation units are in meters. ArcView with the Spatial Analyst Extension, ArcInfo/ArcGIS Grid, or comparable GIS software is needed to use the Grid format data meaningfully. Time period extent for this content is 1990-2000.",
 	"uw_notice_s": ""

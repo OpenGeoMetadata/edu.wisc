@@ -29,7 +29,7 @@
 		"2015"
 	],
 	"solr_year_i": 2015,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/parcels/v1_parcels/V1.0.1_Wisconsin_Parcels_2015_10.2_Compressed.zip\",\"http://schema.org/url\":\"https://www.sco.wisc.edu/parcels/data/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Parcels_2015.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/parcels/v1_parcels/V1.0.1_Wisconsin_Parcels_2015_10.2_Compressed.zip\",\"http://schema.org/url\":\"https://www.sco.wisc.edu/parcels/data/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_Parcels_2015.xml\"}",
 	"solr_geom": "ENVELOPE(-92.955616, -86.666103, 47.08304, 42.456895)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 	"uw_notice_s": ""

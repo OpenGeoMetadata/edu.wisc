@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2023"],
 "solr_year_i": 2023,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/parcels/v9_parcels/V9.0.1_Wisconsin_Parcels_2023_10.3_Compressed.zip\",\"http://schema.org/url\":\"https://maps.sco.wisc.edu/Parcels/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Parcels_2023.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/parcels/v9_parcels/V9.0.1_Wisconsin_Parcels_2023_10.3_Compressed.zip\",\"http://schema.org/url\":\"https://maps.sco.wisc.edu/Parcels/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_Parcels_2023.xml\"}",
 "solr_geom": "ENVELOPE(-92.963573, -86.666103, 47.08304, 42.456897)",
 "uw_supplemental_s": "This is an archived dataset at UW-Madison.",
 "uw_notice_s": ""

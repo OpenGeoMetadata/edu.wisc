@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2020"],
 "solr_year_i": 2020,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_NSD_2020.zip\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5caed11ee4b0c3b00654de01\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_NSD_2020.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_NSD_2020.zip\",\"http://schema.org/url\":\"https://www.sciencebase.gov/catalog/item/5caed11ee4b0c3b00654de01\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_NSD_2020.xml\"}",
 "solr_geom": "ENVELOPE(-92.875381, -86.920648, 47.032734, 42.495285)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For access to the most current data, please visit: [https://www.sciencebase.gov/catalog/item/5caed11ee4b0c3b00654de01]",
 "uw_notice_s": ""

@@ -29,7 +29,7 @@
 		"2015"
 	],
 	"solr_year_i": 2015,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_NM590_2015.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_NM590_2015.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_NM590_2015.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_NM590_2015.xml\"}",
 	"solr_geom": "ENVELOPE(-92.958007, -86.709145, 47.083061, 42.452347)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. The data for this dataset was published with multiple feature classes, and the metadata was generated from the “WI_NM590_ProposedRestrict_2015' feature dataset.  For more information on DATCP GIS data, please see: https://datcp.wi.gov/Pages/Programs_Services/GISData.aspx",
 	"uw_notice_s": ""

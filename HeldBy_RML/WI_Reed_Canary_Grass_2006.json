@@ -29,7 +29,7 @@
 		"2006"
 	],
 	"solr_year_i": 2006,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_Reed_Canary_Grass_2006.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Reed_Canary_Grass_2006.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_Reed_Canary_Grass_2006.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_Reed_Canary_Grass_2006.xml\"}",
 	"solr_geom": "ENVELOPE(-92.964588, -86.706218, 47.088096, 42.457883)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison. For the most recent version of the data (or current updates) please visit the WI DNR:https://www.arcgis.com/home/item.html?id=1725432d06574118b5f868b71e1772d2",
 	"uw_notice_s": ""

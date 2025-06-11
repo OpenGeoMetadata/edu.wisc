@@ -29,7 +29,7 @@
 		"2011"
 	],
 	"solr_year_i": 2011,
-	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://gisdata.wisc.edu/public/WI_Landsat_ETMPlus_2011.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/WI_Landsat_ETMPlus_2011.xml\"}",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_Landsat_ETMPlus_2011.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_Landsat_ETMPlus_2011.xml\"}",
 	"solr_geom": "ENVELOPE(-97.843369, -82.15659, 50.197515, 39.750969)",
 	"uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.For the most current data available, pleaes visit: https://data-wi-dnr.opendata.arcgis.com/",
 	"uw_notice_s": ""
