@@ -30,7 +30,7 @@
  ],
  "solr_year_i": 2015,
  "dct_issued_s": "",
- "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/florence-2015-Contours.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Florence_LIDAR_County_2015.xml\"}",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://web.s3.wisc.edu/rml-gisdata/indexes/florence-2015-Contours.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/Florence_LIDAR_County_2015.xml\"}",
  "solr_geom": "ENVELOPE(-88.68421375,-88.05822859,46.02121159,45.7130394)",
  "thumbnail_path_ss": "",
  "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Florence/Florence_2015_County_Delivery/Metadata/Metadata.zip",

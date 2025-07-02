@@ -30,7 +30,7 @@
  ],
  "solr_year_i": 2022,
  "dct_issued_s": "",
- "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/Burnett_DEM_Tiled_USGS_2022.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Burnett_LIDAR_USGS_2022.xml\"}",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://web.s3.wisc.edu/rml-gisdata/indexes/Burnett_DEM_Tiled_USGS_2022.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/Burnett_LIDAR_USGS_2022.xml\"}",
  "solr_geom": "ENVELOPE(-92.88690824,-92.03124266,46.15765428,45.63971233)",
  "thumbnail_path_ss": "",
  "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Burnett/Burnett_2022_3DEP_Delivery/Metadata/Metadata.zip",

@@ -30,7 +30,7 @@
 	],
 	"solr_year_i": 2020,
 	"dct_issued_s": "",
-	"dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/Brown_DEM_tiled_USGS_2020.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Brown_LIDAR_USGS_2020.xml\"}",
+	"dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://web.s3.wisc.edu/rml-gisdata/indexes/Brown_DEM_tiled_USGS_2020.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/Brown_LIDAR_USGS_2020.xml\"}",
 	"solr_geom": "ENVELOPE(-88.25260864,-87.76243924,44.67980071,44.24038382)",
 	"thumbnail_path_ss": "",
 	"uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Brown/Brown_2020_3DEP_Delivery/Metadata/Metadata.zip",

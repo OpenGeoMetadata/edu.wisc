@@ -30,7 +30,7 @@
  ],
  "solr_year_i": 2005,
  "dct_issued_s": "",
- "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/Oconto_bare_earth_points_county_2005.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Oconto_LIDAR_County_2005.xml\"}",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://web.s3.wisc.edu/rml-gisdata/indexes/Oconto_bare_earth_points_county_2005.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/Oconto_LIDAR_County_2005.xml\"}",
  "solr_geom": "ENVELOPE(-88.68009268,-87.76015917,45.37859282,44.67228166)",
  "thumbnail_path_ss": "",
  "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Oconto/Oconto_2005_Original_2009_Edits_2010_Update/Metadata/Metadata.zip",

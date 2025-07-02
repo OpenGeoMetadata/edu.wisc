@@ -30,7 +30,7 @@
  ],
  "solr_year_i": 2016,
  "dct_issued_s": "",
- "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/madison-2016-ClassifiedPoints.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/CityofMadison_LIDAR_City_2016.xml\"}",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://web.s3.wisc.edu/rml-gisdata/indexes/madison-2016-ClassifiedPoints.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/CityofMadison_LIDAR_City_2016.xml\"}",
  "solr_geom": "ENVELOPE(-89.604600,-89.186212,43.196283,42.985217)",
  "thumbnail_path_ss": "",
  "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Dane/Madison_2016_City_Delivery/Metadata/Metadata.zip",

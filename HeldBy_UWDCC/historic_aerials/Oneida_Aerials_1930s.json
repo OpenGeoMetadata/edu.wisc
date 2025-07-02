@@ -29,7 +29,7 @@
  ],
  "solr_year_i": 1938,
  "dct_issued_s": "",
- "dct_references_s": "{\"http://schema.org/url\":\"https://maps.sco.wisc.edu/WHAIFinder/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/1930sAerials_Oneida.geojson\"}",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://maps.sco.wisc.edu/WHAIFinder/\",\"https://openindexmaps.org\":\"https://web.s3.wisc.edu/rml-gisdata/indexes/1930sAerials_Oneida.geojson\"}",
  "solr_geom": "ENVELOPE(-90.04532359,-89.0464586,45.9015002,45.46474406)",
  "uw_supplemental_s": "",
  "uw_notice_s": "The map below represents center points of each historical aerial photograph.  Click a green circle for more information about that photograph."

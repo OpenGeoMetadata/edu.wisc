@@ -20,7 +20,7 @@
 	"dc_title_s": "NAIP Aerial Mosaic (UTM) Richland County, WI 2004",
 	"layer_slug_s": "927aaf72-4cfd-4d32-8e38-8ae0bf781ec9",
 	"dc_format_s": "MrSID",
-	"dct_references_s": "{\"http://schema.org/url\":\"https://naip-usdaonline.hub.arcgis.com/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/imagery/NAIP/NAIP_2004/Richland/naip_1-1_2n_s_wi103_2004_1_sid.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/wi_naip_2004.xml\"}",
+	"dct_references_s": "{\"http://schema.org/url\":\"https://naip-usdaonline.hub.arcgis.com/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/imagery/NAIP/NAIP_2004/Richland/naip_1-1_2n_s_wi103_2004_1_sid.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_NAIP_2004.xml\"}",
 	"dct_isPartOf_sm": [
 		"Aerial Imagery"
 	],

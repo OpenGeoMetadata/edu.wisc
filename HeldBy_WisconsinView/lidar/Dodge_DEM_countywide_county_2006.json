@@ -30,7 +30,7 @@
  ],
  "solr_year_i": 2006,
  "dct_issued_s": "",
- "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Dodge/Dodge_2006_County_Delivery/Raster_DEM/GDB/DodgeRaster.gdb.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Dodge_LIDAR_County_2006.xml\"}",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Dodge/Dodge_2006_County_Delivery/Raster_DEM/GDB/DodgeRaster.gdb.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/Dodge_LIDAR_County_2006.xml\"}",
  "solr_geom": "ENVELOPE(-89.0094854,-88.40027034,43.63351855,43.19471212)",
  "thumbnail_path_ss": "",
  "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Dodge/Dodge_2006_County_Delivery/Metadata/Metadata.zip",

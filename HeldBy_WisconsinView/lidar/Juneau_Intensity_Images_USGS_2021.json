@@ -30,7 +30,7 @@
  ],
  "solr_year_i": 2021,
  "dct_issued_s": "",
- "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/Juneau_Intensity_Images_USGS_2021.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Juneau_LIDAR_USGS_2021.xml\"}",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://web.s3.wisc.edu/rml-gisdata/indexes/Juneau_Intensity_Images_USGS_2021.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/Juneau_LIDAR_USGS_2021.xml\"}",
  "solr_geom": "ENVELOPE(-90.3133529,-89.78516752,44.24944132,43.64093653)",
  "thumbnail_path_ss": "",
  "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Juneau/Juneau_2021_3DEP_Delivery/Metadata/Metadata.zip",

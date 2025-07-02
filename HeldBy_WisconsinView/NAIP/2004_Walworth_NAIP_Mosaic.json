@@ -20,7 +20,7 @@
 	"dc_title_s": "NAIP Aerial Mosaic (UTM) Walworth County, WI 2004",
 	"layer_slug_s": "f78ae7cb-49a2-4e99-aaff-9506e80ff668",
 	"dc_format_s": "MrSID",
-	"dct_references_s": "{\"http://schema.org/url\":\"https://naip-usdaonline.hub.arcgis.com/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/imagery/NAIP/NAIP_2004/Walworth/naip_1-1_2n_s_wi127_2004_1_sid.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/wi_naip_2004.xml\"}",
+	"dct_references_s": "{\"http://schema.org/url\":\"https://naip-usdaonline.hub.arcgis.com/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/imagery/NAIP/NAIP_2004/Walworth/naip_1-1_2n_s_wi127_2004_1_sid.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_NAIP_2004.xml\"}",
 	"dct_isPartOf_sm": [
 		"Aerial Imagery"
 	],

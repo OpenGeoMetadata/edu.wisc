@@ -20,7 +20,7 @@
 	"dc_title_s": "NAIP Aerial Mosaic (UTM) Jackson County, WI 2004",
 	"layer_slug_s": "2944b6e3-b7cb-4f41-b29f-77e5d63828d8",
 	"dc_format_s": "MrSID",
-	"dct_references_s": "{\"http://schema.org/url\":\"https://naip-usdaonline.hub.arcgis.com/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/imagery/NAIP/NAIP_2004/Jackson/naip_1-1_2n_s_wi053_2004_1_sid.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/wi_naip_2004.xml\"}",
+	"dct_references_s": "{\"http://schema.org/url\":\"https://naip-usdaonline.hub.arcgis.com/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/imagery/NAIP/NAIP_2004/Jackson/naip_1-1_2n_s_wi053_2004_1_sid.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_NAIP_2004.xml\"}",
 	"dct_isPartOf_sm": [
 		"Aerial Imagery"
 	],

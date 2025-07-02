@@ -30,7 +30,7 @@
  ],
  "solr_year_i": 2021,
  "dct_issued_s": "",
- "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Marinette/Marinette_2021_WVP_Derived_Products/Marinette_Raster_WTM_EPSG3071/Marinette2021_HS60cm_WTM.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Marathon_LIDAR_USGS_2021.xml\"}",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Marinette/Marinette_2021_WVP_Derived_Products/Marinette_Raster_WTM_EPSG3071/Marinette2021_HS60cm_WTM.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/Marathon_LIDAR_USGS_2021.xml\"}",
  "solr_geom": "ENVELOPE(-88.42809148,-87.48997276,45.79561761,44.96563712)",
  "thumbnail_path_ss": "",
  "uw_supplemental_s": "This lidar data dataset was created by the WisconsinView Partners (WVP) – the WI Department of Administration’s Geographic Information Office in collaboration with the UW-Madison Space Science and Engineering Center’s (SSEC) WisconsinView repository. Original lidar data in tiled format from federal or local county/city lidar projects were used to create countywide mosaics of datasets such as DEMS, Intensity images, and DSMs in various projections and coordinate systems. For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Marinette/Marinette_2021_3DEP_Delivery/Metadata/Metadata.zip",

@@ -20,7 +20,7 @@
 	"dc_title_s": "NAIP Aerial Mosaic (UTM) Eau Claire County, WI 2004",
 	"layer_slug_s": "cbbfcecd-8ab2-4f53-a3a2-dda6decb11dc",
 	"dc_format_s": "MrSID",
-	"dct_references_s": "{\"http://schema.org/url\":\"https://naip-usdaonline.hub.arcgis.com/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/imagery/NAIP/NAIP_2004/Eau_Claire/naip_1-1_2n_s_wi035_2004_1.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/wi_naip_2004.xml\"}",
+	"dct_references_s": "{\"http://schema.org/url\":\"https://naip-usdaonline.hub.arcgis.com/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/imagery/NAIP/NAIP_2004/Eau_Claire/naip_1-1_2n_s_wi035_2004_1.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_NAIP_2004.xml\"}",
 	"dct_isPartOf_sm": [
 		"Aerial Imagery"
 	],

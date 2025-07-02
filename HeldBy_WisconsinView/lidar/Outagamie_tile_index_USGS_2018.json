@@ -30,7 +30,7 @@
 	],
 	"solr_year_i": 2018,
 	"dct_issued_s": "",
-	"dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Outagamie/Outagamie_2018_TNM_Download/Tile_Index/OutagamieCo_tile_index.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Outagamie_LIDAR_USGS_2018.xml\"}",
+	"dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Outagamie/Outagamie_2018_TNM_Download/Tile_Index/OutagamieCo_tile_index.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/Outagamie_LIDAR_USGS_2018.xml\"}",
 	"solr_geom": "ENVELOPE(-88.73983555,-88.18997896,44.59067723,44.24197413)",
 	"thumbnail_path_ss": "",
 	"uw_supplemental_s": "",

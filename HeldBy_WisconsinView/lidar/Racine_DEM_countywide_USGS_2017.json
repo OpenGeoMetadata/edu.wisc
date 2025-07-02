@@ -30,7 +30,7 @@
  ],
  "solr_year_i": 2017,
  "dct_issued_s": "",
- "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Racine/Racine_2017_SEWRPC_QL1_Reprocessed/Raster_DEM_County/Racine2017_DEM1ft_ELft_SPS.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Racine_LIDAR_USGS_2017.xml\"}",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Racine/Racine_2017_SEWRPC_QL1_Reprocessed/Raster_DEM_County/Racine2017_DEM1ft_ELft_SPS.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/Racine_LIDAR_USGS_2017.xml\"}",
  "solr_geom": "ENVELOPE(-88.318333,-87.722222,42.863888,42.507332)",
  "thumbnail_path_ss": "",
  "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Racine/Racine_2017_SEWRPC_QL1_Reprocessed/Metadata/Metadata.zip",

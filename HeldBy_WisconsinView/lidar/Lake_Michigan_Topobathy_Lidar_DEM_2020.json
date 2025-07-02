@@ -20,7 +20,7 @@
  "dct_temporal_sm": ["2020"],
  "solr_year_i": 2020,
  "dct_issued_s": "",
- "dct_references_s": "{\"http://schema.org/url\":\"https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=9970/details/9970\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/lakemichigan_2020_DEM_usace.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Lake_Michigan_Topobathy_USACE_NCMP_2020.xml\"}",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://coast.noaa.gov/dataviewer/#/lidar/search/where:ID=9970/details/9970\",\"https://openindexmaps.org\":\"https://web.s3.wisc.edu/rml-gisdata/indexes/lakemichigan_2020_DEM_usace.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/Lake_Michigan_Topobathy_USACE_NCMP_2020.xml\"}",
  "solr_geom": "ENVELOPE(-87.94, -86.16, 44.87, 41.60)",
  "thumbnail_path_ss": "",
  "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Lake_Michigan/USACE_Topobathy_Delivery_2020/Metadata/Metadata.zip",

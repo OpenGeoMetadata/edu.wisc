@@ -20,7 +20,7 @@
 	"dc_title_s": "NAIP Aerial Mosaic (UTM) Dane County, WI 2004",
 	"layer_slug_s": "f3187bb2-ec8a-412e-928e-b0ad0b9083dc",
 	"dc_format_s": "MrSID",
-	"dct_references_s": "{\"http://schema.org/url\":\"https://naip-usdaonline.hub.arcgis.com/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/imagery/NAIP/NAIP_2004/Dane/naip_1-1_2n_s_wi025_2004_1_sid.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/wi_naip_2004.xml\"}",
+	"dct_references_s": "{\"http://schema.org/url\":\"https://naip-usdaonline.hub.arcgis.com/\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/imagery/NAIP/NAIP_2004/Dane/naip_1-1_2n_s_wi025_2004_1_sid.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_NAIP_2004.xml\"}",
 	"dct_isPartOf_sm": [
 		"Aerial Imagery"
 	],

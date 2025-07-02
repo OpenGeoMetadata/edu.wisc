@@ -30,7 +30,7 @@
  ],
  "solr_year_i": 2016,
  "dct_issued_s": "",
- "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://gisdata.wisc.edu/public/indexes/washburn-2016-PointsClassifiedLASUSGS.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://gisdata.wisc.edu/public/metadata/Washburn_LIDAR_USGS_2016.xml\"}",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://web.s3.wisc.edu/rml-gisdata/indexes/washburn-2016-PointsClassifiedLASUSGS.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/Washburn_LIDAR_USGS_2016.xml\"}",
  "solr_geom": "ENVELOPE(-92.05070649,-91.54025572,46.15790832,45.63762017)",
  "thumbnail_path_ss": "",
  "uw_supplemental_s": "For detailed metadata please visit: https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Washburn/Washburn_2016_3DEP_Delivery/Metadata/Metadata.zip",
