@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2024"],
 "solr_year_i": 2024,
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/POLK_PLSS_2024.zip\",\"http://schema.org/url\":\"https://www.polkcountywi.gov/government/divisions_and_departments/environmental_services_division/land_information/gis_data_portal.php\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/POLK_PLSS_2024.xml\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/POLK_PLSS_2024.zip\",\"http://schema.org/url\":\"https://www.polkcountywi.gov/government/divisions_and_departments/environmental_services_division/division_of_gis/gis_data_portal.php\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/POLK_PLSS_2024.xml\"}",
 "solr_geom": "ENVELOPE(-92.884682, -92.151911, 45.728736, 45.193756)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""
