@@ -21,7 +21,7 @@
 "dct_temporal_sm": ["2020"],
 "solr_year_i": 2020,
 "layer_modified_dt": "2022-01-22T20:12:43Z",
-"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://uwmadison.box.com/shared/static/3iy9yt003vr99dshvkq1hqy79puz2amg.zip\",\"http://schema.org/url\":\"https://www.sco.wisc.edu/glo/\"}",
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WIGLOSR_20.10.2.zip\",\"http://schema.org/url\":\"https://www.sco.wisc.edu/glo/\"}",
 "solr_geom": "ENVELOPE(-92.967572, -86.696635, 46.966402, 42.466389)",
 "uw_supplemental_s": "For data documentation please visit:  https://www.sco.wisc.edu/wp-content/uploads/2020/10/WIGLOSR_Database_Documentation_20.10.pdf  Access to the Original Public Land Survey Plat Maps is available through GeoData@Wisconsin: https://geodata.wisc.edu/?f%5Bdc_creator_sm%5D%5B%5D=United+States+General+Land+Office",
 "uw_notice_s": ""
