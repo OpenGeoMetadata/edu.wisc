@@ -1,0 +1,39 @@
+{
+ "geoblacklight_version": "1.0",
+ "dc_identifier_s": "f54d9c06-8894-4842-8cc8-6b72c1f23c67",
+ "dc_title_s": "Lidar-Derived Classified LAS for Portage County, WI 2024",
+ "dc_description_s": "This data represents Lidar-derived classified LAS (LAZ Format) points for Portage County, Wisconsin in 2024. Point classification uses semi-automated techniques on the point cloud to assign the feature type associated with each point. LiDAR points can be classified into a number of categories including bare earth or ground, top of canopy, and water. The different classes are defined using numeric integer codes in the LAS files.",
+ "dc_rights_s": "Public",
+ "dct_provenance_s": "WisconsinView",
+ "layer_id_s": "",
+ "layer_slug_s": "f54d9c06-8894-4842-8cc8-6b72c1f23c67",
+ "layer_geom_type_s": "Point",
+"layer_modified_dt": "2025-11-20T20:00:00Z",
+ "dc_format_s": "LAZ",
+ "dc_language_s": "English",
+ "dct_isPartOf_sm": [
+  "Wisconsin Elevation Data"
+ ],
+ "dc_creator_sm": [
+  "U.S. Geological Survey"
+ ],
+ "dc_publisher_sm": "",
+ "dc_type_s": "Dataset",
+ "dc_subject_sm": [
+  "Elevation"
+ ],
+ "dct_spatial_sm": [
+  ""
+ ],
+ "dct_temporal_sm": [
+  "2024"
+ ],
+ "solr_year_i": 2024,
+ "dct_issued_s": "",
+ "dct_references_s": "{\"http://schema.org/url\":\"https://www.sco.wisc.edu/data/elevationlidar/\",\"https://openindexmaps.org\":\"https://web.s3.wisc.edu/rml-gisdata/indexes/Portage_Classified_LAS_USGS_2024.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/Portage_LIDAR_USGS_2024.xml\"}",
+ "solr_geom": "ENVELOPE(-89.84540805,-89.22315597,44.68587956,44.24337156)",
+ "thumbnail_path_ss": "",
+ "uw_supplemental_s": "For detailed metadata please visit:https://web.s3.wisc.edu/wsco-wisconsinview/lidar/Portage/Portage_2024_3DEP_Delivery/Metadata/Metadata.zip",
+ "uw_notice_s": "",
+ "uw_deprioritize_item_b": false
+}
