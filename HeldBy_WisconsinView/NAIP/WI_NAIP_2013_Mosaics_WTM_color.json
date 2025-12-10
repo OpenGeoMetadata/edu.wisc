@@ -1,0 +1,27 @@
+{
+    "geoblacklight_version": "1.0",
+    "dc_identifier_s": "a9878896-94f0-42bd-b9ed-5480c5e52c74",
+    "dc_title_s": "NAIP Natural Color Aerial Mosaics (WTM), WI 2013",
+	"solr_year_i": 2013,
+    "dc_description_s": "This data set contains imagery from the National Agriculture Imagery Program (NAIP). The NAIP acquires digital ortho imagery during the agricultural growing seasons in the continental U.S.. A primary goal of the NAIP program is to enable availability of ortho imagery within one year of acquisition. INTENDED DISPLAY SCALE: 1:12,000; GROUND RESOLUTION: 1-Meter pixels; ACCURACY: + or - 6 Meters.",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "WisconsinView",
+    "dc_format_s": "MrSID",
+    "dc_language_s": "English",
+    "layer_slug_s": "a9878896-94f0-42bd-b9ed-5480c5e52c74",
+    "layer_geom_type_s": "Raster",
+    "layer_id_s": "",
+    	"dct_isPartOf_sm": [
+		"Aerial Imagery",
+		"Statewide"
+	],
+    "dc_creator_sm": ["U.S. Department of Agriculture"],
+    "dc_type_s": "Dataset",
+    "dc_subject_sm": ["Imagery and Base Maps"],
+    "dct_spatial_sm": [""],
+    "dct_temporal_sm": ["2013"],
+    "solr_geom": "ENVELOPE(-93.026493, -86.599174, 47.154595, 42.320983)",
+    "uw_supplemental_s": "These images are also available as mosaics referenced to the Universal Transverse Mercator (UTM) coordinate system.",
+    "dct_references_s": "{\"http://schema.org/url\":\"https://naip-usdaonline.hub.arcgis.com/\",\"https://openindexmaps.org\":\"https://web.s3.wisc.edu/rml-gisdata/indexes/WI_NAIP_2013_Mosaics_WTM_color.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_NAIP_2013.xml\"}",
+    "layer_modified_dt": "2025-12-09T19:00:00Z"
+}

@@ -1,6 +1,6 @@
 {
 	"geoblacklight_version": "1.0",
-	"dc_title_s": "NAIP Aerial Imagery DOQQs (UTM), WI 2022",
+	"dc_title_s": "NAIP Natural Color Aerial Mosaics (UTM), WI 2022",
 	"solr_year_i": 2022,
 	"dc_subject_sm": [
 		"Imagery and Base Maps"
@@ -15,11 +15,11 @@
 	],
 	"layer_id_s": "",
 	"dc_type_s": "Dataset",
-	"dc_identifier_s": "efa205f9-c0c6-46ba-b6a5-852e5f183a2d",
+	"dc_identifier_s": "a4a657de-5d93-4803-8b0d-4f5084d7a39d",
 	"dct_provenance_s": "WisconsinView",
-	"layer_slug_s": "efa205f9-c0c6-46ba-b6a5-852e5f183a2d",
-	"dc_format_s": "GeoTIFF",
-	"dct_references_s": "{\"http://schema.org/url\":\"https://naip-usdaonline.hub.arcgis.com/\",\"https://openindexmaps.org\":\"https://web.s3.wisc.edu/rml-gisdata/indexes/WI_NAIP_2022_Tiles_UTM.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_NAIP_2022.xml\"}",
+	"layer_slug_s": "a4a657de-5d93-4803-8b0d-4f5084d7a39d",
+	"dc_format_s": "MrSID",
+	"dct_references_s": "{\"http://schema.org/url\":\"https://naip-usdaonline.hub.arcgis.com/\",\"https://openindexmaps.org\":\"https://web.s3.wisc.edu/rml-gisdata/indexes/WI_NAIP_2022_Mosaics_UTM_color.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_NAIP_2022.xml\"}",
 	"dct_isPartOf_sm": [
 		"Aerial Imagery",
 		"Statewide"
@@ -30,7 +30,7 @@
 	"solr_geom": "ENVELOPE(-93.026493, -86.599174, 47.154595, 42.320983)",
 	"dc_rights_s": "Public",
 	"dc_language_s": "English",
-	"uw_notice_s": "The map below represents the boundaries of each NAIP GeoTIFF image.  Click on the index map for more information.",
-	"uw_supplemental_s": "",
-	"layer_modified_dt": "2024-01-18T19:30:24Z"
+	"uw_notice_s": "The map below represents the boundaries of each county mosaic in MrSID format.  Click on the index map for more information.",
+	"uw_supplemental_s": "These datasets are also available as color infrared mosaics referenced to the Universal Transverse Mercator (UTM) coordinate system.",
+	"layer_modified_dt": "2025-12-05T19:30:24Z"
 }

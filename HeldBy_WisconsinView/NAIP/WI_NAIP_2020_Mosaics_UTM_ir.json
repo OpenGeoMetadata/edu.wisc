@@ -1,6 +1,6 @@
 {
 	"geoblacklight_version": "1.0",
-	"dc_title_s": "NAIP Aerial Imagery DOQQs (UTM), WI 2020",
+	"dc_title_s": "NAIP Color Infrared Aerial Mosaics (UTM), WI 2020",
 	"solr_year_i": 2020,
 	"dc_subject_sm": [
 		"Imagery and Base Maps"
@@ -15,11 +15,11 @@
 	],
 	"layer_id_s": "",
 	"dc_type_s": "Dataset",
-	"dc_identifier_s": "1bf4cec0-d06b-11eb-b8bc-0242ac130003",
+	"dc_identifier_s": "b2c26e5d-64b9-4cbc-8fea-2ec43ba0bdca",
 	"dct_provenance_s": "WisconsinView",
-	"layer_slug_s": "1bf4cec0-d06b-11eb-b8bc-0242ac130003",
-	"dc_format_s": "GeoTIFF",
-	"dct_references_s": "{\"http://schema.org/url\":\"https://naip-usdaonline.hub.arcgis.com/\",\"https://openindexmaps.org\":\"https://web.s3.wisc.edu/rml-gisdata/indexes/WI_NAIP_2020_Tiles_UTM.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_NAIP_2020.xml\"}",
+	"layer_slug_s": "b2c26e5d-64b9-4cbc-8fea-2ec43ba0bdca",
+	"dc_format_s": "MrSID",
+	"dct_references_s": "{\"http://schema.org/url\":\"https://naip-usdaonline.hub.arcgis.com/\",\"https://openindexmaps.org\":\"https://web.s3.wisc.edu/rml-gisdata/indexes/WI_NAIP_2020_Mosaics_UTM_ir.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_NAIP_2020.xml\"}",
 	"dct_isPartOf_sm": [
 		"Aerial Imagery",
 		"Statewide"
@@ -30,7 +30,7 @@
 	"solr_geom": "ENVELOPE(-93.026493, -86.599174, 47.154595, 42.320983)",
 	"dc_rights_s": "Public",
 	"dc_language_s": "English",
-	"uw_notice_s": "The map below represents the boundaries of each NAIP GeoTIFF image.  Click on the index map for more information.",
-	"uw_supplemental_s": "",
-	"layer_modified_dt": "2024-01-18T19:30:24Z"
+	"uw_notice_s": "The map below represents the boundaries of each county mosaic in MrSID format.  Click on the index map for more information.",
+	"uw_supplemental_s": "The 2020 NAIP imagery is also available as natural color mosaics referenced to the Universal Transverse Mercator (UTM) coordinate system, and as natural color mosaics referenced to the Wisconsin Transverse Mercator (WTM) coordinate system.",
+	"layer_modified_dt": "2025-12-05T15:30:00Z"
 }

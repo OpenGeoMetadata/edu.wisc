@@ -20,7 +20,7 @@
 "dct_issued_s": "",
 "dct_temporal_sm": ["2020"],
 "solr_year_i": 2020,
-"dct_references_s": "{\"http://schema.org/url\":\"https://piercecounty-wi.maps.arcgis.com/home/index.html\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/imagery/counties/pierce/2020/Tile_Index.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/Pierce_Aerial_Imagery_2020.xml\"}",
+"dct_references_s": "{\"http://schema.org/url\":\"https://piercecounty-wi.maps.arcgis.com/home/index.html\",\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/wsco-wisconsinview/imagery/counties/WI/Pierce/2020/Tile_Index.zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/Pierce_Aerial_Imagery_2020.xml\"}",
 "solr_geom": "ENVELOPE(-92.808388, -92.124647, 44.875526, 44.525349)",
 "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.",
 "uw_notice_s": ""
