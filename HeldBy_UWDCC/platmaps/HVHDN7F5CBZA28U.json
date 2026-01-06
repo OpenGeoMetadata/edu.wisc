@@ -1,0 +1,30 @@
+{
+	"geoblacklight_version": "1.0",
+	"dc_identifier_s": "HVHDN7F5CBZA28U",
+	"dc_title_s": "Original Public Land Survey System Map: Wisconsin Township 34 North, Range 09 East",
+	"dc_description_s": "The field notes and plat maps of the public land survey of Wisconsin are a valuable resource for original land survey information, as well as for understanding Wisconsin's landscape history. The survey of Wisconsin was conducted between 1832 and 1866 by the federal General Land Office. This work established the township, range and section grid; the pattern upon which land ownership and land use is based. The survey records were transferred to the Wisconsin Board of Commissioners of Public Lands (BCPL) after the original survey was completed. Since that time, these records have been available for consultation at the BCPL's office in Madison, as hand-transcriptions, and more recently on microfilm. Now, they are being made available via the internet as electronic images.",
+	"dc_rights_s": "Public",
+	"dct_provenance_s": "UW Digital Collections Center",
+	"layer_slug_s": "HVHDN7F5CBZA28U",
+	"layer_geom_type_s": "Image",
+	"dc_format_s": "TIFF",
+	"dc_language_s": "English",
+	"dct_isPartOf_sm": [
+		"Wisconsin Public Land Survey Records"
+	],
+	"dc_creator_sm": [
+		"United States General Land Office"
+	],
+	"dc_subject_sm": [
+		"Planning and Cadastral"
+	],
+	"dct_temporal_sm": [
+		"1832-1866"
+	],
+	"solr_year_i": 1832,
+	"layer_modified_dt": "2025-12-29T17:24:34Z",
+	"solr_geom": "ENVELOPE(-89.42521, -89.29960, 45.47007, 45.37967)",
+	"uw_supplemental_s": "The original historic plat maps for Wisconsin were created between 1832 and 1866. In most cases, the UW Digital Collections Center does not record a specific creation date for the original maps. However, the collection also contains maps which correct previous editions. These more modern maps typically have a specific date or year defined.\n\nTo view the survey notes associated with this plat map, please visit https://digicoll.library.wisc.edu/cgi-bin/SurveyNotes/SurveyNotes-idx?type=PLSS&town=T034N&range=R009E",
+	"uw_notice_s": "",
+	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://search.library.wisc.edu/digital/AO2MFCFDU6SVUX8J/datastream/AHVHDN7F5CBZA28U\",\"http://schema.org/url\":\"https://search.library.wisc.edu/digital/AO2MFCFDU6SVUX8J/AHVHDN7F5CBZA28U\",\"http://iiif.io/api/image\":\"https://asset.library.wisc.edu/iiif/1711.dl%2FHVHDN7F5CBZA28U/info.json\"}"
+}
