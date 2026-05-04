@@ -14,7 +14,7 @@
     "dc_creator_sm": ["Wisconsin Regional Orthoimagery Consortium"],
     "dc_type_s": "Dataset",
     "dc_subject_sm": ["Imagery and Base Maps"],
-    "dct_spatial_sm": [""],
+	"dct_spatial_sm": ["Adams", "Ashland", "Barron", "Bayfield", "Buffalo", "Burnett", "Chippewa",  "Columbia", "Crawford", "Florence", "Fond du Lac", "Forest", "Grant", "Iowa", "Iron", "Jackson", "Juneau", "Kewaunee", "La Crosse", "Lafayette", "Langlade", "Lincoln", "Marathon", "Marinette", "Marquette", "Menominee", "Monroe", "Oneida", "Polk", "Portage", "Richland", "St. Croix",  "Sawyer", "Taylor", "Trempealeau", "Vernon", "Vilas", "Waupaca", "Waushara", "Winnebago", "Wood"],
     "dct_temporal_sm": ["2014-2015"],
     "solr_geom": "ENVELOPE(-93.026493, -86.599174, 47.154595, 42.320983)",
     "solr_year_i": 2015,

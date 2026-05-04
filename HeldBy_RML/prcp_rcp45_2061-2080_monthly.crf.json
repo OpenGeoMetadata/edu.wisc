@@ -1,7 +1,7 @@
 {
 "geoblacklight_version": "1.0",
 "dc_identifier_s": "8B4C9A60-0B5D-48D2-BF7A-2DE536424A58",
-"dc_title_s": "Modeled Monthly Precipitation Metrics (RCP 4.5), Wisconsin 2061-2080",
+"dc_title_s": "Modeled Monthly Precipitation Metrics (RCP 4.5), Wisconsin 2061-2080 (2023 release)",
 "dc_description_s": "This raster dataset contains a simplified version of the probabilistic downscaled climate modeling data produced by the Wisconsin Initiative on Climate Change Impacts' (WICCI) Climate Working Group. This dataset contains several precipitation metrics averaged by month across a 20-year period from 2061-2080 for the Representative Concentration Pathway (RCP) 4.5 model. These metrics include average total monthly precipitation and inter-model standard deviation for total monthly precipitation precipitation. In addition, the data includes the estimated number of days per month that meet commonly used thresholds: the days where the precipitation exceeds 1, 2, or 3 inches and days with no precipitation. The spatial resolution of the data is 0.1 x 0.1 degrees (approximately 6x6 miles on the ground). More details about the original data this is derived from can be found at https://registry.opendata.aws/noaa-uwpd-cmip5/ and the WICCI's two climate assessment reports from 2011 and 2021 (available at https://wicci.wisc.edu/). The python code used to produce this simplified version is available at https://github.com/TheGeographer/DownscaledClimateData. A how-to video on using this data is available from GeoData@Wisconsin: https://geodata.wisc.edu/pages/videos.",
 "dc_rights_s": "Public",
 "dct_provenance_s": "UW-Madison Robinson Map Library",
