@@ -19,7 +19,7 @@
 	"solr_geom": "ENVELOPE(-93.026493, -86.599174, 47.154595, 42.320983)",
 	"solr_year_i": 2025,
 	"uw_notice_s": "The map below represents the boundaries of each WROC county mosaic image. Click on the index map for more information.",
-	"uw_supplemental_s": "Imagery from WROC was acquired across three years.  While the majority of imagery was acquired in the spring of 2025, users should be aware these mosaics may be comprised of imagery from spring 2023 and spring 2024. Counties flown in 2023: Ashland, Brown, Clark, Crawford, Dodge, Dunn, Eau Claire, Jackson, La Crosse, Lafayette, Manitowoc, Trempealeau.  Counties flown in 2024: Barron, Buffalo, Calumet, Dane, Grant, Iowa, Lincoln, Monroe, Oneida, Ozaukee,Pepin, Racine, Rock, Rusk, Shawano, Walworth, Washburn, Washington, Waukesha.",
+	"uw_supplemental_s": "Imagery from WROC was acquired across three years.  While the majority of imagery was acquired in the spring of 2025, users should be aware these mosaics may also be comprised of imagery from spring 2023 and spring 2024. Counties flown in 2023: Ashland, Brown, Clark, Crawford, Dodge, Dunn, Eau Claire, Jackson, La Crosse, Lafayette, Manitowoc, Trempealeau.  Counties flown in 2024: Barron, Buffalo, Calumet, Dane, Grant, Iowa, Lincoln, Monroe, Oneida, Ozaukee,Pepin, Racine, Rock, Rusk, Shawano, Walworth, Washburn, Washington, Waukesha. Note: many islands of the Apostle Islands National Lakeshore were not flown as part of the 2023-2025 WROC project.",
 	"dct_references_s": "{\"http://schema.org/url\":\"https://www.ncwrpc.org/wisconsin-regional-orthoimagery-consortium-wroc/\",\"https://openindexmaps.org\":\"https://web.s3.wisc.edu/rml-gisdata/indexes/WI_WROC_2023-2025_Mosaics_WTM.geojson\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_WROC_2023_25.xml\"}",
-    "layer_modified_dt": "2026-04-20T02:31:13Z"
+    "layer_modified_dt": "2026-05-06T02:31:13Z"
 }
