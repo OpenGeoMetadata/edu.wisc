@@ -1,1 +1,27 @@
-{"geoblacklight_version": "1.0", "dc_identifier_s": "A388FE90-63EE-4C0E-A71E-7DCB64CE9767", "dc_title_s": "WROC Imagery DOQQ Tile Index, Wisconsin 2018-2020", "dc_description_s": "This polygon data layer represents the digital orthophoto quarter quad (DOQQ) tile index for the 2018-2020 Wisconsin Regional Orthophoto Consortium (WROC) orthophotos. The tile index is designed to help determine appropriate images covering a specific area of interest.", "dc_rights_s": "Public", "dct_provenance_s": "UW-Madison Robinson Map Library", "layer_id_s": "", "layer_slug_s": "A388FE90-63EE-4C0E-A71E-7DCB64CE9767", "layer_geom_type_s": "Polygon", "dc_format_s": "Shapefile", "dc_language_s": "English", "dct_isPartOf_sm": ["Aerial Imagery", "Statewide"], "dc_creator_sm": ["Wisconsin Regional Orthoimagery Consortium"], "dc_publisher_sm": "", "dc_type_s": "Dataset", "dc_subject_sm": ["Imagery and Base Maps", "Boundaries"], "dct_spatial_sm": [], "dct_issued_s": "", "dct_temporal_sm": ["2018-2020"], "solr_year_i": 2020, "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_WROC_DOQQ_2018_2020_Tile_Index.zip\",\"http://schema.org/url\":\"https://www.ncwrpc.org/wisconsin-regional-orthoimagery-consortium-wroc/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_WROC_DOQQ_2018_2020_Tile_Index.xml\"}", "solr_geom": "ENVELOPE(-93.021046, -86.647086, 47.127905, 42.395931)", "uw_supplemental_s": "This is an archived copy of the data held at UW-Madison.", "uw_notice_s": "", "layer_modified_dt": "2024-01-18T02:31:00Z"}
+{
+"geoblacklight_version": "1.0",
+"dc_identifier_s": "A388FE90-63EE-4C0E-A71E-7DCB64CE9767",
+"dc_title_s": "WROC Imagery DOQQ Tile Index, Wisconsin 2018-2020",
+"dc_description_s": "This polygon data layer represents the digital orthophoto quarter quadrangle (DOQQ) tile index for the 2018-2020 statewide Wisconsin Regional Orthophoto Consortium (WROC) digital orthophotos. The tile index is designed to help locate appropriate images covering a specific area of interest. Staff from the Robinson Map Library (RML) and Wisconsin State Cartographer's Office (SCO) at the University of Wisconsin-Madison created this index based on information supplied by Ayres Associates, the contractor selected by WROC for the 2018-2020 project. WROC flights were conducted during leaf-off conditions in the springs of 2018, 2019, and 2020. As a result, some DOQQ images will reflect ground conditions than span up to three years. To help users identify the time period covered in each DOQQ, UW staff supplemented the original Ayres Associates' tile index by intersecting DOQQ polygons with flight date polygons provided by Ayres. Each DOQQ record in the index identifies the earliest known acquisition date in the field 'date_start', and the latest known acquisition date in the field 'date_end.' In situations where the acquisition spans more than a single date, filenames include the start and end dates in the format YYYY-MM-DD (e.g., Bayfield_WI_WROC_Ashland_West_SW_20200502_20200507.tif). When the entire footprint of the DOQQ was flown on a single date, only one date is included in the filename. (e.g., Ashland_WI_WROC_Amnicon_Point_NW_20200430.tif ). In addition, the DOQQ index created by UW contains online linkages to GeoTIFF and JPEG images held in the WisconsinView Data Archive at UW-Madison. For convenience, tiff_path and jpeg_path can be used (and modified as needed) to reference the imagery when it is copied to a local filesystem (e.g., M: staging WROC WROC_2020 Vernon_WI_WROC_Dell_SE_20200330.tif)",
+"dc_rights_s": "Public",
+"dct_provenance_s": "UW-Madison Robinson Map Library",
+"layer_id_s": "",
+"layer_slug_s": "A388FE90-63EE-4C0E-A71E-7DCB64CE9767",
+"layer_geom_type_s": "Polygon",
+"layer_modified_dt": "2026-05-19T16:58:02Z",
+"dc_format_s": "Shapefile",
+"dc_language_s": "English",
+"dct_isPartOf_sm": ["Statewide","Aerial Imagery"],
+"dc_creator_sm": ["Wisconsin State Cartographer's Office"],
+"dc_publisher_sm": "",
+"dc_type_s": "Dataset",
+"dc_subject_sm": ["Imagery and Base Maps"],
+"dct_spatial_sm": [],
+"dct_issued_s": "",
+"dct_temporal_sm": ["2018-2020"],
+"solr_year_i": 2020,
+"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://web.s3.wisc.edu/rml-gisdata/WI_WROC_DOQQ_2018-2020_Tile_Index.zip\",\"http://schema.org/url\":\"https://www.ncwrpc.org/wisconsin-regional-orthoimagery-consortium-wroc/\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://web.s3.wisc.edu/rml-gisdata/metadata/WI_WROC_DOQQ_2018-2020_Tile_Index.xml\"}",
+"solr_geom": "ENVELOPE(-93.021046, -86.647086, 47.127905, 42.395931)",
+"uw_supplemental_s": "This is an archived dataset at UW-Madison.",
+"uw_notice_s": ""
+}
