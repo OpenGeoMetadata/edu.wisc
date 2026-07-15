@@ -1,8 +1,8 @@
 {
  "geoblacklight_version": "1.0",
  "dc_identifier_s": "dcf3f0e0-387c-4b35-9b2c-65fc663402ef",
- "dc_title_s": "LiDAR-Derived Tiled Bare Earth DEM for Milwaukee County and the Milwaukee Metropolitan Sewerage District (MMSD), WI 2021",
- "dc_description_s": "This data represents LiDAR-derived tiled bare earth digital elevation model (DEM) for the Milwaukee Metropolitan Sewerage District (MMSD), Wisconsin in 2021. A DEM represents the bare earth surface, removing all natural and built features. ",
+ "dc_title_s": "LiDAR-Derived Tiled Hydro-Enforced DEM for Milwaukee County and the Milwaukee Metropolitan Sewerage District (MMSD), WI 2021",
+ "dc_description_s": "This data represents LiDAR-derived tiled hydro-enforced digital elevation model (DEM) for the Milwaukee Metropolitan Sewerage District (MMSD), Wisconsin in 2021.",
  "dc_rights_s": "Public",
  "dct_provenance_s": "WisconsinView",
  "layer_id_s": "",
