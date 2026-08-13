@@ -22,9 +22,9 @@
 		"1937"
 	],
 	"solr_year_i": 1937,
-	"layer_modified_dt": "2025-12-29T17:24:36Z",
+	"layer_modified_dt": "2026-08-13T18:33:56Z",
 	"solr_geom": "ENVELOPE(-90.29054, -90.16635, 45.98201, 45.89555)",
-	"uw_supplemental_s": "The original historic plat maps for Wisconsin were created between 1832 and 1866. In most cases, the UW Digital Collections Center does not record a specific creation date for the original maps. However, the collection also contains maps which correct previous editions. These more modern maps typically have a specific date or year defined.\n\nTo view the survey notes associated with this plat map, please visit https://digicoll.library.wisc.edu/cgi-bin/SurveyNotes/SurveyNotes-idx?type=PLSS&town=T040N&range=R002E",
+	"uw_supplemental_s": "The original historic plat maps for Wisconsin were created between 1832 and 1866. In most cases, the UW Digital Collections Center does not record a specific creation date for the original maps. However, the collection also contains maps which correct previous editions. These more modern maps typically have a specific date or year defined. \n\nTo view the survey notes associated with this plat map, please visit   https://search.library.wisc.edu/search/digital?filter%5Bfacets%5D%5Bgeo_topics_facet~Township+T40NR02E%2C+4th+Meridian%5D=yes",
 	"uw_notice_s": "",
 	"dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://search.library.wisc.edu/digital/APJRBGOYWDQZZN9C/datastream/AEONQH5FC7RCAQ8B\",\"http://schema.org/url\":\"https://search.library.wisc.edu/digital/APJRBGOYWDQZZN9C/AEONQH5FC7RCAQ8B\",\"http://iiif.io/api/image\":\"https://asset.library.wisc.edu/iiif/1711.dl%2FEONQH5FC7RCAQ8B/info.json\"}"
 }
